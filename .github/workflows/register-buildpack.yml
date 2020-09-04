@@ -1,0 +1,150 @@
+name: Register Buildpack
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  register:
+    env:
+      GH_REG_OWNER: buildpacks
+      GH_REG_INDEX_REPO: registry-index
+      GH_REG_NAMESPACE_REPO: registry-namespaces
+      SCRIPTS_PATH: .github/workflows/scripts/register_buildpack
+      VERSION: v1
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install Node Dependencies
+        working-directory: ${{env.SCRIPTS_PATH}}
+        shell: bash
+        run: |
+          npm install
+      - id: detect_validate
+        name: Validate Buildpack Issue
+        uses: actions/github-script@v2
+        with:
+          result-encoding: string
+          script: |
+            const path = require('path')
+            const scripts = require(path.resolve(`${process.env.SCRIPTS_PATH}/index.js`))
+            let result
+            try {
+              result = scripts.validateIssue({context})
+            } catch (error) {
+              console.error(error)
+              process.exit(1)
+            }
+            console.log(`::set-env name=BUILDPACK::${JSON.stringify(result)}`)
+
+      - uses: actions/github-script@v2
+        name: Retrieve Owners
+        with:
+          github-token: ${{ secrets.BOT_TOKEN }}
+          script: |
+            const path = require('path')
+            const scripts = require(path.resolve(`${process.env.SCRIPTS_PATH}/index.js`))
+            let registryOwners
+            try {
+              registryOwners = await scripts.retrieveOwners(
+                {github, context},
+                JSON.parse(process.env.BUILDPACK),
+                process.env.GH_REG_OWNER,
+                process.env.GH_REG_NAMESPACE_REPO,
+                process.env.VERSION
+              )
+            } catch (error) {
+              console.error(error)
+              process.exit(1)
+            }
+            console.log(`::set-env name=REGISTRY_OWNERS::${registryOwners.replace(/\r?\n|\r/g, " ")}`)
+
+      - uses: actions/github-script@v2
+        name: Authenticate
+        with:
+          github-token: ${{ secrets.BOT_TOKEN }}
+          script: |
+            const path = require('path')
+            const scripts = require(path.resolve(`${process.env.SCRIPTS_PATH}/index.js`))
+            try {
+              const owners = JSON.parse(process.env.REGISTRY_OWNERS).owners
+              const authorized = await scripts.isAuthorized({github, context}, owners)
+              if (!authorized) {
+                console.error('user is NOT authorized to register buildpack')
+                process.exit(1)
+              }
+            } catch (error) {
+              console.error(error)
+              process.exit(1)
+            }
+
+      - uses: actions/github-script@v2
+        name: Update Registry Index
+        with:
+          github-token: ${{ secrets.BOT_TOKEN }}
+          script: |
+            const path = require('path')
+            const scripts = require(path.resolve(`${process.env.SCRIPTS_PATH}/index.js`))
+            let registryOwners
+            try {
+              await scripts.indexRegistryForBuildpack(
+                {github, context},
+                JSON.parse(process.env.BUILDPACK),
+                process.env.GH_REG_OWNER,
+                process.env.GH_REG_INDEX_REPO
+              )
+            } catch (error) {
+              console.error(error)
+              process.exit(1)
+            }
+
+      - uses: actions/github-script@v2
+        name: Close Issue on Success
+        with:
+          github-token: ${{ secrets.BOT_TOKEN }}
+          script: |
+            const path = require('path')
+            const scripts = require(path.resolve(`${process.env.SCRIPTS_PATH}/index.js`))
+            try {
+              await scripts.closeIssue(
+                {github, context},
+                process.env.GH_REG_OWNER,
+                process.env.GH_REG_INDEX_REPO,
+                ['succeeded'],
+              )
+            }
+            catch (error) {
+              console.error(error)
+              process.exit(1)
+            }
+
+      - uses: actions/github-script@v2
+        name: Close Issue on Failure
+        env:
+          GH_ACTION_RUN_ID: ${{ github.run_id }}
+        if: ${{ failure() }}
+        with:
+          github-token: ${{ secrets.BOT_TOKEN }}
+          script: |
+            const path = require('path')
+            const scripts = require(path.resolve(`${process.env.SCRIPTS_PATH}/index.js`))
+            const actionURL = `https://github.com/${process.env.GH_REG_OWNER}/${process.env.GH_REG_INDEX_REPO}/actions/runs/${process.env.GH_ACTION_RUN_ID}`
+            const comment = `
+            🔴 Failed to automatically register the buildpack. For more details, see [here](${actionURL})
+
+            🔃 If you feel this was in error, you may try again by creating a new issue.
+
+            📬 If the problem persists or need assistance, you may comment on this issue or contact the maintainers via email at \`cncf-buildpacks-maintainers@lists.cncf.io\``
+            try {
+              await scripts.closeIssue(
+                {github, context},
+                process.env.GH_REG_OWNER,
+                process.env.GH_REG_INDEX_REPO,
+                ['failed'],
+                comment
+              )
+            }
+            catch (error) {
+              console.error(error)
+              process.exit(1)
+            }
