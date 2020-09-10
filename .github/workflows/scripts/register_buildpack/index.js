@@ -108,7 +108,7 @@ async function retrieveOwners({github, context}, buildpackInfo, owner, repo, ver
             const buff = Buffer.from(JSON.stringify(content), 'utf-8');
             registryOwners = buff.toString('utf-8')
 
-            await github.repos.createOrUpdateFile({
+            await github.repos.createOrUpdateFileContents({
                 owner,
                 repo,
                 path: `${version}/${buildpackInfo.ns}.json`,

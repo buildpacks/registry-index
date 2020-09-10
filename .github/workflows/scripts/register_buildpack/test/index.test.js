@@ -163,10 +163,10 @@ describe('index', function () {
 
         it('should create the owners json file when missing', async () => {
             const getContentStub = sandbox.stub().throws({status: 404})
-            const createOrUpdateFileStub = sandbox.stub()
+            const createOrUpdateFileContentsStub = sandbox.stub()
 
             octokit.repos.getContent = getContentStub
-            octokit.repos.createOrUpdateFile = createOrUpdateFileStub
+            octokit.repos.createOrUpdateFileContents = createOrUpdateFileContentsStub
 
             const result = await Registry.retrieveOwners(
                 {github: octokit, context: issueContext},
@@ -178,8 +178,8 @@ describe('index', function () {
 
             expect(getContentStub.callCount).to.equal(1)
             expect(getContentStub.firstCall.args[0]).to.deep.equal(expectedGetContentArgs)
-            expect(createOrUpdateFileStub.callCount).to.equal(1)
-            expect(createOrUpdateFileStub.firstCall.args[0]).to.deep.equal(expectedCreateOrUpdateFileArgs)
+            expect(createOrUpdateFileContentsStub.callCount).to.equal(1)
+            expect(createOrUpdateFileContentsStub.firstCall.args[0]).to.deep.equal(expectedCreateOrUpdateFileArgs)
             expect(result).to.equal('{"owners":[{"id":11111,"type":"github_user"}]}')
         })
 
