@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"java-azure","version":"1.1.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/java-azure@sha256:7ebdcbb04ec279329e25d6adccc1afd86cc02194ab2bae511a04ffadf885865b"}
+{"ns":"paketo-buildpacks","name":"java-azure","version":"1.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/java-azure@sha256:3df5fe5dbab3fb17202e7e3c5de6545d06a64eb1b5a4168e5971f51295ae2c3a"}
