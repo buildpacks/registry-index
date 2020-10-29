@@ -26,3 +26,4 @@
 {"ns":"paketo-buildpacks","name":"amazon-corretto","version":"1.9.2","yanked":false,"addr":"gcr.io/paketo-buildpacks/amazon-corretto@sha256:37ec0e07056376751070a852af14f863b04a3f7c5521793afc862848a7b6375f"}
 {"ns":"paketo-buildpacks","name":"amazon-corretto","version":"2.1.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/amazon-corretto@sha256:f14c8cd4258cb80a1e83c086790e180c7f60ed40b668e175f353f1d64dde30e2"}
 {"ns":"paketo-buildpacks","name":"amazon-corretto","version":"2.2.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/amazon-corretto@sha256:fbd65b513ab612a5ac31a80e6bd311774a402d2b05634439ddf6617157e4a5df"}
+{"ns":"paketo-buildpacks","name":"amazon-corretto","version":"2.2.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/amazon-corretto@sha256:61cbc8609ee7ed697c5281e75fd39177a70ea4b1481c6a95cac0b81bcb55fab6"}
