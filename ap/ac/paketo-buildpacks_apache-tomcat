@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"apache-tomcat","version":"1.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/apache-tomcat@sha256:bd6ee10de9b27af0dc435032a37410e591e3e334ae4b55cbb552b0127dc2197c"}
+{"ns":"paketo-buildpacks","name":"apache-tomcat","version":"1.0.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/apache-tomcat@sha256:edeac3382451d24fdc0e7969bacd97ef484e6f382931056b04edb1139dae42fc"}
