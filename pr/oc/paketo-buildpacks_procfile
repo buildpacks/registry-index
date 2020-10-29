@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"procfile","version":"1.1.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/procfile@sha256:9c10ccf7df34e8e1d5d3823141e41e89ae3314bb606b1b621574e83dcc571873"}
+{"ns":"paketo-buildpacks","name":"procfile","version":"1.2.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/procfile@sha256:130afdd3265e2703328b150b1e7dda21eeae152007dc2f447681867d65c8ab35"}
