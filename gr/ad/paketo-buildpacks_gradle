@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"gradle","version":"1.1.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/gradle@sha256:645511c70aa9c1b4897a54a70cc83d58d1b3eacad74e4693366892757d0659e3"}
+{"ns":"paketo-buildpacks","name":"gradle","version":"1.1.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/gradle@sha256:ca33166466e3f0a0391064e5f760614a5e5b05edd00c486a678ef9020e080123"}
