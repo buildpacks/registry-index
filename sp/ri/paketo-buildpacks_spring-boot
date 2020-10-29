@@ -1,0 +1,1 @@
+{"ns":"paketo-buildpacks","name":"spring-boot","version":"1.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/spring-boot@sha256:bc944ad37f65131028b7a45b091bdc07fb689c6a48bb37c1a46d43002344a0ae"}
