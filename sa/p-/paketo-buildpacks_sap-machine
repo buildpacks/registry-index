@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"sap-machine","version":"1.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/sap-machine@sha256:a292facc151d12a6be85aee355285717bbfbf366ed1268142a03fb8c8a3988a8"}
+{"ns":"paketo-buildpacks","name":"sap-machine","version":"1.1.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/sap-machine@sha256:6dfe952f57375015eebedd7dc4041abd531b0e52d28f154919e13b845aaba694"}
