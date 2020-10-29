@@ -1,0 +1,1 @@
+{"ns":"paketo-buildpacks","name":"amazon-corretto","version":"1.1.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/amazon-corretto@sha256:c60290032c350b5f7124388ba7e99ffb0175dfda302f8920069c0871593b0cca"}
