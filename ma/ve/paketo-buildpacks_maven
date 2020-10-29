@@ -1,0 +1,1 @@
+{"ns":"paketo-buildpacks","name":"maven","version":"1.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/maven@sha256:0216d91bdcd02e21413258f4e83ffcda4eb026a1f0a80efcad966e06dcc7ec64"}
