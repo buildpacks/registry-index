@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"sbt","version":"1.1.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/sbt@sha256:218f290230b757ff63b9f47c0f5bb9658a9f4b5448d496adbd4c13f1d54125b3"}
+{"ns":"paketo-buildpacks","name":"sbt","version":"1.1.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/sbt@sha256:ec53c42b6036dd6205c3f2e3e24ee15e3a96d99b1b43eac033774bac7516db6f"}
