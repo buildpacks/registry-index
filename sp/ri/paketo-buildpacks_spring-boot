@@ -7,3 +7,4 @@
 {"ns":"paketo-buildpacks","name":"spring-boot","version":"1.4.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/spring-boot@sha256:38eed3d7cc3f8cb35064e5b327e7596f413b578bb23e11a409513616dd146d47"}
 {"ns":"paketo-buildpacks","name":"spring-boot","version":"1.5.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/spring-boot@sha256:a6807aa176b8a6cee4c59aeb49471f674f514387a739a670a11b9df33d1658d3"}
 {"ns":"paketo-buildpacks","name":"spring-boot","version":"1.5.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/spring-boot@sha256:9cdcc1fa3d87b59c8522442d47e6b85aafcbf525df856a9776f0f3def1a1807c"}
+{"ns":"paketo-buildpacks","name":"spring-boot","version":"1.5.4","yanked":false,"addr":"gcr.io/paketo-buildpacks/spring-boot@sha256:31a5f39ba5fe2e4a2e2109bcece0fb7cd1cdf735c78f825bb183efc9110cb4a8"}
