@@ -6,3 +6,4 @@
 {"ns":"paketo-buildpacks","name":"eclipse-openj9","version":"2.11.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/eclipse-openj9@sha256:15eeb83b1a857f1cc996b726c416719ad0525c436cdf915f62a302364f9781e5"}
 {"ns":"paketo-buildpacks","name":"eclipse-openj9","version":"2.11.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/eclipse-openj9@sha256:3b0d4670f8fbae3673796bd4f7897c9b63193e6e57d1fbb8c013991a29722b90"}
 {"ns":"paketo-buildpacks","name":"eclipse-openj9","version":"2.11.2","yanked":false,"addr":"gcr.io/paketo-buildpacks/eclipse-openj9@sha256:ddaf476f4faaaffdbe03bc806245dc2b908ae2eb20f1b251a5c96df39581e1b6"}
+{"ns":"paketo-buildpacks","name":"eclipse-openj9","version":"2.12.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/eclipse-openj9@sha256:2cb5463da618ad626eb5a244a2b239e744debce1dffa27e8867d2df1cef9f168"}
