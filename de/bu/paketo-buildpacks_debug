@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"debug","version":"1.1.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/debug@sha256:be8dacd1f45847e587bd650db16d0fe3893bb2918b85d8103fc76d43356208f7"}
+{"ns":"paketo-buildpacks","name":"debug","version":"1.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/debug@sha256:e86902f73559d66f938e8b21fff68d9ddc325eced1b96bd1c599e43be0134f06"}
