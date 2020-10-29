@@ -1,2 +1,3 @@
 {"ns":"paketo-buildpacks","name":"amazon-corretto","version":"1.1.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/amazon-corretto@sha256:c60290032c350b5f7124388ba7e99ffb0175dfda302f8920069c0871593b0cca"}
 {"ns":"paketo-buildpacks","name":"amazon-corretto","version":"1.1.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/amazon-corretto@sha256:95e3d0249b7a3bb5b33bcb9b73e4bfd3cba18c80f3aa5bd638b315e902b5c699"}
+{"ns":"paketo-buildpacks","name":"amazon-corretto","version":"1.10.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/amazon-corretto@sha256:331bc8ae434a1fccbc2716e6977242d396be934a8dfe57f141fccb08ea2c3a75"}
