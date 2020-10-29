@@ -3,3 +3,4 @@
 {"ns":"paketo-buildpacks","name":"gradle","version":"1.1.2","yanked":false,"addr":"gcr.io/paketo-buildpacks/gradle@sha256:5fb9a6c8bcf7786394c18124cf40c5ece50f0f98982520d217c59981f0801e45"}
 {"ns":"paketo-buildpacks","name":"gradle","version":"1.1.3","yanked":false,"addr":"gcr.io/paketo-buildpacks/gradle@sha256:5f2032147a2084de1879ca47f3d65c872e6aa55d53144ac592c8a1b951b36b92"}
 {"ns":"paketo-buildpacks","name":"gradle","version":"1.2.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/gradle@sha256:deb5aee62ae29c29a88bb80d8bc9fd74b60b26847cb0932484cb849d3670e425"}
+{"ns":"paketo-buildpacks","name":"gradle","version":"1.2.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/gradle@sha256:89cb840d26561dc57f69b24d475b6226fec2e3aede20dbef9b07d89da9abf033"}
