@@ -15,3 +15,4 @@
 {"ns":"paketo-buildpacks","name":"debug","version":"2.1.2","yanked":false,"addr":"gcr.io/paketo-buildpacks/debug@sha256:5f860e336c12cc9a08075856691a9632b2d67fecf0260829ef01ddd7562c2909"}
 {"ns":"paketo-buildpacks","name":"debug","version":"2.1.3","yanked":false,"addr":"gcr.io/paketo-buildpacks/debug@sha256:d81f5b023f727ad4b94cd5ec1a2f0b0c959733cf7f22108344373f7a67f107e5"}
 {"ns":"paketo-buildpacks","name":"debug","version":"2.1.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/debug@sha256:1538d1d97ec90db8427c4b46c67ca8283be2921a0deaae3d395861675ffdf482"}
+{"ns":"paketo-buildpacks","name":"debug","version":"1.2.7","yanked":false,"addr":"gcr.io/paketo-buildpacks/debug@sha256:1b8211fa5bb51c828a02240894a52f59555867f4d377a8a574286bf6f526fa49"}
