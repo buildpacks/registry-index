@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"azure-application-insights","version":"1.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/azure-application-insights@sha256:d1b746bfa01fc58026b805dfdbe70e055df77121600bf007469188bf264f9733"}
+{"ns":"paketo-buildpacks","name":"azure-application-insights","version":"1.0.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/azure-application-insights@sha256:b0605ecea5e8dec310e427de7da41f7871c10c757b034bc2d422656aa5d48ad9"}
