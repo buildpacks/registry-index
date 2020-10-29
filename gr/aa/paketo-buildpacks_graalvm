@@ -1,0 +1,1 @@
+{"ns":"paketo-buildpacks","name":"graalvm","version":"1.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/graalvm@sha256:24bd052823703ebe5ec6d289e32655e64580824b0349cad01cee05c0f36c044f"}
