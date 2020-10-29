@@ -8,3 +8,4 @@
 {"ns":"paketo-buildpacks","name":"maven","version":"1.4.2","yanked":false,"addr":"gcr.io/paketo-buildpacks/maven@sha256:28ad880193e3931e0723a3b38c65d27711ef342997fed9b77d656ed55fcf023d"}
 {"ns":"paketo-buildpacks","name":"maven","version":"1.4.3","yanked":false,"addr":"gcr.io/paketo-buildpacks/maven@sha256:dae196f9b4def40fa2c176d1737e8793e191d8f1cff22fc692969a627a58d9c4"}
 {"ns":"paketo-buildpacks","name":"maven","version":"1.4.4","yanked":false,"addr":"gcr.io/paketo-buildpacks/maven@sha256:feee01c5602c874f848658901a2c81fa86896e60a2cd1a24264212d772d7f5d5"}
+{"ns":"paketo-buildpacks","name":"maven","version":"1.4.5","yanked":false,"addr":"gcr.io/paketo-buildpacks/maven@sha256:55c5ccfcc3eb7dbe8640e28c98ff69a8b1db870417c142ad55bbd08e5c4a42dd"}
