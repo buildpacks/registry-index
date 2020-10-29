@@ -1,0 +1,1 @@
+{"ns":"paketo-buildpacks","name":"java-native-image","version":"1.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/java-native-image@sha256:edabdc414ebc2c992eefad7d52882591596c233ade65976a7c330dce2a4f3c06"}
