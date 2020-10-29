@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"dist-zip","version":"1.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/dist-zip@sha256:fa0e1a1d327ff762d4988ddb8c0a465bfcba0f3547db793d55a53384dacd831c"}
+{"ns":"paketo-buildpacks","name":"dist-zip","version":"1.1.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/dist-zip@sha256:5e9c5d7e613b141ac8b2279798ef5f0d5291ea0ee2529b8965e6066abcaaec92"}
