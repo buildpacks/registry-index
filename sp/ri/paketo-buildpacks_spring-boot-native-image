@@ -1,0 +1,1 @@
+{"ns":"paketo-buildpacks","name":"spring-boot-native-image","version":"1.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/spring-boot-native-image@sha256:c9c1164f3c41e5355f241074ae8471e69c0a08e5074f843007131ef08947f781"}
