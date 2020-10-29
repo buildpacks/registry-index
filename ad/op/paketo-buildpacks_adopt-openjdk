@@ -14,3 +14,4 @@
 {"ns":"paketo-buildpacks","name":"adopt-openjdk","version":"2.4.2","yanked":false,"addr":"gcr.io/paketo-buildpacks/adopt-openjdk@sha256:e1b8848800b4bcbd8d3f057d28004dbe4d34e5959d820b1ff69bacf0e89c8f49"}
 {"ns":"paketo-buildpacks","name":"adopt-openjdk","version":"2.5.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/adopt-openjdk@sha256:018cf39e0ba43f3376ee3a27bd393990094d70299e36a67b9bd57b96862670f0"}
 {"ns":"paketo-buildpacks","name":"adopt-openjdk","version":"2.6.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/adopt-openjdk@sha256:03b7180f3f167c6ff6cc07b5e15e118cf28c732069d426a3bf00ef8eb50a2987"}
+{"ns":"paketo-buildpacks","name":"adopt-openjdk","version":"2.6.3","yanked":false,"addr":"gcr.io/paketo-buildpacks/adopt-openjdk@sha256:a6a9ac1351781c9061009a5bd3cb552f53cfbde98e10c20e895cef014f8d6027"}
