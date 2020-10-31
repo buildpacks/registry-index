@@ -183,6 +183,11 @@ async function indexRegistryForBuildpack({github, context}, buildpackInfo, owner
 
         let buff = new Buffer.from(data.content, 'base64')
         let fileContent = buff.toString('utf-8').trimEnd()
+
+        if (await versionAlreadyExists(fileContent, buildpackInfo)) {
+            throw new Error('duplicate version')
+        }
+
         fileContent = fileContent + "\n" + JSON.stringify(buildpackInfo)
 
         await createOrUpdateFileContents(
@@ -229,10 +234,20 @@ async function closeIssue({github, context}, owner, repo, labels, comment = '') 
     })
 }
 
+async function versionAlreadyExists(existingVersions, buildpackInfo) {
+    return existingVersions.split("\n").some((element, _) => {
+        if (element !== "") {
+            let existingVersion = JSON.parse(element)
+            return existingVersion.version === buildpackInfo.version
+        }
+    })
+}
+
 module.exports = {
     validateIssue,
     retrieveOwners,
     isAuthorized,
     indexRegistryForBuildpack,
-    closeIssue
+    closeIssue,
+    versionAlreadyExists
 }
