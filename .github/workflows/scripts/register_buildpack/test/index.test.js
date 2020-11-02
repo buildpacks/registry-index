@@ -669,6 +669,23 @@ describe('index', function () {
             }
         })
     })
+
+    describe('#versionAlreadyExists', () => {
+        it('should return false if the version does not exist', async () => {
+            let v = await Registry.versionAlreadyExists( '{"version":"0.1.0"}', {"version":"0.2.0"})
+            expect(v).to.be.false
+        })
+
+        it('should return true if the version exists', async () => {
+            let v = await Registry.versionAlreadyExists( '{"version":"0.1.0"}', {"version":"0.1.0"})
+            expect(v).to.be.true
+        })
+
+        it('should return false if there are no existing versions', async () => {
+            let v = await Registry.versionAlreadyExists('', {"version":"0.1.0"})
+            expect(v).to.be.false
+        })
+    })
 });
 
 // HELPER FUNCTIONS
