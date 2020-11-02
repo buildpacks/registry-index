@@ -1,2 +1,3 @@
 {"ns":"heroku","name":"spring-boot","version":"0.2.0","yanked":false,"addr":"ghcr.io/heroku-examples/buildpacks/spring-boot@sha256:091ba6d1297e8e342bc697e04b14f3b32f5344d83f6f9ea77b4072a241b8e1ac"}
 {"ns":"heroku","name":"spring-boot","version":"0.2.1","yanked":false,"addr":"ghcr.io/heroku-examples/buildpacks/spring-boot@sha256:9d506acb67d5fd3ea23d4e2fda20cd796293e46b2a342fa52f8c63b98b3e2c0a"}
+{"ns":"heroku","name":"spring-boot","version":"0.2.2","yanked":false,"addr":"ghcr.io/heroku-examples/buildpacks/heroku_spring-boot@sha256:d5db24e9b2d1b2662e0712089c2934556e15d8280473d9d1bac46c3ef4c9d877"}
