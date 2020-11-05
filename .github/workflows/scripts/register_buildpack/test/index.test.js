@@ -125,6 +125,25 @@ describe('index', function () {
 
             expect(() => Registry.validateIssue({context: badAddrIssueContext})).to.throw('Error: invalid addr')
         })
+
+        it('should throw error if namespace is restricted', () => {
+            const context = {
+                payload: {
+                    sender: {
+                        id: 11111,
+                        login: 'elbandito'
+                    },
+                    issue: {
+                        number: 3117,
+                        title: 'ADD example/java@0.0.0',
+                        body: 'id = "example/java"\n' +
+                            'version = "0.0.0"\n' +
+                            'addr = "gcr.io/heroku/java@sha256:9d88250dfd77dbf5a535f1358c6a05dc2c0d3a22defbdcd72bb8f5e24b84e21d"'
+                    }
+                }
+            }
+            expect(() => Registry.validateIssue({context: context})).to.throw('"example" is a restricted namespace')
+        })
     });
 
     describe('#retrieveOwners', () => {

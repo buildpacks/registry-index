@@ -2,6 +2,26 @@ const Path = require('path');
 const Schema = require('validate')
 const Toml = require('toml')
 
+const restrictedNamespaces = [
+    "example",
+    "examples",
+    "official",
+    "buildpack",
+    "buildpacks",
+    "buildpacksio",
+    "buildpackio",
+    "buildpacks-io",
+    "buildpack-io",
+    "buildpacks.io",
+    "buildpack.io",
+    "pack",
+    "cnb",
+    "cnbs",
+    "cncf",
+    "cncf-cnb",
+    "cncf-cnbs"
+]
+
 const bodySchema = new Schema({
     id: {
         type: String,
@@ -74,13 +94,19 @@ function validateIssue({context}) {
         throw new Error(`${errors}`)
     }
 
-    return {
+    buildpackInfo = {
         ns: tomlData.id.split("/")[0],
         name: tomlData.id.split("/")[1],
         version: tomlData.version,
         yanked: false,
         addr: tomlData.addr
     }
+
+    if (restrictedNamespaces.includes(buildpackInfo.ns)) {
+        throw new Error(`"${buildpackInfo.ns}" is a restricted namespace`)
+    }
+
+    return buildpackInfo
 }
 
 async function retrieveOwners({github, context}, buildpackInfo, owner, repo, version) {
