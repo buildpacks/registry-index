@@ -5,6 +5,8 @@ const Toml = require('toml')
 const restrictedNamespaces = [
     "example",
     "examples",
+    "sample",
+    "samples",
     "official",
     "buildpack",
     "buildpacks",
