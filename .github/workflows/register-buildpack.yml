@@ -40,7 +40,7 @@ jobs:
             console.log(`::set-output name=name::${result.name}`)
             console.log(`::set-output name=version::${result.version}`)
             console.log(`::set-output name=address::${result.addr}`)
-      - uses: docker://ghcr.io/buildpacks/actions/verify-buildpackage
+      - uses: docker://ghcr.io/buildpacks/actions/verify-buildpackage:main
         with:
           id:      ${{ steps.validate.outputs.namespace }}/${{ steps.validate.outputs.name }}
           version: ${{ steps.validate.outputs.version }}
