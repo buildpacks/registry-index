@@ -20,7 +20,7 @@ jobs:
         shell: bash
         run: |
           npm install
-      - id: detect_validate
+      - id: validate
         name: Validate Buildpack Issue
         uses: actions/github-script@v2
         with:
@@ -36,7 +36,15 @@ jobs:
               process.exit(1)
             }
             console.log(`::set-env name=BUILDPACK::${JSON.stringify(result)}`)
-
+            console.log(`::set-output name=namespace::${result.ns}`)
+            console.log(`::set-output name=name::${result.name}`)
+            console.log(`::set-output name=version::${result.version}`)
+            console.log(`::set-output name=address::${result.addr}`)
+      - uses: docker://ghcr.io/buildpacks/actions/verify-buildpackage:main
+        with:
+          id:      ${{ steps.validate.outputs.namespace }}/${{ steps.validate.outputs.name }}
+          version: ${{ steps.validate.outputs.version }}
+          address: ${{ steps.validate.outputs.address }}
       - uses: actions/github-script@v2
         name: Retrieve Owners
         with:
