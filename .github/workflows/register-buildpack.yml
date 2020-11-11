@@ -113,6 +113,8 @@ jobs:
           script: |
             const path = require('path')
             const scripts = require(path.resolve(`${process.env.SCRIPTS_PATH}/index.js`))
+            const comment = `
+            ✅ Successfully registered the buildpack`
             try {
               await scripts.closeIssue(
                 {github, context},
