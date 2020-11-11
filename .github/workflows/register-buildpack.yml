@@ -121,6 +121,7 @@ jobs:
                 process.env.GH_REG_OWNER,
                 process.env.GH_REG_INDEX_REPO,
                 ['succeeded'],
+                comment
               )
             }
             catch (error) {
