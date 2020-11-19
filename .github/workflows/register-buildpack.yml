@@ -35,7 +35,7 @@ jobs:
               console.error(error)
               process.exit(1)
             }
-            console.log(`::set-env name=BUILDPACK::${JSON.stringify(result)}`)
+            console.log(`::set-output name=buildpack::${JSON.stringify(result)}`)
             console.log(`::set-output name=namespace::${result.ns}`)
             console.log(`::set-output name=name::${result.name}`)
             console.log(`::set-output name=version::${result.version}`)
@@ -46,8 +46,10 @@ jobs:
           version: ${{ steps.validate.outputs.version }}
           address: ${{ steps.validate.outputs.address }}
       - uses: actions/github-script@v2
+        id: retrieve
         name: Retrieve Owners
         with:
+          buildpack: ${{ steps.validate.outputs.buildpack }}
           github-token: ${{ secrets.BOT_TOKEN }}
           script: |
             const path = require('path')
@@ -56,7 +58,7 @@ jobs:
             try {
               registryOwners = await scripts.retrieveOwners(
                 {github, context},
-                JSON.parse(process.env.BUILDPACK),
+                JSON.parse(process.env.INPUT_BUILDPACK),
                 process.env.GH_REG_OWNER,
                 process.env.GH_REG_NAMESPACE_REPO,
                 process.env.VERSION
@@ -65,17 +67,18 @@ jobs:
               console.error(error)
               process.exit(1)
             }
-            console.log(`::set-env name=REGISTRY_OWNERS::${registryOwners.replace(/\r?\n|\r/g, " ")}`)
+            console.log(`::set-output name=registry_owners::${registryOwners.replace(/\r?\n|\r/g, " ")}`)
 
       - uses: actions/github-script@v2
         name: Authenticate
         with:
+          registry_owners: ${{ steps.retrieve.outputs.registry_owners }}
           github-token: ${{ secrets.BOT_TOKEN }}
           script: |
             const path = require('path')
             const scripts = require(path.resolve(`${process.env.SCRIPTS_PATH}/index.js`))
             try {
-              const owners = JSON.parse(process.env.REGISTRY_OWNERS).owners
+              const owners = JSON.parse(process.env.INPUT_REGISTRY_OWNERS).owners
               const authorized = await scripts.isAuthorized({github, context}, owners)
               if (!authorized) {
                 console.error('user is NOT authorized to register buildpack')
