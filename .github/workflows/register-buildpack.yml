@@ -92,6 +92,7 @@ jobs:
       - uses: actions/github-script@v2
         name: Update Registry Index
         with:
+          buildpack: ${{ steps.validate.outputs.buildpack }}
           github-token: ${{ secrets.BOT_TOKEN }}
           script: |
             const path = require('path')
@@ -100,7 +101,7 @@ jobs:
             try {
               await scripts.indexRegistryForBuildpack(
                 {github, context},
-                JSON.parse(process.env.BUILDPACK),
+                JSON.parse(process.env.INPUT_BUILDPACK),
                 process.env.GH_REG_OWNER,
                 process.env.GH_REG_INDEX_REPO
               )
