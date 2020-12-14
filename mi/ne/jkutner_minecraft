@@ -1,3 +1,4 @@
 {"ns":"jkutner","name":"minecraft","version":"0.1.0","yanked":false,"addr":"ghcr.io/jkutner/buildpacks/minecraft@sha256:7819f5ff04a5dcc08490cfa3ed59cb9e18c294c365570ac9297007fd1655c733"}
 {"ns":"jkutner","name":"minecraft","version":"0.1.0","yanked":false,"addr":"ghcr.io/jkutner/buildpacks/minecraft@sha256:24fac12c1051dfa8ef8181f2fc285d0435ab03cbc4998d084dcb34ad2fc7c61b"}
 {"ns":"jkutner","name":"minecraft","version":"0.2.0","yanked":false,"addr":"ghcr.io/jkutner/buildpacks/jkutner_minecraft@sha256:391ecc9b6d8a2bed5b567d14b25813afd62afecebda017d866c1b2e6f6568bc8"}
+{"ns":"jkutner","name":"minecraft","version":"0.2.1","yanked":false,"addr":"ghcr.io/jkutner/buildpacks/jkutner_minecraft@sha256:c9c41284530e2c736bd098ccd6571a86c989d309837b6783d9678768205ba508"}
