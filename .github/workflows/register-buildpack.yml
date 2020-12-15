@@ -45,7 +45,7 @@ jobs:
       - uses: peter-evans/close-issue@v1
         with:
           comment: |
-            ✅ Successfully added buildpack. For more details, see [here][action-uri].
+            ✅ Successfully added buildpack. For more details, see the [action log][action-uri].
 
             [action-uri]: https://github.com/${{ secrets.INDEX_OWNER }}/${{ secrets.INDEX_REPOSITORY }}/actions/runs/${{ github.run_id }}
       - uses: andymckay/labeler@1.0.2
@@ -57,7 +57,7 @@ jobs:
         if: ${{ failure() }}
         with:
           comment: |
-            🔴 Failed to add buildpack. For more details, see [here][action-uri].
+            🔴 Failed to add buildpack. For more details, see the [action log][action-uri].
             🔃 If you feel this was in error, you may try again by creating a new issue.
             📬 If the problem persists or need assistance, you may comment on this issue or contact the maintainers via email at `cncf-buildpacks-maintainers@lists.cncf.io`.
 
@@ -94,7 +94,7 @@ jobs:
       - uses: peter-evans/close-issue@v1
         with:
           comment: |
-            ✅ Successfully yanked buildpack. For more details, see [here][action-uri].
+            ✅ Successfully yanked buildpack. For more details, see the [action log][action-uri].
 
             [action-uri]: https://github.com/${{ secrets.INDEX_OWNER }}/${{ secrets.INDEX_REPOSITORY }}/actions/runs/${{ github.run_id }}
       - uses: andymckay/labeler@1.0.2
@@ -106,7 +106,7 @@ jobs:
         if: ${{ failure() }}
         with:
           comment: |
-            🔴 Failed to yank buildpack. For more details, see [here][action-uri].
+            🔴 Failed to yank buildpack. For more details, see the [action log][action-uri].
             🔃 If you feel this was in error, you may try again by creating a new issue.
             📬 If the problem persists or need assistance, you may comment on this issue or contact the maintainers via email at `cncf-buildpacks-maintainers@lists.cncf.io`.
 
