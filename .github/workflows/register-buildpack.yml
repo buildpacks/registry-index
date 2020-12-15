@@ -1,165 +1,113 @@
 name: Register Buildpack
 
-on:
+"on":
   issues:
-    types: [opened]
+    types:
+      - opened
 
 jobs:
-  register:
-    env:
-      GH_REG_OWNER: buildpacks
-      GH_REG_INDEX_REPO: registry-index
-      GH_REG_NAMESPACE_REPO: registry-namespaces
-      SCRIPTS_PATH: .github/workflows/scripts/register_buildpack
-      VERSION: v1
+  add:
+    if: ${{ startsWith(github.event.issue.title, 'ADD') }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Install Node Dependencies
-        working-directory: ${{env.SCRIPTS_PATH}}
-        shell: bash
-        run: |
-          npm install
-      - id: validate
-        name: Validate Buildpack Issue
-        uses: actions/github-script@v2
+      - uses: docker://ghcr.io/buildpacks/actions/registry/compute-metadata:4.0.0
+        id: metadata
         with:
-          result-encoding: string
-          script: |
-            const path = require('path')
-            const scripts = require(path.resolve(`${process.env.SCRIPTS_PATH}/index.js`))
-            let result
-            try {
-              result = scripts.validateIssue({context})
-            } catch (error) {
-              console.error(error)
-              process.exit(1)
-            }
-            console.log(`::set-output name=buildpack::${JSON.stringify(result)}`)
-            console.log(`::set-output name=namespace::${result.ns}`)
-            console.log(`::set-output name=name::${result.name}`)
-            console.log(`::set-output name=version::${result.version}`)
-            console.log(`::set-output name=address::${result.addr}`)
-      - uses: docker://ghcr.io/buildpacks/actions/verify-buildpackage:main
+          issue: ${{ toJSON(github.event.issue) }}
+      - uses: docker://ghcr.io/buildpacks/actions/registry/verify-namespace-owner:4.0.0
+        id: verify-namespace-owner
         with:
-          id:      ${{ steps.validate.outputs.namespace }}/${{ steps.validate.outputs.name }}
-          version: ${{ steps.validate.outputs.version }}
-          address: ${{ steps.validate.outputs.address }}
-      - uses: actions/github-script@v2
-        id: retrieve
-        name: Retrieve Owners
+          token: ${{ secrets.BOT_TOKEN }}
+          owner: ${{ secrets.NAMESPACES_OWNER }}
+          repository: ${{ secrets.NAMESPACES_REPOSITORY }}
+          namespace: ${{ steps.metadata.outputs.namespace }}
+          user: ${{ toJSON(github.event.issue.user) }}
+          add-if-missing: true
+      - uses: docker://ghcr.io/buildpacks/actions/buildpackage/verify-metadata:4.0.0
         with:
-          buildpack: ${{ steps.validate.outputs.buildpack }}
-          github-token: ${{ secrets.BOT_TOKEN }}
-          script: |
-            const path = require('path')
-            const scripts = require(path.resolve(`${process.env.SCRIPTS_PATH}/index.js`))
-            let registryOwners
-            try {
-              registryOwners = await scripts.retrieveOwners(
-                {github, context},
-                JSON.parse(process.env.INPUT_BUILDPACK),
-                process.env.GH_REG_OWNER,
-                process.env.GH_REG_NAMESPACE_REPO,
-                process.env.VERSION
-              )
-            } catch (error) {
-              console.error(error)
-              process.exit(1)
-            }
-            console.log(`::set-output name=registry_owners::${registryOwners.replace(/\r?\n|\r/g, " ")}`)
+          token: ${{ secrets.BOT_TOKEN }}
+          id: ${{ steps.metadata.outputs.id }}
+          version: ${{ steps.metadata.outputs.version }}
+          address: ${{ steps.metadata.outputs.address }}
+      - uses: docker://ghcr.io/buildpacks/actions/registry/add-entry:4.0.0
+        with:
+          token: ${{ secrets.BOT_TOKEN }}
+          owner: ${{ secrets.INDEX_OWNER }}
+          repository: ${{ secrets.INDEX_REPOSITORY }}
+          namespace: ${{ steps.metadata.outputs.namespace }}
+          name: ${{ steps.metadata.outputs.name }}
+          version: ${{ steps.metadata.outputs.version }}
+          address: ${{ steps.metadata.outputs.address }}
+      - uses: andymckay/labeler@1.0.2
+        with:
+          repo-token: ${{ secrets.BOT_TOKEN }}
+          add-labels: succeeded
+      - uses: peter-evans/close-issue@v1
+        with:
+          comment: |
+            ✅ Successfully added buildpack. For more details, see the [action log][action-uri].
 
-      - uses: actions/github-script@v2
-        name: Authenticate
-        with:
-          registry_owners: ${{ steps.retrieve.outputs.registry_owners }}
-          github-token: ${{ secrets.BOT_TOKEN }}
-          script: |
-            const path = require('path')
-            const scripts = require(path.resolve(`${process.env.SCRIPTS_PATH}/index.js`))
-            try {
-              const owners = JSON.parse(process.env.INPUT_REGISTRY_OWNERS).owners
-              const authorized = await scripts.isAuthorized({github, context}, owners)
-              if (!authorized) {
-                console.error('user is NOT authorized to register buildpack')
-                process.exit(1)
-              }
-            } catch (error) {
-              console.error(error)
-              process.exit(1)
-            }
-
-      - uses: actions/github-script@v2
-        name: Update Registry Index
-        with:
-          buildpack: ${{ steps.validate.outputs.buildpack }}
-          github-token: ${{ secrets.BOT_TOKEN }}
-          script: |
-            const path = require('path')
-            const scripts = require(path.resolve(`${process.env.SCRIPTS_PATH}/index.js`))
-            let registryOwners
-            try {
-              await scripts.indexRegistryForBuildpack(
-                {github, context},
-                JSON.parse(process.env.INPUT_BUILDPACK),
-                process.env.GH_REG_OWNER,
-                process.env.GH_REG_INDEX_REPO
-              )
-            } catch (error) {
-              console.error(error)
-              process.exit(1)
-            }
-
-      - uses: actions/github-script@v2
-        name: Close Issue on Success
-        with:
-          github-token: ${{ secrets.BOT_TOKEN }}
-          script: |
-            const path = require('path')
-            const scripts = require(path.resolve(`${process.env.SCRIPTS_PATH}/index.js`))
-            const comment = `
-            ✅ Successfully registered the buildpack`
-            try {
-              await scripts.closeIssue(
-                {github, context},
-                process.env.GH_REG_OWNER,
-                process.env.GH_REG_INDEX_REPO,
-                ['succeeded'],
-                comment
-              )
-            }
-            catch (error) {
-              console.error(error)
-              process.exit(1)
-            }
-
-      - uses: actions/github-script@v2
-        name: Close Issue on Failure
-        env:
-          GH_ACTION_RUN_ID: ${{ github.run_id }}
+            [action-uri]: https://github.com/${{ secrets.INDEX_OWNER }}/${{ secrets.INDEX_REPOSITORY }}/actions/runs/${{ github.run_id }}
+      - uses: andymckay/labeler@1.0.2
         if: ${{ failure() }}
         with:
-          github-token: ${{ secrets.BOT_TOKEN }}
-          script: |
-            const path = require('path')
-            const scripts = require(path.resolve(`${process.env.SCRIPTS_PATH}/index.js`))
-            const actionURL = `https://github.com/${process.env.GH_REG_OWNER}/${process.env.GH_REG_INDEX_REPO}/actions/runs/${process.env.GH_ACTION_RUN_ID}`
-            const comment = `
-            🔴 Failed to automatically register the buildpack. For more details, see [here](${actionURL})
-
+          repo-token: ${{ secrets.BOT_TOKEN }}
+          add-labels: failed
+      - uses: peter-evans/close-issue@v1
+        if: ${{ failure() }}
+        with:
+          comment: |
+            🔴 Failed to add buildpack. For more details, see the [action log][action-uri].
             🔃 If you feel this was in error, you may try again by creating a new issue.
+            📬 If the problem persists or need assistance, you may comment on this issue or contact the maintainers via email at `cncf-buildpacks-maintainers@lists.cncf.io`.
 
-            📬 If the problem persists or need assistance, you may comment on this issue or contact the maintainers via email at \`cncf-buildpacks-maintainers@lists.cncf.io\``
-            try {
-              await scripts.closeIssue(
-                {github, context},
-                process.env.GH_REG_OWNER,
-                process.env.GH_REG_INDEX_REPO,
-                ['failed'],
-                comment
-              )
-            }
-            catch (error) {
-              console.error(error)
-              process.exit(1)
-            }
+            [action-uri]: https://github.com/${{ secrets.INDEX_OWNER }}/${{ secrets.INDEX_REPOSITORY }}/actions/runs/${{ github.run_id }}
+
+  yank:
+    if: ${{ startsWith(github.event.issue.title, 'YANK') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: docker://ghcr.io/buildpacks/actions/registry/compute-metadata:4.0.0
+        id: metadata
+        with:
+          issue: ${{ toJSON(github.event.issue) }}
+      - uses: docker://ghcr.io/buildpacks/actions/registry/verify-namespace-owner:4.0.0
+        id: verify-namespace-owner
+        with:
+          token: ${{ secrets.BOT_TOKEN }}
+          owner: ${{ secrets.NAMESPACES_OWNER }}
+          repository: ${{ secrets.NAMESPACES_REPOSITORY }}
+          namespace: ${{ steps.metadata.outputs.namespace }}
+          user: ${{ toJSON(github.event.issue.user) }}
+      - uses: docker://ghcr.io/buildpacks/actions/registry/yank-entry:4.0.0
+        with:
+          token: ${{ secrets.BOT_TOKEN }}
+          owner: ${{ secrets.INDEX_OWNER }}
+          repository: ${{ secrets.INDEX_REPOSITORY }}
+          namespace: ${{ steps.metadata.outputs.namespace }}
+          name: ${{ steps.metadata.outputs.name }}
+          version: ${{ steps.metadata.outputs.version }}
+      - uses: andymckay/labeler@1.0.2
+        with:
+          repo-token: ${{ secrets.BOT_TOKEN }}
+          add-labels: succeeded
+      - uses: peter-evans/close-issue@v1
+        with:
+          comment: |
+            ✅ Successfully yanked buildpack. For more details, see the [action log][action-uri].
+
+            [action-uri]: https://github.com/${{ secrets.INDEX_OWNER }}/${{ secrets.INDEX_REPOSITORY }}/actions/runs/${{ github.run_id }}
+      - uses: andymckay/labeler@1.0.2
+        if: ${{ failure() }}
+        with:
+          repo-token: ${{ secrets.BOT_TOKEN }}
+          add-labels: failed
+      - uses: peter-evans/close-issue@v1
+        if: ${{ failure() }}
+        with:
+          comment: |
+            🔴 Failed to yank buildpack. For more details, see the [action log][action-uri].
+            🔃 If you feel this was in error, you may try again by creating a new issue.
+            📬 If the problem persists or need assistance, you may comment on this issue or contact the maintainers via email at `cncf-buildpacks-maintainers@lists.cncf.io`.
+
+            [action-uri]: https://github.com/${{ secrets.INDEX_OWNER }}/${{ secrets.INDEX_REPOSITORY }}/actions/runs/${{ github.run_id }}

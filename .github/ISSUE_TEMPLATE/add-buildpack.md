@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+```
 id = "{BUILDPACK_ID}"
 version = "{VERSION}"
 addr = "{DOCKER URI}@{DIGEST}"
+```
