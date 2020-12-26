@@ -17,7 +17,7 @@ jobs:
       - uses: docker://ghcr.io/buildpacks/actions/registry/verify-namespace-owner:4.0.0
         id: verify-namespace-owner
         with:
-          token: ${{ secrets.BOT_TOKEN }}
+          token: ${{ secrets.DISTRIBUTION_GITHUB_TOKEN }}
           owner: ${{ secrets.NAMESPACES_OWNER }}
           repository: ${{ secrets.NAMESPACES_REPOSITORY }}
           namespace: ${{ steps.metadata.outputs.namespace }}
@@ -25,13 +25,13 @@ jobs:
           add-if-missing: true
       - uses: docker://ghcr.io/buildpacks/actions/buildpackage/verify-metadata:4.0.0
         with:
-          token: ${{ secrets.BOT_TOKEN }}
+          token: ${{ secrets.DISTRIBUTION_GITHUB_TOKEN }}
           id: ${{ steps.metadata.outputs.id }}
           version: ${{ steps.metadata.outputs.version }}
           address: ${{ steps.metadata.outputs.address }}
       - uses: docker://ghcr.io/buildpacks/actions/registry/add-entry:4.0.0
         with:
-          token: ${{ secrets.BOT_TOKEN }}
+          token: ${{ secrets.DISTRIBUTION_GITHUB_TOKEN }}
           owner: ${{ secrets.INDEX_OWNER }}
           repository: ${{ secrets.INDEX_REPOSITORY }}
           namespace: ${{ steps.metadata.outputs.namespace }}
@@ -40,7 +40,7 @@ jobs:
           address: ${{ steps.metadata.outputs.address }}
       - uses: andymckay/labeler@1.0.2
         with:
-          repo-token: ${{ secrets.BOT_TOKEN }}
+          repo-token: ${{ secrets.DISTRIBUTION_GITHUB_TOKEN }}
           add-labels: succeeded
       - uses: peter-evans/close-issue@v1
         with:
@@ -51,7 +51,7 @@ jobs:
       - uses: andymckay/labeler@1.0.2
         if: ${{ failure() }}
         with:
-          repo-token: ${{ secrets.BOT_TOKEN }}
+          repo-token: ${{ secrets.DISTRIBUTION_GITHUB_TOKEN }}
           add-labels: failed
       - uses: peter-evans/close-issue@v1
         if: ${{ failure() }}
@@ -74,14 +74,14 @@ jobs:
       - uses: docker://ghcr.io/buildpacks/actions/registry/verify-namespace-owner:4.0.0
         id: verify-namespace-owner
         with:
-          token: ${{ secrets.BOT_TOKEN }}
+          token: ${{ secrets.DISTRIBUTION_GITHUB_TOKEN }}
           owner: ${{ secrets.NAMESPACES_OWNER }}
           repository: ${{ secrets.NAMESPACES_REPOSITORY }}
           namespace: ${{ steps.metadata.outputs.namespace }}
           user: ${{ toJSON(github.event.issue.user) }}
       - uses: docker://ghcr.io/buildpacks/actions/registry/yank-entry:4.0.0
         with:
-          token: ${{ secrets.BOT_TOKEN }}
+          token: ${{ secrets.DISTRIBUTION_GITHUB_TOKEN }}
           owner: ${{ secrets.INDEX_OWNER }}
           repository: ${{ secrets.INDEX_REPOSITORY }}
           namespace: ${{ steps.metadata.outputs.namespace }}
@@ -89,7 +89,7 @@ jobs:
           version: ${{ steps.metadata.outputs.version }}
       - uses: andymckay/labeler@1.0.2
         with:
-          repo-token: ${{ secrets.BOT_TOKEN }}
+          repo-token: ${{ secrets.DISTRIBUTION_GITHUB_TOKEN }}
           add-labels: succeeded
       - uses: peter-evans/close-issue@v1
         with:
@@ -100,7 +100,7 @@ jobs:
       - uses: andymckay/labeler@1.0.2
         if: ${{ failure() }}
         with:
-          repo-token: ${{ secrets.BOT_TOKEN }}
+          repo-token: ${{ secrets.DISTRIBUTION_GITHUB_TOKEN }}
           add-labels: failed
       - uses: peter-evans/close-issue@v1
         if: ${{ failure() }}
