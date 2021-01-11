@@ -1,1 +1,2 @@
 {"ns":"heroku","name":"procfile","version":"0.6.0","yanked":false,"addr":"docker.io/heroku/procfile-cnb@sha256:3c03bb4a86317d2530b91f1f2f9f75161b744016870808cb395f46cc244b8be1"}
+{"ns":"heroku","name":"procfile","version":"0.6.1","yanked":false,"addr":"docker.io/heroku/procfile-cnb@sha256:74881b33e1e33eea38b419e667b0a99ac50e536727eeefd1b2eeb7ff3a937ffd"}
