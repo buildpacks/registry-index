@@ -1,1 +1,2 @@
 {"ns":"malax","name":"test","version":"0.1.0","yanked":false,"addr":"public.ecr.aws/r2f9u0w4/heroku-jvm-buildpack@sha256:8fa66ea1fd5ef41f828207e942f6b49d833f6c797d5a825d84ba4d9f03187156"}
+{"ns":"malax","name":"test","version":"0.1.1","yanked":false,"addr":"public.ecr.aws/r2f9u0w4/test@sha256:f174c467df182f424ae82e180e550f8033d6bcf514632b035c083b3f6f101484"}
