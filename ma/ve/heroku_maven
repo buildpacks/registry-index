@@ -1,1 +1,2 @@
 {"ns":"heroku","name":"maven","version":"0.1.1","yanked":false,"addr":"public.ecr.aws/r2f9u0w4/heroku-maven-buildpack@sha256:5935048d26f8a351679e2f1eeef3e890856ae8c6fac882284d3848cd87edff74"}
+{"ns":"heroku","name":"maven","version":"0.2.0","yanked":false,"addr":"public.ecr.aws/r2f9u0w4/heroku-maven-buildpack@sha256:e495f3562e5f1bb0c0ccc9e5b7c319c29ab95e4c2525c124800964981ada27f6"}
