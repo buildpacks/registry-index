@@ -31,3 +31,4 @@
 {"ns":"paketo-buildpacks","name":"gradle","version":"3.4.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/gradle@sha256:6246c15cdb75a9ad5a3d2837e59d70b7fb74b2f3eae19fef4727de42ee9c106b"}
 {"ns":"paketo-buildpacks","name":"gradle","version":"3.5.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/gradle@sha256:8a270a345eb0257b6b5b8b8235e6cdbbba6e1454fceb8e8c2f54226c9df8b00b"}
 {"ns":"paketo-buildpacks","name":"gradle","version":"3.6.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/gradle@sha256:15f3801e376fd14d0f4ccf2576375a4913bd5e8c99fb2697656990c3e723d1cd"}
+{"ns":"paketo-buildpacks","name":"gradle","version":"4.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/gradle@sha256:90267a1ac34c4a981ce29c7a8f63d3cc776cb66aefd879f361f3b338725d0b47"}
