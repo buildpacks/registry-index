@@ -2,3 +2,4 @@
 {"ns":"heroku","name":"java","version":"0.1.2","yanked":false,"addr":"public.ecr.aws/r2f9u0w4/heroku-java-buildpack@sha256:18f9852d940f24a17a09494f41f388f8833152c75ed06fd213b7c3d36b1a46bf"}
 {"ns":"heroku","name":"java","version":"0.1.3","yanked":false,"addr":"public.ecr.aws/r2f9u0w4/heroku-java-buildpack@sha256:0a0b3d00d41f4af48d62d89c8ad05afd8ee33dc59147f9f5fd22bbc4b7133941"}
 {"ns":"heroku","name":"java","version":"0.3.0","yanked":false,"addr":"public.ecr.aws/r2f9u0w4/heroku-java-buildpack@sha256:c6a6ace2306b47a629cf528860c814bb5cb3f151c6c8330b9755afbc1958b6d9"}
+{"ns":"heroku","name":"java","version":"0.3.1","yanked":false,"addr":"public.ecr.aws/r2f9u0w4/heroku-java-buildpack@sha256:7032d52f0612152e180503a1c8c30ab1f8155345d0035889af66adac79b6c633"}
