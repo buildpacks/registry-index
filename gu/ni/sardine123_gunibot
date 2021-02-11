@@ -1,2 +1,3 @@
 {"ns":"sardine123","name":"gunibot","version":"0.0.1","yanked":false,"addr":"index.docker.io/sardine123/gunibot@sha256:e385374beab59facb6d632c82bdd4099ec03333d585e532583b8429d3dcb2dec"}
 {"ns":"sardine123","name":"gunibot","version":"0.0.2","yanked":false,"addr":"docker.io/sardine123/sardine123_gunibot@sha256:c396afe6f549355fbb36931c96276adcf7d9db1f8a1574b5e6704d67f7c42762"}
+{"ns":"sardine123","name":"gunibot","version":"0.0.4","yanked":false,"addr":"docker.io/sardine123/sardine123_gunibot@sha256:e3955146bfd2de61d533a12e47ae2abd5b0d630deb0bc2776849578263932cd0"}
