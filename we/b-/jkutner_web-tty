@@ -1,3 +1,4 @@
 {"ns":"jkutner","name":"web-tty","version":"0.1.0","yanked":false,"addr":"ghcr.io/jkutner/buildpacks/jkutner_web-tty@sha256:7b8d7db6a3d798bd166a3d8983ed8e654631042d9a10354cc814f7172a34c72a"}
 {"ns":"jkutner","name":"web-tty","version":"0.1.1","yanked":false,"addr":"ghcr.io/jkutner/buildpacks/jkutner_web-tty@sha256:b91a8c4b7748edf85cf7a2f5d83027768f53dcafc4e019f7d7596ad4e0bc89a7"}
 {"ns":"jkutner","name":"web-tty","version":"0.1.2","yanked":false,"addr":"ghcr.io/jkutner/buildpacks/jkutner_web-tty@sha256:9c7fe50ad242e5c131589f4e2fd9cf2a5b5ab38c41b1763ef18ff24ef7975a66"}
+{"ns":"jkutner","name":"web-tty","version":"0.1.3","yanked":false,"addr":"ghcr.io/jkutner/buildpacks/jkutner_web-tty@sha256:576859d891a7f72f854db8d66561803b89b731426177558a873ca635dce37a63"}
