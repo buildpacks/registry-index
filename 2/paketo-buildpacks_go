@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"go","version":"0.3.2","yanked":false,"addr":"index.docker.io/paketobuildpacks/go@sha256:deca2d2e28274e0f6c849f58d425e5c7c75f3a68320a83be4879512a25d574fa"}
+{"ns":"paketo-buildpacks","name":"go","version":"0.4.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/go@sha256:79b6a3d5deb2f1547c56882852b1c70f524c7c6dce67728a972304ad9fa89b16"}
