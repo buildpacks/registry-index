@@ -2,3 +2,4 @@
 {"ns":"jkutner","name":"null","version":"1.0.1","yanked":false,"addr":"ghcr.io/jkutner/buildpacks/jkutner_null@sha256:cc3ec5d44ccf496cdd6c1786922326db1433005c2aa42cb38af79edb638eb3be"}
 {"ns":"jkutner","name":"null","version":"1.0.2","yanked":false,"addr":"ghcr.io/jkutner/buildpacks/jkutner_null@sha256:2106620e7565cda36b2e2f6472df5a0bff5b25cd3f986dd385edcf1091981dcd"}
 {"ns":"jkutner","name":"null","version":"1.0.3","yanked":false,"addr":"ghcr.io/jkutner/buildpacks/jkutner_null@sha256:fd5c9a83d6e24b028bdebb141af30b9a8c0721c07b54cfbbbe169e00f2257415"}
+{"ns":"jkutner","name":"null","version":"1.0.4","yanked":false,"addr":"ghcr.io/jkutner/buildpacks/jkutner_null@sha256:14b2e28b29c91623e73673e43c3d0c0cf8b9a14b51603ce0cb8cc5d26ea27540"}
