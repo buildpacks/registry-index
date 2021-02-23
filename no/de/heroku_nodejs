@@ -1,1 +1,2 @@
 {"ns":"heroku","name":"nodejs","version":"0.1.1","yanked":false,"addr":"public.ecr.aws/r2f9u0w4/heroku-nodejs-buildpack@sha256:93309b52b01ebf9f61e811181b9fbf2c11eae91e25f10514165911b9c856d920"}
+{"ns":"heroku","name":"nodejs","version":"0.2.0","yanked":false,"addr":"public.ecr.aws/heroku-buildpacks/heroku-nodejs-buildpack@sha256:9be10e5e862615990e0d153813fce0bf3dbb1a465be854894f9ee7d42b348c9f"}
