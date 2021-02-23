@@ -1,1 +1,2 @@
 {"ns":"jkutner","name":"terraform","version":"0.1.0","yanked":false,"addr":"docker.io/jkutner/jkutner_terraform@sha256:0e76c04261749382fd27babaa1240251282959f2819d33d584269afb2718b6ab"}
+{"ns":"jkutner","name":"terraform","version":"0.1.1","yanked":false,"addr":"docker.io/jkutner/jkutner_terraform@sha256:86c2c696133e93d25eee2366ea1e41f8311aaecbcb3f440ccd55d1f59a680843"}
