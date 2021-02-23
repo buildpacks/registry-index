@@ -2,3 +2,4 @@
 {"ns":"heroku","name":"jvm-function-invoker","version":"0.2.0","yanked":false,"addr":"public.ecr.aws/r2f9u0w4/heroku-jvm-function-invoker-buildpack@sha256:09f7a8663026dac65266ebc3edabe14b59cc7aadfa92f98bb13b33d498c932cf"}
 {"ns":"heroku","name":"jvm-function-invoker","version":"0.2.1","yanked":false,"addr":"public.ecr.aws/r2f9u0w4/heroku-jvm-function-invoker-buildpack@sha256:6a207ed7bec5f2aa229f5445cb195c8fd9414342f04eeb876d0806d9c9852fb3"}
 {"ns":"heroku","name":"jvm-function-invoker","version":"0.2.2","yanked":false,"addr":"public.ecr.aws/r2f9u0w4/heroku-jvm-function-invoker-buildpack@sha256:c03202df687b82e4ce708ca4400babeb214181091438d1bc42192bca2959e3c0"}
+{"ns":"heroku","name":"jvm-function-invoker","version":"0.2.3","yanked":false,"addr":"public.ecr.aws/r2f9u0w4/heroku-jvm-function-invoker-buildpack@sha256:15839c34479c67c35783f68893f6e67bfc953701de3bb0e80d09b6d0ff8e102f"}
