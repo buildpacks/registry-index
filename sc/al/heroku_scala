@@ -1,1 +1,1 @@
-{"ns":"heroku","name":"scala","version":"0.0.88","yanked":false,"addr":"public.ecr.aws/r2f9u0w4/heroku-scala-buildpack@sha256:7a58fd9774925a6e23ce638cc4c7b57fdb9a14092632bc00c10081bb226f19b3"}
+{"ns":"heroku","name":"scala","version":"0.0.88","yanked":true,"addr":"public.ecr.aws/r2f9u0w4/heroku-scala-buildpack@sha256:7a58fd9774925a6e23ce638cc4c7b57fdb9a14092632bc00c10081bb226f19b3"}
