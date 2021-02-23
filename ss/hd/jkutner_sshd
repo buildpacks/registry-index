@@ -1,1 +1,2 @@
 {"ns":"jkutner","name":"sshd","version":"0.1.0","yanked":false,"addr":"ghcr.io/jkutner/buildpacks/jkutner_sshd@sha256:647850be56fd9571329c2663ecf63c641f37d158afd2295588a8ea5363c80efa"}
+{"ns":"jkutner","name":"sshd","version":"0.1.1","yanked":false,"addr":"ghcr.io/jkutner/buildpacks/jkutner_sshd@sha256:be9fd19335afcba989f4e82a3393bbd3befb9985f4a75acc17ba5977a38c1af9"}
