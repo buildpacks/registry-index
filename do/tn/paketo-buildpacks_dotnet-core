@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"dotnet-core","version":"0.1.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/dotnet-core@sha256:8117486efc4ce97ae6e83e28a9fcf2ed13f33ffa0df3bdd8aaad24991a3083ec"}
+{"ns":"paketo-buildpacks","name":"dotnet-core","version":"0.1.2","yanked":false,"addr":"index.docker.io/paketobuildpacks/dotnet-core@sha256:156f48bf557ec954889a0efdcf275f0be55cd630c04b5d35568fda84e4ef632e"}
