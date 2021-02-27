@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"rackup","version":"0.0.53","yanked":false,"addr":"index.docker.io/paketobuildpacks/rackup@sha256:9879fc92cba6f6ffaff4093dab888e50de2af7b7a28ab1f579c4dd8de655dd0e"}
+{"ns":"paketo-buildpacks","name":"rackup","version":"0.0.54","yanked":false,"addr":"index.docker.io/paketobuildpacks/rackup@sha256:18fe2907bfdd5cc4100b733150753e94fab8684632dc0d75ac11996681f4dea3"}
