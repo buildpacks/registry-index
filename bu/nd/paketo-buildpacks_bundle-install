@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"bundle-install","version":"0.1.5","yanked":false,"addr":"index.docker.io/paketobuildpacks/bundle-install@sha256:4c002456bc8e55971f3d843d946d763139094f8a300e543b17e846a5b93e817c"}
+{"ns":"paketo-buildpacks","name":"bundle-install","version":"0.1.6","yanked":false,"addr":"index.docker.io/paketobuildpacks/bundle-install@sha256:fd33d8f6e55c7bb493975426f1afcf8d0b4d9ee46c41c436d78e0774004bfc30"}
