@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"yarn-install","version":"0.2.3","yanked":false,"addr":"index.docker.io/paketobuildpacks/yarn-install@sha256:59d748a0eeb3796c2d0397b5ac35774e170cd58a1157dd6d04e61eb257867d14"}
+{"ns":"paketo-buildpacks","name":"yarn-install","version":"0.2.4","yanked":false,"addr":"index.docker.io/paketobuildpacks/yarn-install@sha256:01e292b857cdf73137c7970c5c117409d87023b79bec9f73c26bcff9a6f3af7c"}
