@@ -29,3 +29,4 @@
 {"ns":"paketo-buildpacks","name":"sbt","version":"3.5.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/sbt@sha256:46b2c877e0bc00ea9e5d2302d79c6d4b86620446076248a4401c9dcd5e17aba8"}
 {"ns":"paketo-buildpacks","name":"sbt","version":"3.6.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/sbt@sha256:3e6cb2a3c8ffff54ed46f692a62ddb7378afdda8c7d4aa6983be03ef4292009f"}
 {"ns":"paketo-buildpacks","name":"sbt","version":"4.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/sbt@sha256:65b4124dbe1f5da5099165e68b47b9f658c72b060527cf10dfe6ca96a57ae5c0"}
+{"ns":"paketo-buildpacks","name":"sbt","version":"4.1.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/sbt@sha256:deb2c2a856ea534c0044feb83c9041fc4efd81a6b35d26d821c50075bc821f86"}
