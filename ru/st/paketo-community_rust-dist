@@ -1,1 +1,2 @@
 {"ns":"paketo-community","name":"rust-dist","version":"0.0.8","yanked":false,"addr":"index.docker.io/paketocommunity/rust-dist@sha256:ec033eb84c7c2df42895798af10589bf7483ca10414f12377343ad0e5e65f3c5"}
+{"ns":"paketo-community","name":"rust-dist","version":"0.0.9","yanked":false,"addr":"index.docker.io/paketocommunity/rust-dist@sha256:a0ce99ad7f277be5681fcf6dd754b70864781251b715912dd65276a2f6367cee"}
