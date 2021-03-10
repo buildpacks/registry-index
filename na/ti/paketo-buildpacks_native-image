@@ -1,0 +1,1 @@
+{"ns":"paketo-buildpacks","name":"native-image","version":"4.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/native-image@sha256:0c10810fb223aa111b161ce6515a37a401bd95632a5debf4ccb28348c6a026c7"}
