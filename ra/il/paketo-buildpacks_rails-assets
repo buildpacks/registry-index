@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"rails-assets","version":"0.1.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/rails-assets@sha256:2916512885a33e8bb26e0a62d35d26e8e537c725b0990c3e16d989e1dbba7094"}
+{"ns":"paketo-buildpacks","name":"rails-assets","version":"0.2.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/rails-assets@sha256:ef7d93a28fc3495c31ce9699d7a0517ec68f4064f7d8bb4f01c49ae48c5cb354"}
