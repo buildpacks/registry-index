@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"unicorn","version":"0.0.47","yanked":false,"addr":"index.docker.io/paketobuildpacks/unicorn@sha256:da79fe4e85d41fc02189cbc0f367ffda19c971b8a303cfca775a6aafcf7c9268"}
+{"ns":"paketo-buildpacks","name":"unicorn","version":"0.0.48","yanked":false,"addr":"index.docker.io/paketobuildpacks/unicorn@sha256:09b0dd2a9243837a2baf8a5e9ee1eab95ba4fe0c9aa0dcc1be496dd64374c7ba"}
