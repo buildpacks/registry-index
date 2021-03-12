@@ -1,2 +1,3 @@
 {"ns":"paketo-buildpacks","name":"mri","version":"0.1.2","yanked":false,"addr":"index.docker.io/paketobuildpacks/mri@sha256:b10f571f7ffca3be2b3243d83bdb4d08aad28192d7565ba3b9f1582ac82ff0c7"}
 {"ns":"paketo-buildpacks","name":"mri","version":"0.1.3","yanked":false,"addr":"index.docker.io/paketobuildpacks/mri@sha256:406e01b176ef561848d95c755a20b340a9bc6133fbbfaf47b277526f4b2cffcd"}
+{"ns":"paketo-buildpacks","name":"mri","version":"0.1.4","yanked":false,"addr":"index.docker.io/paketobuildpacks/mri@sha256:5ba6f9b2c9a19e1e9482895e390ce18a2f3c18fb039a73099fc7e97600af82bf"}
