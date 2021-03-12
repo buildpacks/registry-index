@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"thin","version":"0.0.49","yanked":false,"addr":"index.docker.io/paketobuildpacks/thin@sha256:a818f53d9f0ee394fa35610c36a2a3d3a182ff787362d55fb089a5a684b79864"}
+{"ns":"paketo-buildpacks","name":"thin","version":"0.0.50","yanked":false,"addr":"index.docker.io/paketobuildpacks/thin@sha256:5a3d25f997e99efd13d6b414b67f40f94a056f796c60ec0cad359f9d34af3278"}
