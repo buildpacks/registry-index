@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"passenger","version":"0.0.14","yanked":false,"addr":"index.docker.io/paketobuildpacks/passenger@sha256:e806b8f8892e45f854440f44e6d349208285123f3c87207772be29f655a7acfb"}
+{"ns":"paketo-buildpacks","name":"passenger","version":"0.0.15","yanked":false,"addr":"index.docker.io/paketobuildpacks/passenger@sha256:5f2c4a581c790e8f78077c300bac5d9c6a9c4401c22598be697393ca83d9e3af"}
