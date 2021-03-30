@@ -1,1 +1,2 @@
 {"ns":"paketo-community","name":"pip","version":"0.0.140","yanked":false,"addr":"index.docker.io/paketocommunity/pip@sha256:0ac6dcf414aa8874c69d734d7717946107dd8445d0b35c8ae4445ef6f6da1250"}
+{"ns":"paketo-community","name":"pip","version":"0.1.0","yanked":false,"addr":"index.docker.io/paketocommunity/pip@sha256:5eb3fcce33ffb98b8f247f6e9f144b167109b23cb834b39d22d6fdd1bfe3b94c"}
