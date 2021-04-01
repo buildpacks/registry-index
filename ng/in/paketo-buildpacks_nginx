@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"nginx","version":"0.0.199","yanked":false,"addr":"index.docker.io/paketobuildpacks/nginx@sha256:6158176b987a5a2a3df40b93db9e714e77e260ff59917740932dccbe92af7395"}
+{"ns":"paketo-buildpacks","name":"nginx","version":"0.1.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/nginx@sha256:4a97913418e5e722b39514fa67e7ee4023c42b1239f28bb309574e16d2cf4ffd"}
