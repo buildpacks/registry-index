@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"php-web","version":"0.0.139","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-web@sha256:c662788519f068eddf13453a36bdeaa48dfac97c73ea3a01ac2bea398ee5f5e4"}
+{"ns":"paketo-buildpacks","name":"php-web","version":"0.1.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-web@sha256:db33a3ade701925470a706deeec7609f4c577f3b2d4006f84c1c8885c34c112b"}
