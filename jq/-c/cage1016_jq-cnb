@@ -1,1 +1,2 @@
 {"ns":"cage1016","name":"jq-cnb","version":"1.0.0","yanked":false,"addr":"ghcr.io/cage1016/buildpacks/cage1016_jq-cnb@sha256:e094eee72cf180f07406d1b1ba81ebeb679a30976f895631da8e750d0dbb2872"}
+{"ns":"cage1016","name":"jq-cnb","version":"1.1.0","yanked":false,"addr":"ghcr.io/cage1016/buildpacks/cage1016_jq-cnb@sha256:48755cd2fb2a18d9f6553791337d0141b220c69d711cbd8383f2cc94a0bcbb7e"}
