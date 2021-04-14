@@ -2,3 +2,4 @@
 {"ns":"paketo-buildpacks","name":"dotnet-core-aspnet","version":"0.1.7","yanked":false,"addr":"index.docker.io/paketobuildpacks/dotnet-core-aspnet@sha256:65d9ec2c83261c9958818c7652423a33f07dcc1f14abfe05cd6a411529e005a8"}
 {"ns":"paketo-buildpacks","name":"dotnet-core-aspnet","version":"0.1.8","yanked":false,"addr":"index.docker.io/paketobuildpacks/dotnet-core-aspnet@sha256:f45acf05caf757596906251c7c0a7143da8f0e29e5e799b7d445846f49a0f267"}
 {"ns":"paketo-buildpacks","name":"dotnet-core-aspnet","version":"0.1.9","yanked":false,"addr":"index.docker.io/paketobuildpacks/dotnet-core-aspnet@sha256:1acb083b3a0895056f0d790bcc156a04a38f3d74c8879394255c0a4a1f70e833"}
+{"ns":"paketo-buildpacks","name":"dotnet-core-aspnet","version":"0.1.10","yanked":false,"addr":"index.docker.io/paketobuildpacks/dotnet-core-aspnet@sha256:279eb6f704d48e452685c91a0c597b84e26327d8b67593cb7d37948177903470"}
