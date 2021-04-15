@@ -1,3 +1,4 @@
 {"ns":"paketo-community","name":"cpython","version":"0.1.0","yanked":false,"addr":"index.docker.io/paketocommunity/cpython@sha256:bfa5add83a604991bcc2276b5ff8cbb3d0f8cbd4a457816f7a483d8e763b7e7f"}
 {"ns":"paketo-community","name":"cpython","version":"0.2.0","yanked":false,"addr":"index.docker.io/paketocommunity/cpython@sha256:c14c19e488a8b0b1b471b28b7f171f94de1e53f9b0daa7982e4d99489ee59cef"}
 {"ns":"paketo-community","name":"cpython","version":"0.3.0","yanked":false,"addr":"index.docker.io/paketocommunity/cpython@sha256:4d2eee8779b297e9f8e4f1669aeef2e209dc2acd62be2d99933c830267a733bb"}
+{"ns":"paketo-community","name":"cpython","version":"0.4.0","yanked":false,"addr":"index.docker.io/paketocommunity/cpython@sha256:d4b71ab577cbd454141f2ef77910f890a8435a37f6ea1a13bad816c6244182ba"}
