@@ -2,3 +2,4 @@
 {"ns":"paketo-buildpacks","name":"ca-certificates","version":"1.0.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/ca-certificates@sha256:8c1fbf2c75856f576fbdccf61e0ebb34dce737ff64f0881bcccbeeef99d77f90"}
 {"ns":"paketo-buildpacks","name":"ca-certificates","version":"2.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/ca-certificates@sha256:23aa0a24170c0c1a20e5b4cf09d4cd311407897479f9163a7efcb7d4fd832912"}
 {"ns":"paketo-buildpacks","name":"ca-certificates","version":"2.1.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/ca-certificates@sha256:6a28c4d9aa343012046a52867c265243075c014d71c2bbad3b841e6afc0d588e"}
+{"ns":"paketo-buildpacks","name":"ca-certificates","version":"2.2.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/ca-certificates@sha256:2beac61105c762522d1ff3dbb8c1e07affbb7167752fc2284ec206706367f2b9"}
