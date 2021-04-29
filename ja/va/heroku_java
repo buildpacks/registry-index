@@ -7,3 +7,4 @@
 {"ns":"heroku","name":"java","version":"0.3.3","yanked":false,"addr":"public.ecr.aws/r2f9u0w4/heroku-java-buildpack@sha256:733b9d0ea628ec1a79b961295363e6e5e7fa3d7afd572a84263845003f6227ea"}
 {"ns":"heroku","name":"java","version":"0.3.4","yanked":false,"addr":"public.ecr.aws/r2f9u0w4/heroku-java-buildpack@sha256:608383d585c8b0c4edfa9264cae0f4846f93322881049af3d6322a915a8be91a"}
 {"ns":"heroku","name":"java","version":"0.3.5","yanked":false,"addr":"public.ecr.aws/r2f9u0w4/heroku-java-buildpack@sha256:797a38fe5588ea5a379063228a8f2bc3c7a59369e0f494c54fbe37ec52749b58"}
+{"ns":"heroku","name":"java","version":"0.3.6","yanked":false,"addr":"public.ecr.aws/r2f9u0w4/heroku-java-buildpack@sha256:a880fd282827598f4882ba32cd35f2620539491f65e8777156330428114d3a22"}
