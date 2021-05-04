@@ -1,1 +1,2 @@
 {"ns":"paketo-community","name":"miniconda","version":"0.1.0","yanked":false,"addr":"index.docker.io/paketocommunity/miniconda@sha256:03217d3a155b4ece0c2acdf386c74bb8875b97278c0ebb3728364d04d792b3b7"}
+{"ns":"paketo-community","name":"miniconda","version":"0.2.0","yanked":false,"addr":"index.docker.io/paketocommunity/miniconda@sha256:a012d4ae86ec97cd9c9180678a4a0a50db73fdd9c3af93fb5c5f783d9f0af360"}
