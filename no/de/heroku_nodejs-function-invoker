@@ -1,1 +1,2 @@
 {"ns":"heroku","name":"nodejs-function-invoker","version":"0.1.0","yanked":false,"addr":"public.ecr.aws/heroku-buildpacks/heroku-nodejs-function-invoker-buildpack@sha256:2688bb9c6f1b27fd67de960aaba922b922576037d2cd9ee01fe07d737e9d84e7"}
+{"ns":"heroku","name":"nodejs-function-invoker","version":"0.1.1","yanked":false,"addr":"public.ecr.aws/heroku-buildpacks/heroku-nodejs-function-invoker-buildpack@sha256:13b353af269a58b8dd0e3d7c45c91f620d8960f8cccf663c255c740a9fae3c3a"}
