@@ -2,3 +2,4 @@
 {"ns":"paketo-community","name":"python-start","version":"0.2.0","yanked":false,"addr":"index.docker.io/paketocommunity/python-start@sha256:248017c5dc97061496173bfd8f1ded8ed044b18154e5da8350d645ccab38d32c"}
 {"ns":"paketo-community","name":"python-start","version":"0.3.0","yanked":false,"addr":"index.docker.io/paketocommunity/python-start@sha256:9ddccc878bc63826b8138768006efc8f1aceaaf15c0ed07bc6facb6e7e675d07"}
 {"ns":"paketo-community","name":"python-start","version":"0.4.0","yanked":false,"addr":"index.docker.io/paketocommunity/python-start@sha256:4b03f8b96bba66bb0df85d79f1b681e4d06fedea74a88561d9a5f79f6376ea4a"}
+{"ns":"paketo-community","name":"python-start","version":"0.5.0","yanked":false,"addr":"index.docker.io/paketocommunity/python-start@sha256:db8173e00e352ca0d426864a0ae4220c334fbd03c5b204fffe8b10a93a994d9a"}
