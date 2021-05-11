@@ -1,1 +1,2 @@
 {"ns":"paketo-community","name":"python","version":"0.0.4","yanked":false,"addr":"index.docker.io/paketocommunity/python@sha256:5fc81b8f38f326f0247468c14b4eb66b36e5f925db12f9ea8df1ec57f9e61d94"}
+{"ns":"paketo-community","name":"python","version":"0.1.0","yanked":false,"addr":"index.docker.io/paketocommunity/python@sha256:bfbd7e9f5a7ac29aa319634e62407e7d3717ba769c823affac4016195079d7c1"}
