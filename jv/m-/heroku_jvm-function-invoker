@@ -8,3 +8,4 @@
 {"ns":"heroku","name":"jvm-function-invoker","version":"0.2.6","yanked":false,"addr":"public.ecr.aws/r2f9u0w4/heroku-jvm-function-invoker-buildpack@sha256:d6b2f9058275c715de36f2f890a9e7a827057da0c7304a551d3656566c9757d7"}
 {"ns":"heroku","name":"jvm-function-invoker","version":"0.2.7","yanked":false,"addr":"public.ecr.aws/r2f9u0w4/heroku-jvm-function-invoker-buildpack@sha256:59caf15fbcb48aac941ffa752061f1a4623aa91b56eb3a4a875172ed3398da1d"}
 {"ns":"heroku","name":"jvm-function-invoker","version":"0.2.8","yanked":false,"addr":"public.ecr.aws/r2f9u0w4/heroku-jvm-function-invoker-buildpack@sha256:9d609ebf6285f328263a7e8d91727269f85079111e4d607e1e61dcf34e5807ae"}
+{"ns":"heroku","name":"jvm-function-invoker","version":"0.2.9","yanked":false,"addr":"public.ecr.aws/r2f9u0w4/heroku-jvm-function-invoker-buildpack@sha256:af34e6932e7fba03998d8f70224861a7902739a2f44ef99dd8e858d1c1c13107"}
