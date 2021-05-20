@@ -1,1 +1,2 @@
 {"ns":"paketo-community","name":"pipenv-install","version":"0.1.0","yanked":false,"addr":"index.docker.io/paketocommunity/pipenv-install@sha256:0ea620bb81a7591707f5ea2ca8a975697a906e318bc1a0c0a039c4a4cb4605c8"}
+{"ns":"paketo-community","name":"pipenv-install","version":"0.2.0","yanked":false,"addr":"index.docker.io/paketocommunity/pipenv-install@sha256:78037e5f54da4741fcf1a31824f7edea5eda0ad59fc476f481eced1bd6daa616"}
