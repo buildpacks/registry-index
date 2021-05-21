@@ -1,1 +1,2 @@
 {"ns":"eagle","name":"java-agents","version":"0.0.1","yanked":false,"addr":"docker.io/argosio/eagle_java-agents@sha256:0b81c15dd482e7265ae972961fcaa4c5a8d598ce47cfdf3bc0a7cb447b61e83a"}
+{"ns":"eagle","name":"java-agents","version":"0.0.4","yanked":false,"addr":"docker.io/argosio/eagle_java-agents@sha256:793048a26e18920b138ea39831da884eeca93b7e77a013b9bb6ce652635732dc"}
