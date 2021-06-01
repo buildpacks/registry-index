@@ -1,2 +1,3 @@
 {"ns":"paketo-community","name":"conda-env-update","version":"0.1.0","yanked":false,"addr":"index.docker.io/paketocommunity/conda-env-update@sha256:615182b7cdcdc374043971f4fbc4be0a812390f2fd1b890218a79580ef420c32"}
 {"ns":"paketo-community","name":"conda-env-update","version":"0.2.0","yanked":false,"addr":"index.docker.io/paketocommunity/conda-env-update@sha256:afbe5e46891b97fc01ad0eebc8a59c8c0705972825398e43bcd921b33c734ff4"}
+{"ns":"paketo-community","name":"conda-env-update","version":"0.2.1","yanked":false,"addr":"index.docker.io/paketocommunity/conda-env-update@sha256:d706867f9d143325213998cbbc64965de5afbcce3bb72dbab716baabdab472d2"}
