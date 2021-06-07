@@ -1,3 +1,4 @@
 {"ns":"paketo-community","name":"pipenv","version":"0.0.118","yanked":false,"addr":"index.docker.io/paketocommunity/pipenv@sha256:e7ccec1e447f78883404a0bbdf2048de885461e63fb25ea0cd7e1f27b92ce8e3"}
 {"ns":"paketo-community","name":"pipenv","version":"0.0.119","yanked":false,"addr":"index.docker.io/paketocommunity/pipenv@sha256:920d739c4dcee9c0de26b325e364c235304dd7bc153d6e0aa11ce23e85d98c7c"}
 {"ns":"paketo-community","name":"pipenv","version":"0.1.0","yanked":false,"addr":"index.docker.io/paketocommunity/pipenv@sha256:d73d3c956a9a9bafa2f5bfa29603be99056ac07ef53555b3bc97222289497739"}
+{"ns":"paketo-community","name":"pipenv","version":"0.2.0","yanked":false,"addr":"index.docker.io/paketocommunity/pipenv@sha256:e3b3708f70dc702c562ac5d5ba5ab99e9ca484548b3b19ca48358af0f1bc6edb"}
