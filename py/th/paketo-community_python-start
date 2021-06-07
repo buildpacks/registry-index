@@ -4,3 +4,4 @@
 {"ns":"paketo-community","name":"python-start","version":"0.4.0","yanked":false,"addr":"index.docker.io/paketocommunity/python-start@sha256:4b03f8b96bba66bb0df85d79f1b681e4d06fedea74a88561d9a5f79f6376ea4a"}
 {"ns":"paketo-community","name":"python-start","version":"0.5.0","yanked":false,"addr":"index.docker.io/paketocommunity/python-start@sha256:db8173e00e352ca0d426864a0ae4220c334fbd03c5b204fffe8b10a93a994d9a"}
 {"ns":"paketo-community","name":"python-start","version":"0.6.0","yanked":false,"addr":"index.docker.io/paketocommunity/python-start@sha256:8eb200e709ac1f1a1a57b5b8deb0c8c8a04a5d50d9556d6d8375236f6e973249"}
+{"ns":"paketo-community","name":"python-start","version":"0.6.1","yanked":false,"addr":"index.docker.io/paketocommunity/python-start@sha256:f7aea647941b60bdb7b595eef48f859b57d60d3cc4b7eb832fecf16e5d7e8253"}
