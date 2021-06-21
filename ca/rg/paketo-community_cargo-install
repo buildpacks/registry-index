@@ -1,3 +1,4 @@
 {"ns":"paketo-community","name":"cargo-install","version":"0.0.5","yanked":false,"addr":"index.docker.io/paketocommunity/cargo-install@sha256:1541432c85fb973735b1cdd9ad14862b0679085cc1605c980f51197254626308"}
 {"ns":"paketo-community","name":"cargo-install","version":"0.0.6","yanked":false,"addr":"index.docker.io/paketocommunity/cargo-install@sha256:d48021c5a208ad0b4cf489730ba810c609d591b977175b61e006e512a877fa8a"}
 {"ns":"paketo-community","name":"cargo-install","version":"0.0.7","yanked":false,"addr":"index.docker.io/paketocommunity/cargo-install@sha256:2c59976b24712062829d1048ec10f47098a4916547ff61ece138b3047da30fe0"}
+{"ns":"paketo-community","name":"cargo-install","version":"0.0.8","yanked":false,"addr":"index.docker.io/paketocommunity/cargo-install@sha256:743df40cbb3059e859e1a564fd69ce099e62736e1e8a3d1dcc7db3d8ef393526"}
