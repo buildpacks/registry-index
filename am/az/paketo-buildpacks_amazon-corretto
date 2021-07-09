@@ -48,3 +48,4 @@
 {"ns":"paketo-buildpacks","name":"amazon-corretto","version":"6.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/amazon-corretto@sha256:0ec59261cfc7ef7afb5d71191a26a72e0d69a6ab1b2d40f9ef08d8695d9c1a6f"}
 {"ns":"paketo-buildpacks","name":"amazon-corretto","version":"6.1.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/amazon-corretto@sha256:6208bdd978ae2630f440ebd2b86649dc70f7f3067e7874e641e59036ad285dea"}
 {"ns":"paketo-buildpacks","name":"amazon-corretto","version":"6.1.2","yanked":false,"addr":"gcr.io/paketo-buildpacks/amazon-corretto@sha256:21ac26d75c1b9cda53d22bc16ab2750aa184ec14d321cc82bd45ae20e7c4be66"}
+{"ns":"paketo-buildpacks","name":"amazon-corretto","version":"6.1.3","yanked":false,"addr":"gcr.io/paketo-buildpacks/amazon-corretto@sha256:e4140db505dd37d84e1c14dc93999532c717bdce36b0e5392c3ba08336779adb"}
