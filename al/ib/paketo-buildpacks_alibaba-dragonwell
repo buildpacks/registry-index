@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"alibaba-dragonwell","version":"1.0.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/alibaba-dragonwell@sha256:dd777c47aadf6fbf31769f6dd1ead1c014b6a3cdbd51d5e635d37ca7f1109389"}
+{"ns":"paketo-buildpacks","name":"alibaba-dragonwell","version":"1.1.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/alibaba-dragonwell@sha256:ba1a8c592fc5dee077b009fd8a8146a5210ae2c72a5dd9f270eaaf294337b790"}
