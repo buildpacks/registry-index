@@ -40,3 +40,4 @@
 {"ns":"paketo-buildpacks","name":"apache-tomcat","version":"5.5.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/apache-tomcat@sha256:7bf643bdc0f676238f33f7e976e67f552a28cb5d66d1a910a4b81668da19dc03"}
 {"ns":"paketo-buildpacks","name":"apache-tomcat","version":"5.5.2","yanked":false,"addr":"gcr.io/paketo-buildpacks/apache-tomcat@sha256:39ff1601734a5c6f5ef0b375946fe7f6e5a8d426b1442d18cf70a7c54758bb6f"}
 {"ns":"paketo-buildpacks","name":"apache-tomcat","version":"5.6.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/apache-tomcat@sha256:477d9ae01e644843e535656b7f4e72efe6d2c712da29b6ecd799e25490d35486"}
+{"ns":"paketo-buildpacks","name":"apache-tomcat","version":"5.6.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/apache-tomcat@sha256:8bdabfdff557fcdc6ddadea59e4c715ca3dafc6174e91064a7ef32d4238eb8f6"}
