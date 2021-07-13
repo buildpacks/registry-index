@@ -1,0 +1,26 @@
+name: Repository Dispatch on release of buildpacks/github-actions
+on:
+  repository_dispatch:
+    types: [release-event]
+jobs:
+  myEvent:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update Version of buildpacks/github-actions
+        run: |
+            NEW_VERSION=$(curl -s  -H "Accept: application/vnd.github.v3+json"   https://api.github.com/repos/buildpacks/github-actions/releases/latest | jq .name -r)
+            sed -i 's/compute-metadata:[0-9].[0-9].[0-9]/compute-metadata:'"$NEW_VERSION"'/g' .github/workflows/register-buildpack.yml
+            sed -i 's/verify-namespace-owner:[0-9].[0-9].[0-9]/verify-namespace-owner:'"$NEW_VERSION"'/g' .github/workflows/register-buildpack.yml
+            sed -i 's/verify-metadata:[0-9].[0-9].[0-9]/verify-metadata:'"$NEW_VERSION"'/g' .github/workflows/register-buildpack.yml
+            sed -i 's/add-entry:[0-9].[0-9].[0-9]/add-entry:'"$NEW_VERSION"'/g' .github/workflows/register-buildpack.yml
+            sed -i 's/yank-entry:[0-9].[0-9].[0-9]/yank-entry:'"$NEW_VERSION"'/g' .github/workflows/register-buildpack.yml
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.DISTRIBUTION_GITHUB_TOKEN }}
+          commit-message: update version to latest release of buildpacks/github-actions
+          title: Update Version of buildpacks/github-actions
+          body: Updates version of buidlpacks/github-actions to reflect release changes in workflows of buidlpacks/registry-index
+          branch: update-version
+          base: main
