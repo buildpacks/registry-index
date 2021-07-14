@@ -24,3 +24,4 @@ jobs:
           body: Updates version of buidlpacks/github-actions to reflect release changes in workflows of buidlpacks/registry-index
           branch: update-version
           base: main
+          signoff: true
