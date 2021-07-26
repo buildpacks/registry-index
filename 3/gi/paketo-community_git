@@ -1,1 +1,2 @@
 {"ns":"paketo-community","name":"git","version":"0.0.2","yanked":false,"addr":"index.docker.io/paketocommunity/git@sha256:ba167e154cb01b24090188a87cc13cfc1aafb6bd45818404938f7daa736d1a89"}
+{"ns":"paketo-community","name":"git","version":"0.1.0","yanked":false,"addr":"index.docker.io/paketocommunity/git@sha256:341b8c7ec1a848cb1719e35b2eb232e56f06ad71aeb29d7cd46bc76b3960e677"}
