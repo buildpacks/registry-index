@@ -1,1 +1,2 @@
 {"ns":"heroku","name":"ruby","version":"0.1.0","yanked":false,"addr":"public.ecr.aws/r2f9u0w4/heroku-ruby-buildpack@sha256:0f05ccc534c20fb54cc6f0c71df9b21b2952f74f528ed98f55d81c40434844fd"}
+{"ns":"heroku","name":"ruby","version":"0.1.1","yanked":false,"addr":"public.ecr.aws/heroku-buildpacks/heroku-ruby-buildpack@sha256:55d8a49633b26f9f50b38b2ba6b2a1e52a1bd2167e7e89e16b72b55fb6fae7ca"}
