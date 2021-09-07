@@ -21,7 +21,7 @@ jobs:
           token: ${{ secrets.DISTRIBUTION_GITHUB_TOKEN }}
           commit-message: update version to latest release of buildpacks/github-actions
           title: Update Version of buildpacks/github-actions
-          body: Updates version of buidlpacks/github-actions to reflect release changes in workflows of buidlpacks/registry-index
+          body: Updates version of buildpacks/github-actions to reflect release changes in workflows of buildpacks/registry-index
           branch: update-version
           base: main
           signoff: true
