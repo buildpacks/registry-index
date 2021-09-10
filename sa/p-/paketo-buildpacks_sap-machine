@@ -45,3 +45,4 @@
 {"ns":"paketo-buildpacks","name":"sap-machine","version":"8.2.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/sap-machine@sha256:9398ef4f4fc6fec3882c9e26dbaf8c901415dabc9b19436f3d5794da05c61f75"}
 {"ns":"paketo-buildpacks","name":"sap-machine","version":"8.3.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/sap-machine@sha256:73301e4719ab1674df42cbcc2920830cfa784e2469d8cab700bdd4d88c7a9e16"}
 {"ns":"paketo-buildpacks","name":"sap-machine","version":"8.4.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/sap-machine@sha256:c6cef0d478db825049671d0bf0dabde36cb2ec69ec1e58c5cd905182931e829a"}
+{"ns":"paketo-buildpacks","name":"sap-machine","version":"8.4.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/sap-machine@sha256:8a5e9c45820d217432ed9475c9ddefed922394c9122d5d7ea2e827c967f04ca7"}
