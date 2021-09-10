@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"watchexec","version":"1.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/watchexec@sha256:b51b9d8934fe45ed1e3fa59b7b3ee1befb09f79fa1e88ea7ebce12d00e0051d1"}
+{"ns":"paketo-buildpacks","name":"watchexec","version":"1.0.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/watchexec@sha256:70390acca07541058db2d7e1c1e9444eaad43c94e2c23994dadfea62142dcf0f"}
