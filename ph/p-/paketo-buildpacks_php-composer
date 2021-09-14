@@ -2,3 +2,4 @@
 {"ns":"paketo-buildpacks","name":"php-composer","version":"0.2.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-composer@sha256:3d48276f871eb8c531007f43267659de694ce31180d368e0be23571f3e3f65aa"}
 {"ns":"paketo-buildpacks","name":"php-composer","version":"0.2.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-composer@sha256:baca13c2a42b4a38c362005816d471972464b946866c4dc5f1afe080d98a1f0f"}
 {"ns":"paketo-buildpacks","name":"php-composer","version":"0.2.2","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-composer@sha256:44fe561c4ceebab2cb6928bea9be2684ef31c3ff4a768cca55c944b7ce621c26"}
+{"ns":"paketo-buildpacks","name":"php-composer","version":"0.2.3","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-composer@sha256:0df7a0e506649c3eebf5bdf57f870f63363767a4c07c1d5e9dfa824a5104d4e5"}
