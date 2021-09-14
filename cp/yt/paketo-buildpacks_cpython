@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"cpython","version":"0.7.2","yanked":false,"addr":"index.docker.io/paketobuildpacks/cpython@sha256:fb42635709e97608edefd2aa7b224d058520f46424a3bc7a3ca8f59d50bda317"}
+{"ns":"paketo-buildpacks","name":"cpython","version":"0.7.3","yanked":false,"addr":"index.docker.io/paketobuildpacks/cpython@sha256:c4611c84dddd6f6b992eb848b8c6cb913468197b89c5706233a8940bd51339b7"}
