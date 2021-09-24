@@ -11,3 +11,4 @@
 {"ns":"paketo-buildpacks","name":"leiningen","version":"3.2.2","yanked":false,"addr":"gcr.io/paketo-buildpacks/leiningen@sha256:0f07d090ac7b864523f5bbd2d9e6c18c7e40216a29334848a3b7e463d42c2967"}
 {"ns":"paketo-buildpacks","name":"leiningen","version":"3.3.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/leiningen@sha256:06612ef2dc921867b7e3412eed9f9e0450647370bd23934e7ec5debcf628e270"}
 {"ns":"paketo-buildpacks","name":"leiningen","version":"3.3.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/leiningen@sha256:193d25ed8a8c3c67177d4e158f41357e09da8a716ddd6de06c1d8415ca1f39dc"}
+{"ns":"paketo-buildpacks","name":"leiningen","version":"3.4.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/leiningen@sha256:c28aec30a36611e42ef429e6f043a82829d3fd5e3b896707a809416d86988304"}
