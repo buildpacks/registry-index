@@ -1,1 +1,2 @@
 {"ns":"paketo-community","name":"cargo","version":"0.0.11","yanked":false,"addr":"docker.io/paketocommunity/rust-dist@sha256:1d634940b73b96e4d0a4643004442ddbfd195450e9ce9b98513cf4aa27e7432c"}
+{"ns":"paketo-community","name":"cargo","version":"0.0.12","yanked":false,"addr":"docker.io/paketocommunity/cargo@sha256:e0f137b9df68f7aab26a9ff930b96145db7f6d9cf6f606c0fe5f0205030708d1"}
