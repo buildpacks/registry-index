@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"pip","version":"0.5.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/pip@sha256:12750dfbab2d681be53b342484b7d1ffa32ff650328d0483ede80ae3c1dfc15c"}
+{"ns":"paketo-buildpacks","name":"pip","version":"0.6.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/pip@sha256:959f323389ad274f0963b37bcaaf712ce2c25af2fd9e4befecb10578450842c4"}
