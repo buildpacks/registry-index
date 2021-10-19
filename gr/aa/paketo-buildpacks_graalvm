@@ -41,3 +41,4 @@
 {"ns":"paketo-buildpacks","name":"graalvm","version":"6.4.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/graalvm@sha256:2a630da6fbcd71596f212f1934c3e69c1ab2dbf34c5d3a916f2f8f223918a14f"}
 {"ns":"paketo-buildpacks","name":"graalvm","version":"6.4.2","yanked":false,"addr":"gcr.io/paketo-buildpacks/graalvm@sha256:b5ece0cd96cf52f3c4cb01879720ca8a888848c200ee141113ac4d29a0cb1dbc"}
 {"ns":"paketo-buildpacks","name":"graalvm","version":"6.5.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/graalvm@sha256:2bb85362b2af93e4d719ef2d86bbef899604b1aa696130d75433768bd07e8a9d"}
+{"ns":"paketo-buildpacks","name":"graalvm","version":"6.6.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/graalvm@sha256:d982c1529eb6cf2b6b7885aef335ab1ebcec26286a386ce3368953e3f4780e20"}
