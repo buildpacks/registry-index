@@ -1,2 +1,3 @@
 {"ns":"paketo-buildpacks","name":"adoptium","version":"9.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/adoptium@sha256:131721c30baf48352a58f09d608ad53066d3125f6d52353a6de8bf684bf5c97c"}
 {"ns":"paketo-buildpacks","name":"adoptium","version":"9.1.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/adoptium@sha256:7b5e610d49e6ba21efbea59edfe1d8035faa320677c693009263d46940760f77"}
+{"ns":"paketo-buildpacks","name":"adoptium","version":"9.2.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/adoptium@sha256:56ab36967dbbb51bfb6a8ad71368406d0b2e444171dbff31ac34d2b0e89cd3df"}
