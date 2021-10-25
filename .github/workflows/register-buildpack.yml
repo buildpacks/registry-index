@@ -10,11 +10,11 @@ jobs:
     if: ${{ startsWith(github.event.issue.title, 'ADD') }}
     runs-on: ubuntu-latest
     steps:
-      - uses: docker://ghcr.io/buildpacks/actions/registry/compute-metadata:4.4.0
+      - uses: docker://ghcr.io/buildpacks/actions/registry/compute-metadata:4.4.1
         id: metadata
         with:
           issue: ${{ toJSON(github.event.issue) }}
-      - uses: docker://ghcr.io/buildpacks/actions/registry/verify-namespace-owner:4.4.0
+      - uses: docker://ghcr.io/buildpacks/actions/registry/verify-namespace-owner:4.4.1
         id: verify-namespace-owner
         with:
           token: ${{ secrets.DISTRIBUTION_GITHUB_TOKEN }}
@@ -23,13 +23,13 @@ jobs:
           namespace: ${{ steps.metadata.outputs.namespace }}
           user: ${{ toJSON(github.event.issue.user) }}
           add-if-missing: true
-      - uses: docker://ghcr.io/buildpacks/actions/buildpackage/verify-metadata:4.4.0
+      - uses: docker://ghcr.io/buildpacks/actions/buildpackage/verify-metadata:4.4.1
         with:
           token: ${{ secrets.DISTRIBUTION_GITHUB_TOKEN }}
           id: ${{ steps.metadata.outputs.id }}
           version: ${{ steps.metadata.outputs.version }}
           address: ${{ steps.metadata.outputs.address }}
-      - uses: docker://ghcr.io/buildpacks/actions/registry/add-entry:4.4.0
+      - uses: docker://ghcr.io/buildpacks/actions/registry/add-entry:4.4.1
         with:
           token: ${{ secrets.DISTRIBUTION_GITHUB_TOKEN }}
           owner: ${{ secrets.INDEX_OWNER }}
@@ -67,11 +67,11 @@ jobs:
     if: ${{ startsWith(github.event.issue.title, 'YANK') }}
     runs-on: ubuntu-latest
     steps:
-      - uses: docker://ghcr.io/buildpacks/actions/registry/compute-metadata:4.4.0
+      - uses: docker://ghcr.io/buildpacks/actions/registry/compute-metadata:4.4.1
         id: metadata
         with:
           issue: ${{ toJSON(github.event.issue) }}
-      - uses: docker://ghcr.io/buildpacks/actions/registry/verify-namespace-owner:4.4.0
+      - uses: docker://ghcr.io/buildpacks/actions/registry/verify-namespace-owner:4.4.1
         id: verify-namespace-owner
         with:
           token: ${{ secrets.DISTRIBUTION_GITHUB_TOKEN }}
@@ -79,7 +79,7 @@ jobs:
           repository: ${{ secrets.NAMESPACES_REPOSITORY }}
           namespace: ${{ steps.metadata.outputs.namespace }}
           user: ${{ toJSON(github.event.issue.user) }}
-      - uses: docker://ghcr.io/buildpacks/actions/registry/yank-entry:4.4.0
+      - uses: docker://ghcr.io/buildpacks/actions/registry/yank-entry:4.4.1
         with:
           token: ${{ secrets.DISTRIBUTION_GITHUB_TOKEN }}
           owner: ${{ secrets.INDEX_OWNER }}
