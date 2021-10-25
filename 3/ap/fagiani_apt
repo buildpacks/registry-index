@@ -1,1 +1,2 @@
 {"ns":"fagiani","name":"apt","version":"0.1.0","yanked":false,"addr":"ghcr.io/fagiani/buildpacks/fagiani_apt@sha256:622d013de847800ee7030cb839f459146e07771f8dacdf89318c25ee749b73b6"}
+{"ns":"fagiani","name":"apt","version":"0.2.0","yanked":false,"addr":"ghcr.io/fagiani/buildpacks/fagiani_apt@sha256:7b0b1cdd51825bf4a0bcc70bb9fffd4d918a4d8f90a615f3738a4723d648c3e6"}
