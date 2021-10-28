@@ -14,3 +14,4 @@
 {"ns":"heroku","name":"java","version":"0.3.10","yanked":false,"addr":"public.ecr.aws/heroku-buildpacks/heroku-java-buildpack@sha256:1483c15d79e460d8e682f9e1f765a04cca130e43e65ade4390d67fc944c4358a"}
 {"ns":"heroku","name":"java","version":"0.3.11","yanked":false,"addr":"public.ecr.aws/heroku-buildpacks/heroku-java-buildpack@sha256:1ee76637ef8fd4836356a22956b2afe2cd8313a54c21eac2dba875a396c23042"}
 {"ns":"heroku","name":"java","version":"0.3.12","yanked":false,"addr":"public.ecr.aws/heroku-buildpacks/heroku-java-buildpack@sha256:2dc6e31e669a3fe762dd130aad7c4dc4e6596ef11c55329b1a61f62d7e2512a5"}
+{"ns":"heroku","name":"java","version":"0.3.13","yanked":false,"addr":"public.ecr.aws/heroku-buildpacks/heroku-java-buildpack@sha256:e1a7081e1ffa53870229c331a9d700ae640e2a47d36085d6b2260f913dd1e7e9"}
