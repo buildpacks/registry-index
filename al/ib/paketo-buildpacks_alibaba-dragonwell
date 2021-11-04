@@ -9,3 +9,4 @@
 {"ns":"paketo-buildpacks","name":"alibaba-dragonwell","version":"1.5.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/alibaba-dragonwell@sha256:70cdc272f2f8f93f65324875536c734821dd4005d0d587d9ef2b9092551853da"}
 {"ns":"paketo-buildpacks","name":"alibaba-dragonwell","version":"1.6.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/alibaba-dragonwell@sha256:f515bdfd82e20ce10d96c769925d298d4a2548026118a87df599be1b6dcd57d4"}
 {"ns":"paketo-buildpacks","name":"alibaba-dragonwell","version":"1.7.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/alibaba-dragonwell@sha256:8b64b70f637e42e48708f4462e0b4490ba4d7e480329d9f6c39080004382052d"}
+{"ns":"paketo-buildpacks","name":"alibaba-dragonwell","version":"1.7.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/alibaba-dragonwell@sha256:e9394f3092933869065ecdde49f8840d3bc6c2db38d776ff4b6f135933a8768a"}
