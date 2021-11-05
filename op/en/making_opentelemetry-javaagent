@@ -1,1 +1,2 @@
 {"ns":"making","name":"opentelemetry-javaagent","version":"0.1.0","yanked":false,"addr":"ghcr.io/making/buildpacks/opentelemetry-javaagent@sha256:7f638d7e6b3038f7c4dc6d987f3bf6e20c84026f497a9d0bad80b7ba3d157e39"}
+{"ns":"making","name":"opentelemetry-javaagent","version":"0.1.2","yanked":false,"addr":"ghcr.io/making/buildpacks/opentelemetry-javaagent@sha256:131285a90965e40df0fed4dc7d47a4961aae8e3f5afdd812bc44646f45fb9942"}
