@@ -1,1 +1,2 @@
 {"ns":"paketo-community","name":"rustup","version":"1.0.0","yanked":false,"addr":"docker.io/paketocommunity/rustup@sha256:c289d2bcdb60879a3a6622e35da5331678ca6211a069d55668c654f1ba50ba15"}
+{"ns":"paketo-community","name":"rustup","version":"1.1.0","yanked":false,"addr":"docker.io/paketocommunity/rustup@sha256:01169e484694e20e6fd21d0e55c3388f5b339a8de8715cb3d074f10726f6d95d"}
