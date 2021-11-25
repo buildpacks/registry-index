@@ -4,3 +4,4 @@
 {"ns":"paketo-buildpacks","name":"clojure-tools","version":"1.1.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/clojure-tools@sha256:d5ff29a757ebb591b88b1ce73fae1dc05650f49dae2ac4467a337c6c1e22461f"}
 {"ns":"paketo-buildpacks","name":"clojure-tools","version":"1.1.2","yanked":false,"addr":"gcr.io/paketo-buildpacks/clojure-tools@sha256:32bd368412b077a5b43b25cc92436c82a5fb7ce16f8813b6489446d88debe526"}
 {"ns":"paketo-buildpacks","name":"clojure-tools","version":"1.1.3","yanked":false,"addr":"gcr.io/paketo-buildpacks/clojure-tools@sha256:6ceb35e4276c5fbd3aa17b79e89dab291cf1ea882f7339596865a3141c9d9973"}
+{"ns":"paketo-buildpacks","name":"clojure-tools","version":"2.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/clojure-tools@sha256:d1e4fbacbb3a0ecd7364aec99b4ee93e4e3938ab981836afbd313fa351757163"}
