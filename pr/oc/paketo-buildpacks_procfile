@@ -29,3 +29,4 @@
 {"ns":"paketo-buildpacks","name":"procfile","version":"4.3.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/procfile@sha256:c033da1182bc34472ee8f3bc2f68f13775ef9a3d4b9f170e3bfb316d099ca497"}
 {"ns":"paketo-buildpacks","name":"procfile","version":"4.4.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/procfile@sha256:228e56228872d5033290bfb2e6d3d8d9def04e3d2f7a542aa04b0a7c642832b0"}
 {"ns":"paketo-buildpacks","name":"procfile","version":"4.4.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/procfile@sha256:11046ad58156ab3ee87cbc837336dfd138ff6c990374b4e116eafdb383d6523e"}
+{"ns":"paketo-buildpacks","name":"procfile","version":"5.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/procfile@sha256:02cebcabac31a5ec96fa4fec2aa65d0fc629882481c16e29d32c8cd1eff55d8a"}
