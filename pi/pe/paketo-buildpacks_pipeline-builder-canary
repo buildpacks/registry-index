@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"pipeline-builder-canary","version":"1.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/pipeline-builder-canary@sha256:e142967c8b57a391a94fd191bf5e38f49b5dba8759152ab73b4d85c322e6289c"}
+{"ns":"paketo-buildpacks","name":"pipeline-builder-canary","version":"2.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/pipeline-builder-canary@sha256:30a070722f3e649b14aeb20dc479acea071077208746d8113286e7c5456f68f4"}
