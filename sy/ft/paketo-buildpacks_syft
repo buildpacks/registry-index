@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"syft","version":"1.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/syft@sha256:5dbf7685704d4c3561390fef466c21ab05f364bfe6ae8ebc5d9c88330b6f8e88"}
+{"ns":"paketo-buildpacks","name":"syft","version":"1.0.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/syft@sha256:49bcf10e1b88ba5d2c3b36d9772932a6a6c6963d81f3fece78ace1ddcd0e2524"}
