@@ -4,3 +4,4 @@
 {"ns":"paketo-buildpacks","name":"dep-ensure","version":"0.0.39","yanked":false,"addr":"index.docker.io/paketobuildpacks/dep-ensure@sha256:91306a9072e24a62584db16c5624a01113e696287a8bf4adf47bd2af563d6f91"}
 {"ns":"paketo-buildpacks","name":"dep-ensure","version":"0.1.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/dep-ensure@sha256:4c6d22581c61c185063748edd4cee5deb3d3ac7abf578d854f0f56948a6e0b33"}
 {"ns":"paketo-buildpacks","name":"dep-ensure","version":"0.1.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/dep-ensure@sha256:3c412cebf9a45223f9315ee953760a635d9f47e805669bc58a737772841b8fb3"}
+{"ns":"paketo-buildpacks","name":"dep-ensure","version":"0.2.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/dep-ensure@sha256:b900fa6068d20dc9c8c1ca89c920ce7fa04afb156262adc9539fb9d91326e4e6"}
