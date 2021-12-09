@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"python-start","version":"0.6.2","yanked":false,"addr":"index.docker.io/paketobuildpacks/python-start@sha256:e23de464f5d10e367b9b2f33157972fc75159d64aadcbf12bd283d4f6cadff81"}
+{"ns":"paketo-buildpacks","name":"python-start","version":"0.8.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/python-start@sha256:65dd2afe50782217e0c7ded9913f62fc12b4b8235e8b5c0d8a3260356f7c7f00"}
