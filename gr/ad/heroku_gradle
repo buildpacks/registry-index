@@ -1,2 +1,3 @@
 {"ns":"heroku","name":"gradle","version":"0.0.34","yanked":false,"addr":"public.ecr.aws/r2f9u0w4/heroku-gradle-buildpack@sha256:7163f393470de8255fe03e06d55d3ae7bf59bf683f4ff2651ed92b6538eed0ad"}
 {"ns":"heroku","name":"gradle","version":"0.0.35","yanked":false,"addr":"public.ecr.aws/r2f9u0w4/heroku-gradle-buildpack@sha256:3ee7cce8ba4f2c7496a92aae18a720016a3dccbec44c81e6a68f213a681dabbc"}
+{"ns":"heroku","name":"gradle","version":"0.0.36","yanked":false,"addr":"public.ecr.aws/heroku-buildpacks/heroku-gradle-buildpack@sha256:472b619c60e599805ba15d62eb29b35638efe0b860a9421dd6f064f094f15757"}
