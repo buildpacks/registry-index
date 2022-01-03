@@ -6,3 +6,4 @@
 {"ns":"paketo-buildpacks","name":"adoptium","version":"9.3.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/adoptium@sha256:250a0f21806639fee38044839a11de2c6b63a80fbe37440d4a462077471be15c"}
 {"ns":"paketo-buildpacks","name":"adoptium","version":"10.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/adoptium@sha256:e7ef20e5ab0c19916538b05088bde94fc52654fcc80e075d35fd90d1508e73e6"}
 {"ns":"paketo-buildpacks","name":"adoptium","version":"10.0.2","yanked":false,"addr":"gcr.io/paketo-buildpacks/adoptium@sha256:e831b09f7ac224e353aa05487c0aa526cc3f65ca82298a40c68cb7f26f5d79ba"}
+{"ns":"paketo-buildpacks","name":"adoptium","version":"10.0.3","yanked":false,"addr":"gcr.io/paketo-buildpacks/adoptium@sha256:bcb713c61711f6294e6f11b5c8ad2de4c7af8b108baa4c15ad8060f8ff091ad6"}
