@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"open-liberty","version":"0.1.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/open-liberty@sha256:6ce1f0050e0750d59b9aeda2d3199b145dab95f4162325fc5bfdb2b5b4395955"}
+{"ns":"paketo-buildpacks","name":"open-liberty","version":"0.2.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/open-liberty@sha256:d2504fd30e300e1088981087923e8365029a115b1a5cf10afe97ec39b043901e"}
