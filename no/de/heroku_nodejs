@@ -10,3 +10,4 @@
 {"ns":"heroku","name":"nodejs","version":"0.3.7","yanked":false,"addr":"public.ecr.aws/heroku-buildpacks/heroku-nodejs-buildpack@sha256:8ca9a4e597b7e0fd5b34e7fb37a8619c988d4d455d9ba0dff9a9bf6d1ad14bdc"}
 {"ns":"heroku","name":"nodejs","version":"0.3.8","yanked":false,"addr":"public.ecr.aws/heroku-buildpacks/heroku-nodejs-buildpack@sha256:30ab86eed55dd816fa45045dd549db97c8cfd5b9c492eae79b3095a3fafaf3a5"}
 {"ns":"heroku","name":"nodejs","version":"0.4.0","yanked":false,"addr":"public.ecr.aws/heroku-buildpacks/heroku-nodejs-buildpack@sha256:11f5c7ae293b4b84b877d43a50a032f145cc69ed67866cb6cc1d1d1457126647"}
+{"ns":"heroku","name":"nodejs","version":"0.4.1","yanked":false,"addr":"public.ecr.aws/heroku-buildpacks/heroku-nodejs-buildpack@sha256:345070637ae84a9578e47332e8fb3fdb925ed6f91a90bf971d1523f6c2043f2c"}
