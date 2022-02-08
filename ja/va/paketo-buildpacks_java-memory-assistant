@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"java-memory-assistant","version":"0.0.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/java-memory-assistant@sha256:b4f743c39b8392f8424a1c8c343f8531ddcb94b0c62e8b8cae8795347f52d1ec"}
+{"ns":"paketo-buildpacks","name":"java-memory-assistant","version":"0.0.2","yanked":false,"addr":"gcr.io/paketo-buildpacks/java-memory-assistant@sha256:0d7add7def98a8dce003e4f52befe8d02fe06f201f71c77bebc5cb53895334db"}
