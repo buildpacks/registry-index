@@ -1,2 +1,3 @@
 {"ns":"paketo-buildpacks","name":"jattach","version":"0.0.2","yanked":false,"addr":"gcr.io/paketo-buildpacks/jattach@sha256:432a0dafaa40499d3698dce6244bfde95c92f42bf0c0cb8637f9dffc87ad5c97"}
 {"ns":"paketo-buildpacks","name":"jattach","version":"0.0.3","yanked":false,"addr":"gcr.io/paketo-buildpacks/jattach@sha256:408f2ca7029e3d1ff372c479f6da548d60db325ce6fafbad76ba1e85305b7b4a"}
+{"ns":"paketo-buildpacks","name":"jattach","version":"1.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/jattach@sha256:ee4c30208597aff70baa3645486c521fc9f7b318e7efa62e883c33cbc3a228df"}
