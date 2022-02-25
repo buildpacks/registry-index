@@ -4,3 +4,4 @@
 {"ns":"paketo-buildpacks","name":"open-liberty","version":"0.3.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/open-liberty@sha256:3dbacef7f057f03a1aef81b57db57201a04159f9ea31e2295ec3702f1fea9ef0"}
 {"ns":"paketo-buildpacks","name":"open-liberty","version":"0.3.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/open-liberty@sha256:81f1bfaea1a8681cd2888e7bb31fcda47d01f5e8f70943604c16bdac55cb6065"}
 {"ns":"paketo-buildpacks","name":"open-liberty","version":"0.3.2","yanked":false,"addr":"gcr.io/paketo-buildpacks/open-liberty@sha256:6d50ea8dc9ab7d4cc4125ecae5737f8b73a061440dfbb46333f0b510b80a2d6f"}
+{"ns":"paketo-buildpacks","name":"open-liberty","version":"0.4.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/open-liberty@sha256:6ea38dff2c4c792759888646f8d92beb85c0696bb0214c35a9d506a6c2490c58"}
