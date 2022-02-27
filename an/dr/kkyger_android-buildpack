@@ -1,2 +1,3 @@
 {"ns":"kkyger","name":"android-buildpack","version":"0.0.1","yanked":false,"addr":"registry.futurehax.com/futurehax/androidbuildpack@sha256:41983061e83937e1c4c01b2a388c37f6da5075dd6e59dbb0a2e077e54ab0f5bd"}
 {"ns":"kkyger","name":"android-buildpack","version":"0.0.2","yanked":false,"addr":"registry.futurehax.com/futurehax/androidbuildpack@sha256:96df7c7a960892061cb1d7b45957a852c04f05e84934e9fb966565d8fd4d47a1"}
+{"ns":"kkyger","name":"android-buildpack","version":"0.0.3","yanked":false,"addr":"registry.futurehax.com/futurehax/androidbuildpack@sha256:874ddf3f9e03d573375ffdc8ec51a8e06ccf730f7e1b17aee37621451c5bbe73"}
