@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"git","version":"0.4.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/git@sha256:d6d60cb2345ee05da161704ef52fcb623a1838e1aeca2c86e2a6874feaf3833c"}
+{"ns":"paketo-buildpacks","name":"git","version":"0.4.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/git@sha256:045930eccd3bea95942a630bfc0f6264724136d2aed27c6c407a4d8f27b591a9"}
