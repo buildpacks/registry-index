@@ -9,3 +9,4 @@
 {"ns":"paketo-buildpacks","name":"watchexec","version":"2.1.2","yanked":false,"addr":"gcr.io/paketo-buildpacks/watchexec@sha256:ee913b00e2c8fddd28175af62df268be9c3ad5136ff3c7309597044b905cfcc7"}
 {"ns":"paketo-buildpacks","name":"watchexec","version":"2.2.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/watchexec@sha256:02e82a31501d252507294d482b7953230fcd014689d5cff9cbe51f0add1ccbeb"}
 {"ns":"paketo-buildpacks","name":"watchexec","version":"2.3.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/watchexec@sha256:b341ae6690fffac9b2b9c7e61640f9b4a59d9e2ef4bac93a6e613c89d4c8080a"}
+{"ns":"paketo-buildpacks","name":"watchexec","version":"2.3.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/watchexec@sha256:0137bc668e73f6b9ab57ed61344a5429e534e208ea4f5753cc9141e6a3302d6e"}
