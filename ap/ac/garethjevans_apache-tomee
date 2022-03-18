@@ -1,3 +1,4 @@
 {"ns":"garethjevans","name":"apache-tomee","version":"0.1.0","yanked":false,"addr":"ghcr.io/garethjevans/apache-tomee@sha256:ff628c57ad8c77e7080ae020f7114543cc25f12a9c6f25c3298c29a2806dcfd4"}
 {"ns":"garethjevans","name":"apache-tomee","version":"0.2.0","yanked":false,"addr":"ghcr.io/garethjevans/apache-tomee@sha256:9f5dd1155e259019e85a2ca8b6c152d954573cb8a2481bb55c87432f2d88890a"}
 {"ns":"garethjevans","name":"apache-tomee","version":"0.3.0","yanked":false,"addr":"ghcr.io/garethjevans/apache-tomee@sha256:c55286c4653901141aadd12a7e83f7780bac08dae7290ce3714c6b21aed2ffa4"}
+{"ns":"garethjevans","name":"apache-tomee","version":"0.3.1","yanked":false,"addr":"ghcr.io/garethjevans/apache-tomee@sha256:e0477851781be6e44d291e185df7aceaba1d9b02a3403a556473b84e941f5f5a"}
