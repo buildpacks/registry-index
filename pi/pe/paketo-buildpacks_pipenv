@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"pipenv","version":"0.2.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/pipenv@sha256:bdf16bc0b1c489586c8600a3ce705704d53935982677bb7af71de9a59f22683b"}
+{"ns":"paketo-buildpacks","name":"pipenv","version":"0.3.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/pipenv@sha256:3674339d35c0105fd50961ab8bf6be6b4ad1d6d86b81adb3f86c357964d1df69"}
