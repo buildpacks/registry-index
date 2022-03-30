@@ -1,2 +1,3 @@
 {"ns":"fagiani","name":"s3-tarball","version":"0.1.0","yanked":false,"addr":"ghcr.io/fagiani/buildpacks/fagiani_s3-tarball@sha256:b124692804069bd8f3a144b869e8857efabbde5caa7a278455de2b7314a73fc7"}
 {"ns":"fagiani","name":"s3-tarball","version":"0.1.1","yanked":false,"addr":"ghcr.io/fagiani/buildpacks/fagiani_s3-tarball@sha256:3ccb903a27b4ab1efbe68de9d6892fa0edc0e6886eb5f8754a8198b3ab799dfe"}
+{"ns":"fagiani","name":"s3-tarball","version":"0.1.2","yanked":false,"addr":"ghcr.io/fagiani/buildpacks/fagiani_s3-tarball@sha256:278b04fdbf92b93e0c42b65b84a28a59557d3072685611515b7bd16482d1e6ee"}
