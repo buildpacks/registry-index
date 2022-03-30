@@ -39,3 +39,4 @@
 {"ns":"paketo-buildpacks","name":"executable-jar","version":"6.0.3","yanked":false,"addr":"gcr.io/paketo-buildpacks/executable-jar@sha256:0079ec25f4a051877d7a93a808f719980c838790ab995f21f3b5e11159a64981"}
 {"ns":"paketo-buildpacks","name":"executable-jar","version":"6.0.4","yanked":false,"addr":"gcr.io/paketo-buildpacks/executable-jar@sha256:761bb4f38aadf642aca2b33bb89c69af57e7d363090cc699b37f6a0f1985d008"}
 {"ns":"paketo-buildpacks","name":"executable-jar","version":"6.1.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/executable-jar@sha256:0741ea6b4bc1e6858d304a6ba66cafc01f8e85658c8d7d5794595dd58dac91c7"}
+{"ns":"paketo-buildpacks","name":"executable-jar","version":"6.2.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/executable-jar@sha256:fc79be6b25347f2145d8ee5e821ea4770d752b2c64e4fbaf7d0622cc4395f8e0"}
