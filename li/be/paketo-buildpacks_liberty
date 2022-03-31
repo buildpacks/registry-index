@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"liberty","version":"1.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/liberty@sha256:f7513d442d1c97c161412a4a9c90956aee81435ccdb9b1bd3e862d33aa06c496"}
+{"ns":"paketo-buildpacks","name":"liberty","version":"1.0.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/liberty@sha256:7f8cc5ef5ad9548a9fdf98bd28bd1a46a0c1136e6cfe10ffce409885f5270a56"}
