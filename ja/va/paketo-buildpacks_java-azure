@@ -76,3 +76,4 @@
 {"ns":"paketo-buildpacks","name":"java-azure","version":"7.14.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/java-azure@sha256:883d88137d54de0534da073c6d4a496ccf8ccb9f043bcfb0fb3f3ce93fea2f7a"}
 {"ns":"paketo-buildpacks","name":"java-azure","version":"7.14.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/java-azure@sha256:9cd4be99fbca6941b0184e4c3b0f1393ac571d6e3fd3cf013fd11fbd6ed5bdc9"}
 {"ns":"paketo-buildpacks","name":"java-azure","version":"7.15.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/java-azure@sha256:ecd2f82e642aa29556c3c6dea97251b807c3299f3e7abc768746bf4b594e2b03"}
+{"ns":"paketo-buildpacks","name":"java-azure","version":"7.16.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/java-azure@sha256:fbf763e60b920a3760ac28c30f34d7896c010d838d052ad743c1f9e26b02e741"}
