@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"php-start","version":"0.1.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-start@sha256:538ad38e049f7fa4390b2c0337325c70fb085faa1203072c46e8ac6902ce752c"}
+{"ns":"paketo-buildpacks","name":"php-start","version":"0.2.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-start@sha256:bd50f84bbc3d97692dc82a1c0b446767a3a2fb2578eb42fcafae217aec8ff01e"}
