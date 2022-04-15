@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"conda-env-update","version":"0.2.2","yanked":false,"addr":"index.docker.io/paketobuildpacks/conda-env-update@sha256:1a02b80359ab09a057954f4d5e9f2381787411166b60a6e9d77c02cc20909c83"}
+{"ns":"paketo-buildpacks","name":"conda-env-update","version":"0.3.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/conda-env-update@sha256:233175d508a06ef95e2f38424a038f3018adda63bdf28b24a1324ed61f4d487c"}
