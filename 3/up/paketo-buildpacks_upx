@@ -7,3 +7,4 @@
 {"ns":"paketo-buildpacks","name":"upx","version":"3.0.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/upx@sha256:746037287b759030796dd4593d26be6e7e52375f8a211eae3d27f720dc98edcc"}
 {"ns":"paketo-buildpacks","name":"upx","version":"3.1.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/upx@sha256:e937b5592be0981bfd6746243ba7839bed1e47d2166c8597f8221f3eba3944dc"}
 {"ns":"paketo-buildpacks","name":"upx","version":"3.1.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/upx@sha256:0eaa95ce065a20f8341ec2df767cb5e98edf0b9c3ad0dc7e9ce7678d4a99e3e9"}
+{"ns":"paketo-buildpacks","name":"upx","version":"3.1.2","yanked":false,"addr":"gcr.io/paketo-buildpacks/upx@sha256:3a8ffba9a0a8794ecd970f6ffdaf58c12641a2a1ca4f93c2242cbd3d52fb18ad"}
