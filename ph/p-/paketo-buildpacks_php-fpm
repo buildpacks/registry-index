@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"php-fpm","version":"0.0.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-fpm@sha256:8d627d912125bfaa057614519a15d2d1e1ca82735fa8bbcd3c44ec26a0fa1701"}
+{"ns":"paketo-buildpacks","name":"php-fpm","version":"0.1.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-fpm@sha256:34d310c9ec712c5aa60ff014d45ad927f6016d15730fd0482ca7b63bfccdd73f"}
