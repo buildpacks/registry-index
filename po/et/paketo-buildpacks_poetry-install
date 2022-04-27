@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"poetry-install","version":"0.1.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/poetry-install@sha256:312db6cb62c6347630319dba43ed3e4e932336fd83906963fa6b800c04311a47"}
+{"ns":"paketo-buildpacks","name":"poetry-install","version":"0.2.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/poetry-install@sha256:5387ff4fe838bf8bb135806c29d2388e80b25eb7e24c5da46faf4e0591a0675a"}
