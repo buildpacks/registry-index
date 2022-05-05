@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"composer-install","version":"0.1.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/composer-install@sha256:9c779edc417ab097d8ca93262afa6d581d7721762b9eb88801fde1104a515fe1"}
+{"ns":"paketo-buildpacks","name":"composer-install","version":"0.1.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/composer-install@sha256:ce0658f2b7e85033cc0579cb44e36e9b3735e7daabf9be076f8194b06912ba93"}
