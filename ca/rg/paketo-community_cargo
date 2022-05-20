@@ -6,3 +6,4 @@
 {"ns":"paketo-community","name":"cargo","version":"0.3.0","yanked":false,"addr":"docker.io/paketocommunity/cargo@sha256:abdf469feb8484fbb00aa3823a4b17757d9f50db1d73dea2bd181d5e970a8fb5"}
 {"ns":"paketo-community","name":"cargo","version":"0.4.0","yanked":false,"addr":"docker.io/paketocommunity/cargo@sha256:e5e6e38be403d305d996cd45230b7e1f7bd17ea7d121f7a62e6f4cec788e4dff"}
 {"ns":"paketo-community","name":"cargo","version":"0.4.1","yanked":false,"addr":"docker.io/paketocommunity/cargo@sha256:33c022d76be10e05cebb55b4bb9cc8ea474374f1ce6579e35a44fa23d873a139"}
+{"ns":"paketo-community","name":"cargo","version":"0.5.0","yanked":false,"addr":"docker.io/paketocommunity/cargo@sha256:5712e836d46f9b36e9bd713a2d0d1e5b0a1aacbd9b35380a8295d4bb852a7199"}
