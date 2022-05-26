@@ -67,3 +67,4 @@
 {"ns":"paketo-buildpacks","name":"azul-zulu","version":"9.3.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/azul-zulu@sha256:9800f37a82d5891859ee6aa22a4f9dc2dc120467938e1f9193882ada163c98b2"}
 {"ns":"paketo-buildpacks","name":"azul-zulu","version":"9.3.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/azul-zulu@sha256:1afc368295745a5dc2ae854d0ba41950184d2ec959cbcfee3d99f9c0df3ee293"}
 {"ns":"paketo-buildpacks","name":"azul-zulu","version":"9.3.2","yanked":false,"addr":"gcr.io/paketo-buildpacks/azul-zulu@sha256:c25f22257c855563d5ad96c1cd31064fa41f9e3324cd796adf309ec538d968e5"}
+{"ns":"paketo-buildpacks","name":"azul-zulu","version":"9.3.3","yanked":false,"addr":"gcr.io/paketo-buildpacks/azul-zulu@sha256:42754e8954619b0dc022ab69f176c75f29009a7a16463b415f79196a924a95cf"}
