@@ -12,3 +12,4 @@
 {"ns":"paketo-buildpacks","name":"oracle","version":"3.3.2","yanked":false,"addr":"gcr.io/paketo-buildpacks/oracle@sha256:bfc3f93ade6241497eb8145db2d6984dbcb5211a181acc2d3010ad7a2553e900"}
 {"ns":"paketo-buildpacks","name":"oracle","version":"3.3.3","yanked":false,"addr":"gcr.io/paketo-buildpacks/oracle@sha256:03194ec601892221c468472709c7131e05f9dc61ac281e12d40f37042869e0a8"}
 {"ns":"paketo-buildpacks","name":"oracle","version":"3.3.4","yanked":false,"addr":"gcr.io/paketo-buildpacks/oracle@sha256:b1a8d33c21b58e9ff1da4cf2e9fccbdc1e93d6982ad6db5cc9a25bf14ce86c15"}
+{"ns":"paketo-buildpacks","name":"oracle","version":"3.3.5","yanked":false,"addr":"gcr.io/paketo-buildpacks/oracle@sha256:f6df267a1ff32bfb89e220b818cd20398855512e55a57ce8859d82b512d8ea44"}
