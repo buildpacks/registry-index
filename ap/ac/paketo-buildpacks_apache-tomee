@@ -3,3 +3,4 @@
 {"ns":"paketo-buildpacks","name":"apache-tomee","version":"1.0.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/apache-tomee@sha256:71c951cb2110c607344bea825453761a7bad25d818d49ed021e36ff230b84a50"}
 {"ns":"paketo-buildpacks","name":"apache-tomee","version":"1.0.2","yanked":false,"addr":"gcr.io/paketo-buildpacks/apache-tomee@sha256:0dea784033558953b35642c2727c6e13270a7739aabd8ae54224220b8a9a378b"}
 {"ns":"paketo-buildpacks","name":"apache-tomee","version":"1.0.3","yanked":false,"addr":"gcr.io/paketo-buildpacks/apache-tomee@sha256:e1ed1701307ed8e34e6590267522a37f0eb3e2388264840b4dc9e09a22ce6170"}
+{"ns":"paketo-buildpacks","name":"apache-tomee","version":"1.0.4","yanked":false,"addr":"gcr.io/paketo-buildpacks/apache-tomee@sha256:cf75066d48a225e819b8bf5cea43cd8231887d4582342e6f56ea99cb40f466e3"}
