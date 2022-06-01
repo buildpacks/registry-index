@@ -84,3 +84,4 @@
 {"ns":"paketo-buildpacks","name":"google-stackdriver","version":"5.9.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/google-stackdriver@sha256:99e6232caf319ac7750d12e91d67cade3921fbc22b1e344a80764c0c42d92683"}
 {"ns":"paketo-buildpacks","name":"google-stackdriver","version":"5.10.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/google-stackdriver@sha256:8ed123a21db706081316358e86af7d80f9ca2a88419d99dd7f75d842768c6907"}
 {"ns":"paketo-buildpacks","name":"google-stackdriver","version":"5.10.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/google-stackdriver@sha256:85cac300028caa318a719b3ed5679dd6f816a2b1cdf3ce4aca96655ba36fb658"}
+{"ns":"paketo-buildpacks","name":"google-stackdriver","version":"5.10.2","yanked":false,"addr":"gcr.io/paketo-buildpacks/google-stackdriver@sha256:8c0f79751b125ef1a81e239fda28c853e24c79da642b1e0f8ff1b4c9a08a275f"}
