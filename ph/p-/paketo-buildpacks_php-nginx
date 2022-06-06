@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"php-nginx","version":"0.1.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-nginx@sha256:435388bbcbe23af317f9796a70d8ff684aee6643be043f50cb3502b4e20c756d"}
+{"ns":"paketo-buildpacks","name":"php-nginx","version":"0.1.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-nginx@sha256:d40ec07a4b994ba71db772b2cf2da9e615a2707bb10c410069e5cc547b516d9e"}
