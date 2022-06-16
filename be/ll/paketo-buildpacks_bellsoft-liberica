@@ -78,3 +78,4 @@
 {"ns":"paketo-buildpacks","name":"bellsoft-liberica","version":"9.3.4","yanked":false,"addr":"gcr.io/paketo-buildpacks/bellsoft-liberica@sha256:aedc3ebc26f880a989d8539350e10a474719ab16d034765496310d8b45f25337"}
 {"ns":"paketo-buildpacks","name":"bellsoft-liberica","version":"9.3.5","yanked":false,"addr":"gcr.io/paketo-buildpacks/bellsoft-liberica@sha256:8b7caaa97908dea4bff2c4b564d4309a94f40349ebc501db3b982514855ebb32"}
 {"ns":"paketo-buildpacks","name":"bellsoft-liberica","version":"9.3.6","yanked":false,"addr":"gcr.io/paketo-buildpacks/bellsoft-liberica@sha256:e32421fc47980b46958aea60b8f3affc5b0a55e4a2ee05dcf73bcfb0d795a5e5"}
+{"ns":"paketo-buildpacks","name":"bellsoft-liberica","version":"9.3.7","yanked":false,"addr":"gcr.io/paketo-buildpacks/bellsoft-liberica@sha256:31385eae8e8d6892a26190459057d2d8abf01c164db40c87c60345f99114359e"}
