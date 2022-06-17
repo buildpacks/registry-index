@@ -11,3 +11,4 @@
 {"ns":"paketo-buildpacks","name":"bundle-install","version":"0.4.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/bundle-install@sha256:ae1b5d917079b135b05c5ea70ddfc8d7c6a9973879e93d97618cad39caf265fd"}
 {"ns":"paketo-buildpacks","name":"bundle-install","version":"0.4.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/bundle-install@sha256:958d703d4ac10c8eee551d1fc179ee03cf515e331d3153a878405da6833412f8"}
 {"ns":"paketo-buildpacks","name":"bundle-install","version":"0.5.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/bundle-install@sha256:0318aaca38ee74463001824e2f9c68a61aae619d7fe33399c761c3a94c85a9c6"}
+{"ns":"paketo-buildpacks","name":"bundle-install","version":"0.5.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/bundle-install@sha256:5d9141b81a9e54fc119bb2a326b26a77f251ff73a000e9b907c6468407ce08d9"}
