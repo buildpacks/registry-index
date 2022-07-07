@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"source-removal","version":"0.1.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/source-removal@sha256:c59c748600fbf12ccccce15bbab5e48915669ea5e24d48e88606356fdca9d033"}
+{"ns":"paketo-buildpacks","name":"source-removal","version":"0.2.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/source-removal@sha256:c66b0fd22521d407febb5d0ac57253060c0c06c9c7db5ef51bc37c03b5b9fac7"}
