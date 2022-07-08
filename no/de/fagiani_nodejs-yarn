@@ -1,1 +1,2 @@
 {"ns":"fagiani","name":"nodejs-yarn","version":"0.2.0","yanked":false,"addr":"ghcr.io/fagiani/buildpacks/fagiani_nodejs-yarn@sha256:72d3f8fe6781339213f5505f2205bc8a9980e0ddf352b9625261b795f6f28a5b"}
+{"ns":"fagiani","name":"nodejs-yarn","version":"0.2.1","yanked":false,"addr":"ghcr.io/fagiani/buildpacks/fagiani_nodejs-yarn@sha256:13602b75e7b93578b25022f3d71384b8f51b9e4fb6e112d07489cc55a0143836"}
