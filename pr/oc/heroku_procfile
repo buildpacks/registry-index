@@ -5,3 +5,4 @@
 {"ns":"heroku","name":"procfile","version":"0.7.1","yanked":false,"addr":"docker.io/heroku/procfile-cnb@sha256:2cb7e101c876056356c1112a827bcb857669e42c209cd472dc9dc7c1bbd3fe7d"}
 {"ns":"heroku","name":"procfile","version":"1.0.0","yanked":false,"addr":"docker.io/heroku/procfile-cnb@sha256:809464712a6150edad40449c9d7f3b161b173d6f2a195f1b1419c35b4fbacc11"}
 {"ns":"heroku","name":"procfile","version":"1.0.1","yanked":false,"addr":"docker.io/heroku/procfile-cnb@sha256:79697af377bb9a213a34488253a2ad99e2feb676491bc1f9b6c6fc5418441128"}
+{"ns":"heroku","name":"procfile","version":"1.0.2","yanked":false,"addr":"docker.io/heroku/procfile-cnb@sha256:5afbf71a4aa898f3dfb555a18920a6ecd0e5a19ca4fed09ceca5d206161c5255"}
