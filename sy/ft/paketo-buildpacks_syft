@@ -20,3 +20,4 @@
 {"ns":"paketo-buildpacks","name":"syft","version":"1.12.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/syft@sha256:0c63416a46898f1ad8b4b41f5d129758282a4a101940b479d70a79fa253ce088"}
 {"ns":"paketo-buildpacks","name":"syft","version":"1.13.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/syft@sha256:cad09341cd4f110276a3ed31a21553357bbeba9c965c0e2038267615ccc71f48"}
 {"ns":"paketo-buildpacks","name":"syft","version":"1.14.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/syft@sha256:ae9d067298737a31884f6753d8f86f6e2ccfedd7923c8f0a050140e846412d1f"}
+{"ns":"paketo-buildpacks","name":"syft","version":"1.15.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/syft@sha256:0c3dbdbebf8d43c6138ed695bfe3af002a1be05940a0bffb3e7451d863d807c4"}
