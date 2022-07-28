@@ -2,3 +2,4 @@
 {"ns":"paketo-buildpacks","name":"java-memory-assistant","version":"0.0.2","yanked":false,"addr":"gcr.io/paketo-buildpacks/java-memory-assistant@sha256:0d7add7def98a8dce003e4f52befe8d02fe06f201f71c77bebc5cb53895334db"}
 {"ns":"paketo-buildpacks","name":"java-memory-assistant","version":"1.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/java-memory-assistant@sha256:6e212b5493779dc2d49b99fee7192a9e33e1f41c982c0d005a2ba30f65ea3272"}
 {"ns":"paketo-buildpacks","name":"java-memory-assistant","version":"1.0.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/java-memory-assistant@sha256:da1195b49fbe2900677799ba45a4886481d0ae4b2f094b6026d112412bf1bff3"}
+{"ns":"paketo-buildpacks","name":"java-memory-assistant","version":"1.0.2","yanked":false,"addr":"gcr.io/paketo-buildpacks/java-memory-assistant@sha256:e23ff880c1e40be5a798da07ad1b08ffd50d5c7c581289c3bba7e2bf87419132"}
