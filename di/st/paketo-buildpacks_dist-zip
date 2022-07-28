@@ -37,3 +37,4 @@
 {"ns":"paketo-buildpacks","name":"dist-zip","version":"5.2.2","yanked":false,"addr":"gcr.io/paketo-buildpacks/dist-zip@sha256:9a52e7dbf8106938d74679bcbfece2a981ab9625ebe8554105ffdc5922215dee"}
 {"ns":"paketo-buildpacks","name":"dist-zip","version":"5.2.3","yanked":false,"addr":"gcr.io/paketo-buildpacks/dist-zip@sha256:b989579429f9983698fa1d9e1c1e5d3245173f08175ff5608275be16cf6fb3f7"}
 {"ns":"paketo-buildpacks","name":"dist-zip","version":"5.2.4","yanked":false,"addr":"gcr.io/paketo-buildpacks/dist-zip@sha256:69c9328a226d7244ab7eb06e1c588e9f4888d355f47587ab24797fa1adedf0fb"}
+{"ns":"paketo-buildpacks","name":"dist-zip","version":"5.2.5","yanked":false,"addr":"gcr.io/paketo-buildpacks/dist-zip@sha256:16498d955f29a1bb4363af19c3315a1cb371cdd9f4234ee74f1df31497bcbc18"}
