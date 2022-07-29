@@ -8,3 +8,4 @@
 {"ns":"heroku","name":"maven","version":"0.2.6","yanked":false,"addr":"public.ecr.aws/heroku-buildpacks/heroku-maven-buildpack@sha256:af049ca047a071c4b23ffaad38d6398685fc635fab647754057bbfc3bc95c40b"}
 {"ns":"heroku","name":"maven","version":"1.0.0","yanked":false,"addr":"public.ecr.aws/heroku-buildpacks/heroku-maven-buildpack@sha256:d4ba73c28e183b52bbac6e892877d28328ae1a5f1abdf9d1db55afb90da23ce5"}
 {"ns":"heroku","name":"maven","version":"1.0.1","yanked":false,"addr":"public.ecr.aws/heroku-buildpacks/heroku-maven-buildpack@sha256:e17eeb20348354547793da1dc85401a0556bda9129c476aa1f6c2216bab898a3"}
+{"ns":"heroku","name":"maven","version":"1.0.2","yanked":false,"addr":"public.ecr.aws/heroku-buildpacks/heroku-maven-buildpack@sha256:cb2e661526235d924872559322f6fa0105a4d3ae867b328891a5a7d607fb62ca"}
