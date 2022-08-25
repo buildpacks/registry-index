@@ -36,3 +36,4 @@
 {"ns":"paketo-buildpacks","name":"encrypt-at-rest","version":"4.1.3","yanked":false,"addr":"gcr.io/paketo-buildpacks/encrypt-at-rest@sha256:7f2ecd4d4270d72df70cbd498ea1f7923474d2811d6264be75eb39edcf08431a"}
 {"ns":"paketo-buildpacks","name":"encrypt-at-rest","version":"4.1.4","yanked":false,"addr":"gcr.io/paketo-buildpacks/encrypt-at-rest@sha256:5ab928fb6f62803c9006de0f3fe73eac9084f0c0ad3672c1b4ed2fdc6c208f70"}
 {"ns":"paketo-buildpacks","name":"encrypt-at-rest","version":"4.2.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/encrypt-at-rest@sha256:71179f7c02379e991128e0a8fa167fc6f24679f5376dc5cd63510bb7b4df3891"}
+{"ns":"paketo-buildpacks","name":"encrypt-at-rest","version":"4.2.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/encrypt-at-rest@sha256:4bf3cae87722f78a264074fddbcfdcd7267f82e726cff7ba80ff9982eba7bdf7"}
