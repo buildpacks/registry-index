@@ -27,3 +27,4 @@
 {"ns":"paketo-buildpacks","name":"microsoft-openjdk","version":"2.3.2","yanked":false,"addr":"gcr.io/paketo-buildpacks/microsoft-openjdk@sha256:033c1bc766c6a659e08f183a90f9692872d7594f1a4be29166fbfce0729dfb6c"}
 {"ns":"paketo-buildpacks","name":"microsoft-openjdk","version":"2.4.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/microsoft-openjdk@sha256:3a97fb3ded52f7fb30e32d5076a313e6323790865ec253c7394924f1c9689d56"}
 {"ns":"paketo-buildpacks","name":"microsoft-openjdk","version":"2.5.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/microsoft-openjdk@sha256:33beb433bd10588aa0eb13cbdebdc2e7c7d83456abd3c11b68f7f17c2eee1ac1"}
+{"ns":"paketo-buildpacks","name":"microsoft-openjdk","version":"2.5.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/microsoft-openjdk@sha256:37c128734a460f43d8d129a5967fa7053461685299e82305e1b8b95d45f6be84"}
