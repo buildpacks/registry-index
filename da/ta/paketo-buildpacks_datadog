@@ -14,3 +14,4 @@
 {"ns":"paketo-buildpacks","name":"datadog","version":"1.11.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/datadog@sha256:5d10c7ffeb03f9f2bb2f5ec438583ee1244198b64299471cb326f2128ac179ba"}
 {"ns":"paketo-buildpacks","name":"datadog","version":"1.12.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/datadog@sha256:04b34a708a479e36f33f14b11866a4e30efbf252645b22d5d6b12a356f1bc95c"}
 {"ns":"paketo-buildpacks","name":"datadog","version":"2.0.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/datadog@sha256:aa0c5ff5f77cc44bf72f694f8fb713373c56fdcf2959b6dc02b6bea0219e8167"}
+{"ns":"paketo-buildpacks","name":"datadog","version":"2.1.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/datadog@sha256:451b9df13f3c70b8adf6f2925ce63f9226ad5b662a99354a16a35cb09f05d2f4"}
