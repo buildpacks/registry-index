@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"jprofiler","version":"6.0.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/jprofiler@sha256:0a4ef98035fcf59a305f9d3812c401c7a0df122bd61f7e2180b573462b03d15c"}
+{"ns":"paketo-buildpacks","name":"jprofiler","version":"6.1.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/jprofiler@sha256:3b01532124cfbafc4cc3c8c4643403f31851ab8aa7ac3243c57f9705966dcc0f"}
