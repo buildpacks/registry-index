@@ -23,3 +23,4 @@
 {"ns":"paketo-buildpacks","name":"environment-variables","version":"4.1.2","yanked":false,"addr":"gcr.io/paketo-buildpacks/environment-variables@sha256:93599de34efbee40082a92e18dadb141e30fbae27c3aaebedc734a9c06bc00f1"}
 {"ns":"paketo-buildpacks","name":"environment-variables","version":"4.1.3","yanked":false,"addr":"gcr.io/paketo-buildpacks/environment-variables@sha256:e3fef7baaea6737f87c68f6bd1ee46241fa61be8e4a48ce5ab362dd31005996c"}
 {"ns":"paketo-buildpacks","name":"environment-variables","version":"4.2.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/environment-variables@sha256:4e1d7792bb87e7a4572885c6e806f256c31c164586e660adc5854480a4f1bccf"}
+{"ns":"paketo-buildpacks","name":"environment-variables","version":"4.3.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/environment-variables@sha256:993b5404d52534ecaabcd81fa8fa6596d009dc60726e87acc6f4eed9fe2174ac"}
