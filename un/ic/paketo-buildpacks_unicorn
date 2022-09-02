@@ -10,3 +10,4 @@
 {"ns":"paketo-buildpacks","name":"unicorn","version":"0.3.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/unicorn@sha256:7beaa1852e29668eaa01ecb682da6ff78f7cea1af6812d27001786053b4736e6"}
 {"ns":"paketo-buildpacks","name":"unicorn","version":"0.4.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/unicorn@sha256:32510750ff57b27c88fcd058740aead707f8bb1eed0f4c0a6d48b16478eebe83"}
 {"ns":"paketo-buildpacks","name":"unicorn","version":"0.4.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/unicorn@sha256:216a6de527d31abe18b3a94a6d9e3f18aa4bb9c868bb227ddbd7679af5168001"}
+{"ns":"paketo-buildpacks","name":"unicorn","version":"0.4.2","yanked":false,"addr":"index.docker.io/paketobuildpacks/unicorn@sha256:71d77d8b6978cdfbf62c176a5a97ef3acb1993bbe6785b67112d0c615e5ed922"}
