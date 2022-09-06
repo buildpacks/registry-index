@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"php-memcached-session-handler","version":"0.1.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-memcached-session-handler@sha256:24ac8182ecea4042d24a7dc5ae7197eecfef3ac98ec9c8f4b4aeefd844529f66"}
+{"ns":"paketo-buildpacks","name":"php-memcached-session-handler","version":"0.1.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-memcached-session-handler@sha256:f2f95d7414fef65a233219b19393131575aab135945676983d9b063d4a8a4197"}
