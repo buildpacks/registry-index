@@ -4,3 +4,4 @@
 {"ns":"paketo-buildpacks","name":"conda-env-update","version":"0.4.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/conda-env-update@sha256:b5497665bb50238d30562c31253ba5ab542b108929ddd02e5ec40acc26fc5ce2"}
 {"ns":"paketo-buildpacks","name":"conda-env-update","version":"0.5.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/conda-env-update@sha256:2874136ec2fb7431881b1b4ed5d264c635b463cc5559193a29a7a03c03101a81"}
 {"ns":"paketo-buildpacks","name":"conda-env-update","version":"0.5.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/conda-env-update@sha256:158f4fa76ca7145749eb1386b588f855ca80e2e425d106884897798945a8f0dc"}
+{"ns":"paketo-buildpacks","name":"conda-env-update","version":"0.5.2","yanked":false,"addr":"index.docker.io/paketobuildpacks/conda-env-update@sha256:fe3fde75141ffc61dbe2d24cdc1e49c46b0af8190615760e5b8a47b34db92a56"}
