@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"new-relic","version":"5.0.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/new-relic@sha256:be746516608b34a35618efb5b6199055c7c543db526e9ee1c883e5cf58b06292"}
+{"ns":"paketo-buildpacks","name":"new-relic","version":"5.1.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/new-relic@sha256:d5aa2c78095b4e52f9af93c59557989a6ebed690cb955734b6011fc10a825af0"}
