@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"vsdbg","version":"0.0.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/vsdbg@sha256:6679c3bb827bbc3d965f391e1183e31995298dcbbbe11be5f867ba1254fd914a"}
+{"ns":"paketo-buildpacks","name":"vsdbg","version":"0.0.2","yanked":false,"addr":"index.docker.io/paketobuildpacks/vsdbg@sha256:8d0e4a182c935dea5a3cada017657b46d6dbc177464a1490ed40347a7b455e57"}
