@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"elastic-apm","version":"5.0.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/elastic-apm@sha256:cdd4d2e7455dbe5e25309afbb01a7d543d64e8c3a8380374e8b8788e477e2409"}
+{"ns":"paketo-buildpacks","name":"elastic-apm","version":"5.1.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/elastic-apm@sha256:20998100aa023ba450cc2d4cdac3c7acaf5e0b85dc934f8962ec0e73f02a8976"}
