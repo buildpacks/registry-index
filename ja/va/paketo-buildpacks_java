@@ -129,3 +129,4 @@
 {"ns":"paketo-buildpacks","name":"java","version":"7.2.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/java@sha256:dd75ad3bf87595eba4913580235d07f6d1d41596cad1176eeff3d35b0e9c0e38"}
 {"ns":"paketo-buildpacks","name":"java","version":"7.3.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/java@sha256:8f74c75cfd52f683ecc6dfb6f2161f57272101a8677e2c59c361bd12119223c6"}
 {"ns":"paketo-buildpacks","name":"java","version":"7.4.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/java@sha256:a312c0342379a1aec739969eee3e3c1d50405afc21ce3b90f0522b1511824a9f"}
+{"ns":"paketo-buildpacks","name":"java","version":"7.4.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/java@sha256:2c29405bad6f02357da97397edb1adcbbc7c2067dce36b1ba9d7f4464849d777"}
