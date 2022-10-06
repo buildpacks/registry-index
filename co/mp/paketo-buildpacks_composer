@@ -2,3 +2,4 @@
 {"ns":"paketo-buildpacks","name":"composer","version":"0.1.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/composer@sha256:f55dc157694e69f09fc9fb9d34ae362c8d8431cb5f31a3276991aff17099de2b"}
 {"ns":"paketo-buildpacks","name":"composer","version":"0.2.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/composer@sha256:93328b8932b68a9feb17fc22a176d5d8db28010e3fe956c12d4559dc3d4c9ab6"}
 {"ns":"paketo-buildpacks","name":"composer","version":"0.2.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/composer@sha256:1f4bb014d87818a4f7941427247d1dcf101d25c4c3ec10ce2a6ab1239ccf7ebb"}
+{"ns":"paketo-buildpacks","name":"composer","version":"0.2.2","yanked":false,"addr":"index.docker.io/paketobuildpacks/composer@sha256:92230c42b9f478ac8438bf50335abb67acaeffdf007d2f9556f6d7e290a275eb"}
