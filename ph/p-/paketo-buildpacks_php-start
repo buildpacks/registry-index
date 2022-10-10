@@ -2,3 +2,4 @@
 {"ns":"paketo-buildpacks","name":"php-start","version":"0.2.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-start@sha256:bd50f84bbc3d97692dc82a1c0b446767a3a2fb2578eb42fcafae217aec8ff01e"}
 {"ns":"paketo-buildpacks","name":"php-start","version":"0.2.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-start@sha256:b30e2ea17fd93465af8313929e8c1113ef7c1d84b1a49a5853b785f89dae9bc2"}
 {"ns":"paketo-buildpacks","name":"php-start","version":"0.2.2","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-start@sha256:5a4a03e38da12b95173c6785a9f1998e93d20b9f1bbb0ddfbaaca21fd35b79dd"}
+{"ns":"paketo-buildpacks","name":"php-start","version":"0.2.3","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-start@sha256:2912890f42442aa37eb9b68507c2a57388311fb80a1e19f5a88918fe62757e02"}
