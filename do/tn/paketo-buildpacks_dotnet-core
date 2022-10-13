@@ -52,3 +52,4 @@
 {"ns":"paketo-buildpacks","name":"dotnet-core","version":"0.23.3","yanked":false,"addr":"index.docker.io/paketobuildpacks/dotnet-core@sha256:40a10f58db5c093a4886a0f1a051c8702e52a1db8738f887548fd69db52b64e1"}
 {"ns":"paketo-buildpacks","name":"dotnet-core","version":"0.23.4","yanked":false,"addr":"index.docker.io/paketobuildpacks/dotnet-core@sha256:af0593a32c0b493f97e89d5a0d9fe6fef694150152dd57dbf26df03b3d9156a9"}
 {"ns":"paketo-buildpacks","name":"dotnet-core","version":"0.23.5","yanked":false,"addr":"index.docker.io/paketobuildpacks/dotnet-core@sha256:eddd73470a205b506b7c550b9c584872aeaaab067e257fa11a1c0a864d7cf975"}
+{"ns":"paketo-buildpacks","name":"dotnet-core","version":"0.23.6","yanked":false,"addr":"index.docker.io/paketobuildpacks/dotnet-core@sha256:c7dcc5cddb3634268b978c42a17e052e42e55b36a49e0e1ecdb8c536d32740a1"}
