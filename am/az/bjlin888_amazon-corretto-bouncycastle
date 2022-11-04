@@ -1,2 +1,3 @@
 {"ns":"bjlin888","name":"amazon-corretto-bouncycastle","version":"0.0.1","yanked":false,"addr":"index.docker.io/bjlin888/amazon-corretto-bouncycastle@sha256:96aed3d880a1292be339b11ffd8e5d5e6e2d8225859fd915de66f5fc557d9037"}
 {"ns":"bjlin888","name":"amazon-corretto-bouncycastle","version":"0.0.2","yanked":false,"addr":"index.docker.io/bjlin888/amazon-corretto-bouncycastle@sha256:f74bc92ba0225de96bb45ae3cd6360f861ee733ae569e350110fa92a60740175"}
+{"ns":"bjlin888","name":"amazon-corretto-bouncycastle","version":"0.0.3","yanked":false,"addr":"index.docker.io/bjlin888/amazon-corretto-bouncycastle@sha256:ccf693d6784a77801ef738b1bf34ce3d922ace93b5889f115b4559605a786271"}
