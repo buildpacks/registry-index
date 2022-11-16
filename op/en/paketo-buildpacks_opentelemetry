@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"opentelemetry","version":"0.2.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/opentelemetry@sha256:82e670a4cfc543cbc0d83b9c4ab556794310777d5290bc99f7eef536ec5dcd94"}
+{"ns":"paketo-buildpacks","name":"opentelemetry","version":"0.2.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/opentelemetry@sha256:fb94c760db67e2ba5010c32c3b7393680d4992fe5519cea32e529df6615445db"}
