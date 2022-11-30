@@ -5,3 +5,4 @@
 {"ns":"paketo-buildpacks","name":"php-memcached-session-handler","version":"0.1.4","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-memcached-session-handler@sha256:c4f20e16d7fc279e1eab5d710dbb405e9f333d4cd9e73f35c42e4f441bea7296"}
 {"ns":"paketo-buildpacks","name":"php-memcached-session-handler","version":"0.1.5","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-memcached-session-handler@sha256:0b9d75c8d3261c96d3c74804493d7a65c668ce5974bfe464cd7b772d68e28bf6"}
 {"ns":"paketo-buildpacks","name":"php-memcached-session-handler","version":"0.1.6","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-memcached-session-handler@sha256:8d44d76c46e737d78b35ccfcda658871ed3bc56f38ac094b19fee7dbe609989b"}
+{"ns":"paketo-buildpacks","name":"php-memcached-session-handler","version":"0.1.7","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-memcached-session-handler@sha256:ce27762067e4413481579d59ee36bb09c247e19b2decea79ce6e7112f8737f4b"}
