@@ -11,3 +11,4 @@
 {"ns":"paketo-buildpacks","name":"node-module-bom","version":"0.4.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/node-module-bom@sha256:39fddb8304913089ac182c62f031876174126e978ecc753a012ab26fc2ee8bb8"}
 {"ns":"paketo-buildpacks","name":"node-module-bom","version":"0.4.2","yanked":false,"addr":"index.docker.io/paketobuildpacks/node-module-bom@sha256:66e13a342f55b10c3073f81af8f285e99feaec8f12a37cecdef64067b3478f1a"}
 {"ns":"paketo-buildpacks","name":"node-module-bom","version":"0.4.3","yanked":false,"addr":"index.docker.io/paketobuildpacks/node-module-bom@sha256:45dc757d20abddeb6f210441f56700f095e8d516dd63f7e6ee268ba3a76f8857"}
+{"ns":"paketo-buildpacks","name":"node-module-bom","version":"0.4.4","yanked":false,"addr":"index.docker.io/paketobuildpacks/node-module-bom@sha256:5c081cff708025760fa2a8ed916ec29e9c8b916ec105e37445059264eda886d2"}
