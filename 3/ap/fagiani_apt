@@ -4,3 +4,4 @@
 {"ns":"fagiani","name":"apt","version":"0.2.2","yanked":false,"addr":"ghcr.io/fagiani/buildpacks/fagiani_apt@sha256:078ab50f8ee91d359975c0f4530e3bb6d7fd1d6d409fd2f776be7491e685b97f"}
 {"ns":"fagiani","name":"apt","version":"0.2.3","yanked":false,"addr":"ghcr.io/fagiani/buildpacks/fagiani_apt@sha256:f4cd781bc06032053da251f71ca364f38333dc1dcf00041284792be4cce852d3"}
 {"ns":"fagiani","name":"apt","version":"0.2.4","yanked":false,"addr":"ghcr.io/fagiani/buildpacks/fagiani_apt@sha256:15a9501ec9f520f55d318a02d4e3d407def462d0294d2937bc7c717fb7c1ade9"}
+{"ns":"fagiani","name":"apt","version":"0.2.5","yanked":false,"addr":"ghcr.io/fagiani/buildpacks/fagiani_apt@sha256:6471c8c70f32b749e29f65ae562ac0339fecad26aa9217628c00a6c31f197dae"}
