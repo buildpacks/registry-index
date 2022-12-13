@@ -1,1 +1,2 @@
 {"ns":"fagiani","name":"run","version":"0.1.0","yanked":false,"addr":"ghcr.io/fagiani/buildpacks/fagiani_run@sha256:3d4fd7c43b0d61d315f8013124714c46fcc528a2852649be313a973aa8ad1c2f"}
+{"ns":"fagiani","name":"run","version":"0.1.1","yanked":false,"addr":"ghcr.io/fagiani/buildpacks/fagiani_run@sha256:5c75bf651072e1ad345aa148433b8cdd373e97f9b29523ceaeaf1c39f1691985"}
