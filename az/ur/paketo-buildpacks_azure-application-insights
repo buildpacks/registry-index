@@ -73,3 +73,4 @@
 {"ns":"paketo-buildpacks","name":"azure-application-insights","version":"5.9.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/azure-application-insights@sha256:87047bfd92986612cda850420b9d3632e0096fd1d2f2f12c3dfcc03ceade7cb5"}
 {"ns":"paketo-buildpacks","name":"azure-application-insights","version":"5.9.2","yanked":false,"addr":"gcr.io/paketo-buildpacks/azure-application-insights@sha256:ba2816895007c40feedc94a07eb1d608bc1927d6648bbc3be03a0ae7c8a67168"}
 {"ns":"paketo-buildpacks","name":"azure-application-insights","version":"5.9.3","yanked":false,"addr":"gcr.io/paketo-buildpacks/azure-application-insights@sha256:bcb6909d2bd4909eb6b8e05ed91567ad6c3895abecf060699f81f0fc5eb49ded"}
+{"ns":"paketo-buildpacks","name":"azure-application-insights","version":"5.9.4","yanked":false,"addr":"gcr.io/paketo-buildpacks/azure-application-insights@sha256:bf1c96bf4e3611ebc6aeea0c935d8683787df2a43bd641630d5e1a4309d94e0e"}
