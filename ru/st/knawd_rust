@@ -1,2 +1,3 @@
 {"ns":"knawd","name":"rust","version":"0.0.1","yanked":false,"addr":"index.docker.io/knawd/rust@sha256:927cd6a6532a6c27ae03fa62d7779d305145126427fe4cdf5d8d7fd87d9dc401"}
 {"ns":"knawd","name":"rust","version":"0.0.2","yanked":false,"addr":"index.docker.io/knawd/rust@sha256:c6f56b0dd2f92761828c088e6a16002ef495d18f4ad2b2a7a966787a4922ae1e"}
+{"ns":"knawd","name":"rust","version":"0.0.3","yanked":false,"addr":"index.docker.io/knawd/rust@sha256:86ac887f3d7627198ca9be6cf06998cb3cc2161319185628262e92fea4cfed9d"}
