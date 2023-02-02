@@ -1,1 +1,2 @@
 {"ns":"heroku","name":"nodejs-corepack","version":"0.1.0","yanked":false,"addr":"docker.io/heroku/buildpack-nodejs-corepack@sha256:f6f8694459f0b6ae652eef0bd8a27010c9d059ec95f60fc39b73d991aae7ae72"}
+{"ns":"heroku","name":"nodejs-corepack","version":"0.1.1","yanked":false,"addr":"docker.io/heroku/buildpack-nodejs-corepack@sha256:032ab6ec783bba67db43c35aa663271d9f1a70cf556ec9a6573ea373bab8ea01"}
