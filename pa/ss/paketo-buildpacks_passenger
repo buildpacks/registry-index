@@ -29,3 +29,4 @@
 {"ns":"paketo-buildpacks","name":"passenger","version":"0.8.3","yanked":false,"addr":"index.docker.io/paketobuildpacks/passenger@sha256:bfdb2ddfa8e24df28d92d8bba8354ce84b92238b599a6e53b0951a84e534439f"}
 {"ns":"paketo-buildpacks","name":"passenger","version":"0.8.4","yanked":false,"addr":"index.docker.io/paketobuildpacks/passenger@sha256:2fbed436b9544b33d0ee6c574a3f45bffae85034055786605a7651e149f2bfbb"}
 {"ns":"paketo-buildpacks","name":"passenger","version":"0.8.5","yanked":false,"addr":"index.docker.io/paketobuildpacks/passenger@sha256:785156834d4c5fb00e4f3125b00cd0789ff5048fd9df495bfa9bafe6b10b7878"}
+{"ns":"paketo-buildpacks","name":"passenger","version":"0.8.6","yanked":false,"addr":"index.docker.io/paketobuildpacks/passenger@sha256:72535ad1c0e895332069e6b046ac43d9b0eeec82dc573047286fe289b31dd439"}
