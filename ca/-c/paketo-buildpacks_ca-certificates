@@ -23,3 +23,4 @@
 {"ns":"paketo-buildpacks","name":"ca-certificates","version":"3.4.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/ca-certificates@sha256:18f4c21df483fad2fc947de4f80bbe6b635912ef78b4e9ed10c047eab4dd6f10"}
 {"ns":"paketo-buildpacks","name":"ca-certificates","version":"3.5.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/ca-certificates@sha256:153c0072acda5eedf00794e329eb87cbaee797b58e139137a25e019facdd0a62"}
 {"ns":"paketo-buildpacks","name":"ca-certificates","version":"3.5.1","yanked":false,"addr":"gcr.io/paketo-buildpacks/ca-certificates@sha256:ad50eae8fa996f0bb7c85f48135e81121fb1a5f8c9e98cf57703a623e07bd479"}
+{"ns":"paketo-buildpacks","name":"ca-certificates","version":"3.6.0","yanked":false,"addr":"docker.io/paketobuildpacks/ca-certificates@sha256:cbe105ea53740e4cd81b552b84359da97994b3a731d0a57203d331b5a0366b60"}
