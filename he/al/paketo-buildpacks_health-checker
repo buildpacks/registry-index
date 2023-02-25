@@ -2,3 +2,4 @@
 {"ns":"paketo-buildpacks","name":"health-checker","version":"1.1.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/health-checker@sha256:b175a41755a8b9748c2c036b788e90d51ff2587e3bd04befa35df4b412f329a5"}
 {"ns":"paketo-buildpacks","name":"health-checker","version":"1.2.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/health-checker@sha256:149e8584f855ed135baf2965141153ceca41e233216e55c6ae8a6650c85bbc53"}
 {"ns":"paketo-buildpacks","name":"health-checker","version":"1.3.0","yanked":false,"addr":"docker.io/paketobuildpacks/health-checker@sha256:d96b618e85f4b6c1d450dfde00879d7144e29ae984517128de3aa96f60101eb1"}
+{"ns":"paketo-buildpacks","name":"health-checker","version":"1.3.1","yanked":false,"addr":"docker.io/paketobuildpacks/health-checker@sha256:c7aa9070f2a55d004fae1d49226afcdd7349ddd39323bc47451d9c560f80b5b8"}
