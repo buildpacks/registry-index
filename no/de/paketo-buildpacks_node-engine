@@ -42,3 +42,4 @@
 {"ns":"paketo-buildpacks","name":"node-engine","version":"1.1.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/node-engine@sha256:a73ada214df6d549941cfe43e3a140ce60c8808e2a58a4cf4969476b4a5a0080"}
 {"ns":"paketo-buildpacks","name":"node-engine","version":"1.2.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/node-engine@sha256:d70e7c2f63dec11c5ba7e0743585ea5e4132dc595aea201046d9972eb350b137"}
 {"ns":"paketo-buildpacks","name":"node-engine","version":"1.2.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/node-engine@sha256:72c7cbec4d8c2fb4dc7ef8b7513f55ac004384786dda06d98789e3b7edb2d17a"}
+{"ns":"paketo-buildpacks","name":"node-engine","version":"1.3.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/node-engine@sha256:02958b0d73a5f1972831745b47dbf774a79bba4578f8a6054348ac21e4cadb0e"}
