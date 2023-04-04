@@ -1,1 +1,2 @@
 {"ns":"fagianijunior","name":"ssh-key","version":"0.0.1","yanked":false,"addr":"ghcr.io/fagianijunior/buildpacks/fagianijunior_ssh-key@sha256:c104bd3b7a71e00290f88e3d7b18eb496f51fb655d805c115bccc369a0178863"}
+{"ns":"fagianijunior","name":"ssh-key","version":"0.0.3","yanked":false,"addr":"ghcr.io/fagianijunior/buildpacks/fagianijunior_ssh-key@sha256:57c036ce96e5b67d4084d41b290e19526ec283bf43ea1f6fdbbed8ea9a294f71"}
