@@ -6,3 +6,4 @@
 {"ns":"anasinnyk","name":"dotenv","version":"0.0.6","yanked":false,"addr":"ghcr.io/anasinnyk/dotenv-buildpack/anasinnyk_dotenv@sha256:ed2c65711aed4297445b283017d8cb2f05801650dca4621e3f30f5e70f2e0bde"}
 {"ns":"anasinnyk","name":"dotenv","version":"0.0.7","yanked":false,"addr":"ghcr.io/anasinnyk/dotenv-buildpack/anasinnyk_dotenv@sha256:3b06d561982d77535df7001813da561a0ac907227c23b410c2cc757a80af305e"}
 {"ns":"anasinnyk","name":"dotenv","version":"0.0.8","yanked":false,"addr":"ghcr.io/anasinnyk/dotenv-buildpack/anasinnyk_dotenv@sha256:947b0a3ce1e17ea6b4557968fb962b9e52ac8e199e97ecdbab8df04c22fd1406"}
+{"ns":"anasinnyk","name":"dotenv","version":"0.0.9","yanked":false,"addr":"ghcr.io/anasinnyk/dotenv-buildpack/anasinnyk_dotenv@sha256:44e54021e3a263479540bb94f3ed92006ec14c12b75fcfb41964cd91c51f65f4"}
