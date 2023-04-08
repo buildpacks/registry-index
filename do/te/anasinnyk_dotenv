@@ -8,3 +8,4 @@
 {"ns":"anasinnyk","name":"dotenv","version":"0.0.8","yanked":false,"addr":"ghcr.io/anasinnyk/dotenv-buildpack/anasinnyk_dotenv@sha256:947b0a3ce1e17ea6b4557968fb962b9e52ac8e199e97ecdbab8df04c22fd1406"}
 {"ns":"anasinnyk","name":"dotenv","version":"0.0.9","yanked":false,"addr":"ghcr.io/anasinnyk/dotenv-buildpack/anasinnyk_dotenv@sha256:44e54021e3a263479540bb94f3ed92006ec14c12b75fcfb41964cd91c51f65f4"}
 {"ns":"anasinnyk","name":"dotenv","version":"0.0.10","yanked":false,"addr":"ghcr.io/anasinnyk/dotenv-buildpack/anasinnyk_dotenv@sha256:47fd343d1a9b0f946055ca8366378b9a318a8249b1e15a6d6695f8f1f4a9229b"}
+{"ns":"anasinnyk","name":"dotenv","version":"0.0.11","yanked":false,"addr":"ghcr.io/anasinnyk/dotenv-buildpack/anasinnyk_dotenv@sha256:11441993bb62d8dafa497da021fe9b1654fb72639159ed7c9368b647ac9f5644"}
