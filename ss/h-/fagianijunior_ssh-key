@@ -3,3 +3,4 @@
 {"ns":"fagianijunior","name":"ssh-key","version":"0.0.4","yanked":false,"addr":"ghcr.io/fagianijunior/buildpacks/fagianijunior_ssh-key@sha256:55ec93c393c8bafffd1a997c349c94e50250065f7be2a9a428cf092118c7c2f6"}
 {"ns":"fagianijunior","name":"ssh-key","version":"0.0.5","yanked":false,"addr":"ghcr.io/fagianijunior/buildpacks/fagianijunior_ssh-key@sha256:a22b73bd17736e98a0b69c6f7c02de2461894cb0c6449bb63ae1865a1ae106e8"}
 {"ns":"fagianijunior","name":"ssh-key","version":"0.0.6","yanked":false,"addr":"ghcr.io/fagianijunior/buildpacks/fagianijunior_ssh-key@sha256:cfede9ec13ed13913de990b85cc1b6c35db077da7ba9c633df76881d9536d37b"}
+{"ns":"fagianijunior","name":"ssh-key","version":"0.0.7","yanked":false,"addr":"ghcr.io/fagianijunior/buildpacks/fagianijunior_ssh-key@sha256:6cb483fd9508b0b24bbc9b7a2ce320fe75c11a00a506d0c498a3a87430c9a388"}
