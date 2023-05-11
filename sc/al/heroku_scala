@@ -3,3 +3,4 @@
 {"ns":"heroku","name":"scala","version":"0.0.90","yanked":false,"addr":"public.ecr.aws/r2f9u0w4/heroku-scala-buildpack@sha256:39ad34bcc1766cdff4f2a4d5e88931a2f2678f5605bd56f1b6fc551f40fba70f"}
 {"ns":"heroku","name":"scala","version":"0.0.91","yanked":false,"addr":"public.ecr.aws/heroku-buildpacks/heroku-scala-buildpack@sha256:99b35329c3c5af4deaab1892a6ccfad9d0646fcb8bf6fe04c688f0429d95fc11"}
 {"ns":"heroku","name":"scala","version":"0.0.92","yanked":false,"addr":"public.ecr.aws/heroku-buildpacks/heroku-scala-buildpack@sha256:02a26d364465a567782806effa2afbf4b992a1e15453bb8e62c5da27118dc7e6"}
+{"ns":"heroku","name":"scala","version":"1.0.0","yanked":false,"addr":"docker.io/heroku/buildpack-scala@sha256:1fc6beaf291dcf1972c621afe3a1b3a80d1bffe8fccb6b0a68bc7f24bf99456a"}
