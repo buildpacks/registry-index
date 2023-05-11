@@ -7,3 +7,4 @@
 {"ns":"paketo-buildpacks","name":"java-memory-assistant","version":"1.2.0","yanked":false,"addr":"gcr.io/paketo-buildpacks/java-memory-assistant@sha256:a3d32bbf33db788a0f2eed5e88bdf22d54327c2cd3ad6a5aa74696ff6ee79470"}
 {"ns":"paketo-buildpacks","name":"java-memory-assistant","version":"1.3.0","yanked":false,"addr":"docker.io/paketobuildpacks/java-memory-assistant@sha256:8b67b19448e29d3cf3f7ac5083608fd4dcf631e98456da1c7282092fafebbba8"}
 {"ns":"paketo-buildpacks","name":"java-memory-assistant","version":"1.4.0","yanked":false,"addr":"docker.io/paketobuildpacks/java-memory-assistant@sha256:3f1a744293133365409420b0a9dae52a028e315fbdde57c45a930f99cf6dd4bc"}
+{"ns":"paketo-buildpacks","name":"java-memory-assistant","version":"1.4.1","yanked":false,"addr":"docker.io/paketobuildpacks/java-memory-assistant@sha256:cbc0c8aa4afa81ff62586d2faf86a44c7a1a9ba831f436ea3e2f6b50a7142e9d"}
