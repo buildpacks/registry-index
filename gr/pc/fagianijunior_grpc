@@ -1,1 +1,2 @@
 {"ns":"fagianijunior","name":"grpc","version":"0.0.1","yanked":false,"addr":"ghcr.io/fagianijunior/buildpacks/fagianijunior_grpc@sha256:d6fe36140c4d6a53e0adc3640f73ed9dd38834483e8d3f3d91d385909c556eb4"}
+{"ns":"fagianijunior","name":"grpc","version":"0.0.2","yanked":false,"addr":"ghcr.io/fagianijunior/buildpacks/fagianijunior_grpc@sha256:4b6a83c3ad5a4b26c7ebdb2519e0953ef9d7a2eabb4e2e6abb9732e50b037745"}
