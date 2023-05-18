@@ -21,3 +21,4 @@
 {"ns":"paketo-buildpacks","name":"php-fpm","version":"0.2.9","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-fpm@sha256:7d39d43ed0b7c297eea298cd9b1be7b2ea8cd390c96041ce3b6887b1e48b9ec0"}
 {"ns":"paketo-buildpacks","name":"php-fpm","version":"0.2.10","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-fpm@sha256:3038d5ea985748991365b4b7b64ce4269308704671b089d15e089a05db5be622"}
 {"ns":"paketo-buildpacks","name":"php-fpm","version":"0.2.11","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-fpm@sha256:8f7e2919582905c8f0680be20737c011c21fa4d4ba6918e4c23f5583d9097c15"}
+{"ns":"paketo-buildpacks","name":"php-fpm","version":"0.2.12","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-fpm@sha256:45c79538fa7794f55cd37f5db6a9e9115d28ac51baf981f49d65643aa38463ce"}
