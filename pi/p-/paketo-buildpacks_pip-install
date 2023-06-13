@@ -18,3 +18,4 @@
 {"ns":"paketo-buildpacks","name":"pip-install","version":"0.5.12","yanked":false,"addr":"index.docker.io/paketobuildpacks/pip-install@sha256:80353d08681c023a22a8b5bdb75f61ff62413eee0893f1e680b7682f7c5885d1"}
 {"ns":"paketo-buildpacks","name":"pip-install","version":"0.5.13","yanked":false,"addr":"index.docker.io/paketobuildpacks/pip-install@sha256:9408f5856a4750515bd2dd03724e868db0102a3aed5fdb81db6e9d5c76abb6c9"}
 {"ns":"paketo-buildpacks","name":"pip-install","version":"0.5.14","yanked":false,"addr":"index.docker.io/paketobuildpacks/pip-install@sha256:700949406025ceaf815dce413a80d9ba7cf4935a1e71039d9c48aa719abe334a"}
+{"ns":"paketo-buildpacks","name":"pip-install","version":"0.5.15","yanked":false,"addr":"index.docker.io/paketobuildpacks/pip-install@sha256:99f6cf7cd2a04ea3a0b33a186e48968e222564e588baaf0c16505dd646ae31d8"}
