@@ -67,3 +67,4 @@
 {"ns":"paketo-buildpacks","name":"sbt","version":"6.11.1","yanked":false,"addr":"docker.io/paketobuildpacks/sbt@sha256:ae7507ff3c02a7cc38e39ca376680a3d8891595a4f45991968e3995e873ca906"}
 {"ns":"paketo-buildpacks","name":"sbt","version":"6.11.2","yanked":false,"addr":"docker.io/paketobuildpacks/sbt@sha256:4385b30ffe6899493556b036d5081114f25e831dd6d730a439e7d02efc4e45f3"}
 {"ns":"paketo-buildpacks","name":"sbt","version":"6.12.0","yanked":false,"addr":"docker.io/paketobuildpacks/sbt@sha256:7b99adbc76866553e50287e1a1ed7d03bc93f970825706eea7c31fc9cbca5594"}
+{"ns":"paketo-buildpacks","name":"sbt","version":"6.12.1","yanked":false,"addr":"docker.io/paketobuildpacks/sbt@sha256:1b6b7d8cf038914b824ee62b3e39184e75a41f4bc883c796f4a5f1c9370e1851"}
