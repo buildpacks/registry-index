@@ -1,1 +1,2 @@
 {"ns":"2rba","name":"buildpack-ruby","version":"0.1.4","yanked":false,"addr":"index.docker.io/tyatin/buildpack-ruby@sha256:6f710b144764eac70fa52b1820341801e503cfb1790e73630bdc46a94e581499"}
+{"ns":"2rba","name":"buildpack-ruby","version":"100.1.4","yanked":false,"addr":"index.docker.io/tyatin/buildpack-ruby@sha256:1ec6a20fd6b580e5b9555338bb9344f9932b46f8c664b1175161ac76eaf076c6"}
