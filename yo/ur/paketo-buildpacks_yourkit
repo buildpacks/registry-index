@@ -10,3 +10,4 @@
 {"ns":"paketo-buildpacks","name":"yourkit","version":"5.3.1","yanked":false,"addr":"docker.io/paketobuildpacks/yourkit@sha256:076973a77c552ae9466bad79bf389bb88153e8995607364b462e7f90fa7ee77e"}
 {"ns":"paketo-buildpacks","name":"yourkit","version":"6.0.0","yanked":false,"addr":"docker.io/paketobuildpacks/yourkit@sha256:6c0acf4e885661ffcd8d6bc1df64c3eaa62662446a683b0a6aa54d882c2efa2a"}
 {"ns":"paketo-buildpacks","name":"yourkit","version":"6.0.1","yanked":false,"addr":"docker.io/paketobuildpacks/yourkit@sha256:96ebc072a8a05cbaf591c89b0365b9239883483f9b5ae4663df8cd0fc6824923"}
+{"ns":"paketo-buildpacks","name":"yourkit","version":"6.0.2","yanked":false,"addr":"docker.io/paketobuildpacks/yourkit@sha256:c1d59781b83da3473447642544583a3298fccbed6330adbce1e64c373822ea10"}
