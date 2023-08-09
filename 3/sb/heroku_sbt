@@ -2,3 +2,4 @@
 {"ns":"heroku","name":"sbt","version":"1.1.1","yanked":false,"addr":"docker.io/heroku/buildpack-sbt@sha256:f9820296c1819025f8709e7b7670182cbb5f2e6b9739567535b6fb412c52578b"}
 {"ns":"heroku","name":"sbt","version":"1.1.2","yanked":false,"addr":"docker.io/heroku/buildpack-sbt@sha256:9bd717003b9fd2b21ed71532d8c6db66d04c8d22f0a1d18b59fe85e29867d024"}
 {"ns":"heroku","name":"sbt","version":"2.0.0","yanked":false,"addr":"docker.io/heroku/buildpack-sbt@sha256:6bcd4eabf352aea61001745bead0e757e917fa09b9543fdfc4268473f012fe3d"}
+{"ns":"heroku","name":"sbt","version":"3.0.0","yanked":false,"addr":"docker.io/heroku/buildpack-sbt@sha256:a7865863c82d54de9660bc6de321eacbe97810e1db8d96af585ea7bd362b277d"}
