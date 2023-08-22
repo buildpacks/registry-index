@@ -1,1 +1,2 @@
 {"ns":"fagianijunior","name":"datadog","version":"0.0.1","yanked":false,"addr":"ghcr.io/fagianijunior/buildpacks/fagianijunior_datadog@sha256:5fbf3d0f71d41dfa3421bf8f1109276595a3e272cd4655209c1d598678dcbe0d"}
+{"ns":"fagianijunior","name":"datadog","version":"0.0.2","yanked":false,"addr":"ghcr.io/fagianijunior/buildpacks/fagianijunior_datadog@sha256:b0ebd294a4d703723cc12506472dfb93ad11a6790780d85861e6854dbb166e18"}
