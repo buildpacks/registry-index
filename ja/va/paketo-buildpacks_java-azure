@@ -151,3 +151,4 @@
 {"ns":"paketo-buildpacks","name":"java-azure","version":"10.17.0","yanked":false,"addr":"docker.io/paketobuildpacks/java-azure@sha256:c2a3b29db3ba71bc6faf9e8024e9988904ad5774b8ad0b789bbc8c21801f7967"}
 {"ns":"paketo-buildpacks","name":"java-azure","version":"10.18.0","yanked":false,"addr":"docker.io/paketobuildpacks/java-azure@sha256:527a79d6970953d32adddb34cd793acf54450e670a939ec66c225ff845c99782"}
 {"ns":"paketo-buildpacks","name":"java-azure","version":"10.19.0","yanked":false,"addr":"docker.io/paketobuildpacks/java-azure@sha256:27dd2819622e1c9a1ea2fa4c0858bdb24639702472ffdbe738068766073105b3"}
+{"ns":"paketo-buildpacks","name":"java-azure","version":"10.20.0","yanked":false,"addr":"docker.io/paketobuildpacks/java-azure@sha256:fdce08676e37ce9a3616e5aaba0353d8f649b6b641df1cfcb60177c87b242736"}
