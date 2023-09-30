@@ -1,3 +1,4 @@
 {"ns":"fagianijunior","name":"dynatrace","version":"0.0.1","yanked":false,"addr":"ghcr.io/fagianijunior/buildpacks/fagianijunior_dynatrace@sha256:c9fb3efb0bafb43612fa1efb181d712c0dad27c801b6c1ac756ece69ddb0e4b2"}
 {"ns":"fagianijunior","name":"dynatrace","version":"0.0.2","yanked":false,"addr":"ghcr.io/fagianijunior/buildpacks/fagianijunior_dynatrace@sha256:71c008d696f0273e8c9fd881848fa2fba7dbfb2d8360ecf12d965d3d3127db04"}
 {"ns":"fagianijunior","name":"dynatrace","version":"0.0.3","yanked":false,"addr":"ghcr.io/fagianijunior/buildpacks/fagianijunior_dynatrace@sha256:b26b02f48f45097784bde688869b955cc1e8c5d88b46fe8846e0f7e70036afbc"}
+{"ns":"fagianijunior","name":"dynatrace","version":"0.0.4","yanked":false,"addr":"ghcr.io/fagianijunior/buildpacks/fagianijunior_dynatrace@sha256:81a240f1aa09111bd3459848d1d73e1ed1b3fcc62b341855485d44e95381cda4"}
