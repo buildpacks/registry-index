@@ -17,3 +17,4 @@
 {"ns":"paketo-buildpacks","name":"upx","version":"3.4.2","yanked":false,"addr":"docker.io/paketobuildpacks/upx@sha256:95c68929311453d4861417c3e71d680fde6736c9968a1faae29daf9ccc27b77c"}
 {"ns":"paketo-buildpacks","name":"upx","version":"3.4.3","yanked":false,"addr":"docker.io/paketobuildpacks/upx@sha256:b7ee6d59a814be961b538fe983679bf14d8b556600bf8cda91413934bd7705fd"}
 {"ns":"paketo-buildpacks","name":"upx","version":"3.4.4","yanked":false,"addr":"docker.io/paketobuildpacks/upx@sha256:92f1cf5956fb7e2bd935086a8d29ef103f54645d9798589e96a4551ee5c41788"}
+{"ns":"paketo-buildpacks","name":"upx","version":"3.4.5","yanked":false,"addr":"docker.io/paketobuildpacks/upx@sha256:3fb962e76e20c5b0c60342fae708319f358214bac2cfee120199e90e21424226"}
