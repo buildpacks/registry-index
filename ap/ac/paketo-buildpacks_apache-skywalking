@@ -7,3 +7,4 @@
 {"ns":"paketo-buildpacks","name":"apache-skywalking","version":"5.6.0","yanked":false,"addr":"docker.io/paketobuildpacks/apache-skywalking@sha256:ea3e7ce01046d39776385d866d457a09f3634d668c9fe0336b03f38aba3ab29f"}
 {"ns":"paketo-buildpacks","name":"apache-skywalking","version":"5.6.1","yanked":false,"addr":"docker.io/paketobuildpacks/apache-skywalking@sha256:1f2c4fd4b32f976ee33dac1a5a5ac3af7605e6e5c7d7c99f6176d47fef3fa40f"}
 {"ns":"paketo-buildpacks","name":"apache-skywalking","version":"6.0.0","yanked":false,"addr":"docker.io/paketobuildpacks/apache-skywalking@sha256:c28b1f8370d141699b9fb6305286542c70fe75325ae0550f1f24ec0114e20521"}
+{"ns":"paketo-buildpacks","name":"apache-skywalking","version":"6.0.2","yanked":false,"addr":"docker.io/paketobuildpacks/apache-skywalking@sha256:6c9c3e8fa3e5d4d6ac027cd77e23c19319c225a4db387ad21d9afc369b07e3b1"}
