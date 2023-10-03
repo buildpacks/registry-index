@@ -135,3 +135,4 @@
 {"ns":"paketo-buildpacks","name":"java-native-image","version":"8.17.0","yanked":false,"addr":"docker.io/paketobuildpacks/java-native-image@sha256:1cffe557694bf60f7da745201544cbdd66772bd2642919aa9d00ca685e16c088"}
 {"ns":"paketo-buildpacks","name":"java-native-image","version":"8.18.0","yanked":false,"addr":"docker.io/paketobuildpacks/java-native-image@sha256:d02ac396c2afc39cf2d57d2647b0d6e2fe6d2315590edbb0710bcebba40e6b64"}
 {"ns":"paketo-buildpacks","name":"java-native-image","version":"8.19.0","yanked":false,"addr":"docker.io/paketobuildpacks/java-native-image@sha256:9cef8f21e80f24210191d397d69f42c145136e2760ed57de9f0421d0be535174"}
+{"ns":"paketo-buildpacks","name":"java-native-image","version":"8.20.0","yanked":false,"addr":"docker.io/paketobuildpacks/java-native-image@sha256:8d1c9d7906567421f9a07d20fc5cb5153fe09c44cf131f163ec20a4869a15df4"}
