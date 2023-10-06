@@ -108,3 +108,4 @@
 {"ns":"paketo-buildpacks","name":"bellsoft-liberica","version":"10.3.0","yanked":false,"addr":"docker.io/paketobuildpacks/bellsoft-liberica@sha256:e3da4c2d5af615c09b30bc9f7a001d8b1a35b5b8114559892b194dadc49c2887"}
 {"ns":"paketo-buildpacks","name":"bellsoft-liberica","version":"10.3.1","yanked":false,"addr":"docker.io/paketobuildpacks/bellsoft-liberica@sha256:b2a9541b4a0d14382dfcbf6622f70e32430df95ea20c7e5dc51f6d1ce547bbac"}
 {"ns":"paketo-buildpacks","name":"bellsoft-liberica","version":"10.3.2","yanked":false,"addr":"docker.io/paketobuildpacks/bellsoft-liberica@sha256:c30ae902ac6a8dee9d5397297d106317f9b2338ab74557a339050535449df198"}
+{"ns":"paketo-buildpacks","name":"bellsoft-liberica","version":"10.4.0","yanked":false,"addr":"docker.io/paketobuildpacks/bellsoft-liberica@sha256:016111968349f141a77e6afc61b21aa2b8678dbb560139ec51d372a5e52e5bbc"}
