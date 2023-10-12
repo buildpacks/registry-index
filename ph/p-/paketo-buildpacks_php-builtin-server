@@ -28,3 +28,4 @@
 {"ns":"paketo-buildpacks","name":"php-builtin-server","version":"0.4.16","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-builtin-server@sha256:2f42684adaa8fd55a6593086a2a015dca96e8524dc2ccb0e9af7eaa23685f5d5"}
 {"ns":"paketo-buildpacks","name":"php-builtin-server","version":"0.4.17","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-builtin-server@sha256:64164d54126360bdf0314de4bf48616da67aeebb145c2a278d8ec5d40f7a41ff"}
 {"ns":"paketo-buildpacks","name":"php-builtin-server","version":"0.4.18","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-builtin-server@sha256:0fe91bfc8c20214dc02f5ba5343d9bcfb72c325f7c930d62c4c049ce2c7b2c98"}
+{"ns":"paketo-buildpacks","name":"php-builtin-server","version":"0.4.19","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-builtin-server@sha256:a2edbfd55ac398455ca3f0e9bf4e5969c0c9f7358724b2084f69f26f99f21f7e"}
