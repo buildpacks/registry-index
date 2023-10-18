@@ -91,3 +91,4 @@
 {"ns":"paketo-buildpacks","name":"apache-tomcat","version":"7.13.11","yanked":false,"addr":"docker.io/paketobuildpacks/apache-tomcat@sha256:d5d442aaa940d3958125d7464fe3a9f17e6d7d7c8c07bcb4a93bdf97cfb09df8"}
 {"ns":"paketo-buildpacks","name":"apache-tomcat","version":"7.13.12","yanked":false,"addr":"docker.io/paketobuildpacks/apache-tomcat@sha256:d20b7da8ff6f6662152a404f2525417bf6ce4b793ef3f67f7586b3d4b24a9757"}
 {"ns":"paketo-buildpacks","name":"apache-tomcat","version":"7.13.13","yanked":false,"addr":"docker.io/paketobuildpacks/apache-tomcat@sha256:ee3e3f57784609500f2cd5b18ad6adf94944920b8ef1891b9db5c8beec59af8d"}
+{"ns":"paketo-buildpacks","name":"apache-tomcat","version":"7.13.14","yanked":false,"addr":"docker.io/paketobuildpacks/apache-tomcat@sha256:c57e6ec72e4f79103f66761f0593b1aa32687f43587da0538e4af833b2cab1bf"}
