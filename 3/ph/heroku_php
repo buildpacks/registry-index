@@ -1,1 +1,2 @@
 {"ns":"heroku","name":"php","version":"0.1.1","yanked":false,"addr":"docker.io/heroku/buildpack-php@sha256:19e44139b850b3b9040f21d436ec693f0dff82e931bbff500e9876f4febacd0e"}
+{"ns":"heroku","name":"php","version":"0.1.2","yanked":false,"addr":"docker.io/heroku/buildpack-php@sha256:9d76792ba9869eb96ba3b41b0bfb48c6adfaa58a361bba6083505c84c5a8d61e"}
