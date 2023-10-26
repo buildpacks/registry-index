@@ -46,3 +46,4 @@
 {"ns":"paketo-buildpacks","name":"dotnet-publish","version":"0.12.18","yanked":false,"addr":"index.docker.io/paketobuildpacks/dotnet-publish@sha256:67a91b8a2df7bf6ebf48178bad2f6bd33640b87181a4a8a9044ac6843e76c5de"}
 {"ns":"paketo-buildpacks","name":"dotnet-publish","version":"0.12.19","yanked":false,"addr":"index.docker.io/paketobuildpacks/dotnet-publish@sha256:529ef5d9a404ef622eac15e35bfb40ca2107d6c68a45860e0eb224f87acaebfc"}
 {"ns":"paketo-buildpacks","name":"dotnet-publish","version":"0.12.20","yanked":false,"addr":"index.docker.io/paketobuildpacks/dotnet-publish@sha256:eca9502b63ba7e5d21ad320aabf7fc776621ad5222e3ed2c12989a0b515ecb27"}
+{"ns":"paketo-buildpacks","name":"dotnet-publish","version":"0.12.21","yanked":false,"addr":"index.docker.io/paketobuildpacks/dotnet-publish@sha256:aee099ea7d5f797830ae78f96963820235472984e0434e4dd69ed8f68e2709be"}
