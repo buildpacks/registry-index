@@ -77,3 +77,4 @@
 {"ns":"paketo-buildpacks","name":"graalvm","version":"8.3.1","yanked":false,"addr":"docker.io/paketobuildpacks/graalvm@sha256:768ef8f3ac1dcc1c27cdc039c8f027be0761dcbd151fc9c95fbd90061c093827"}
 {"ns":"paketo-buildpacks","name":"graalvm","version":"8.3.2","yanked":false,"addr":"docker.io/paketobuildpacks/graalvm@sha256:1acb9173ae8a727880836119056770d77af51874d260aa20a935be3f12ec0c76"}
 {"ns":"paketo-buildpacks","name":"graalvm","version":"8.3.3","yanked":false,"addr":"docker.io/paketobuildpacks/graalvm@sha256:00af6780da42c26ade3a2d73b6438db031c61572f0ddb6cddc8431f2034267c5"}
+{"ns":"paketo-buildpacks","name":"graalvm","version":"8.3.4","yanked":false,"addr":"docker.io/paketobuildpacks/graalvm@sha256:109b3c9fa99f5bff8b31424baa7c5581b9622abbe5547746d9b1dd4d21c0a047"}
