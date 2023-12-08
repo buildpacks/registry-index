@@ -86,3 +86,4 @@
 {"ns":"paketo-buildpacks","name":"eclipse-openj9","version":"10.1.9","yanked":false,"addr":"docker.io/paketobuildpacks/eclipse-openj9@sha256:f642f47f1146d8e2acd83f936cc81b558933f82bb09af90695ba4a8b00796754"}
 {"ns":"paketo-buildpacks","name":"eclipse-openj9","version":"10.1.10","yanked":false,"addr":"docker.io/paketobuildpacks/eclipse-openj9@sha256:20330773771c9b1f358af8f890e3f3c9bca62da9844b7c8576178ddf99c2cea8"}
 {"ns":"paketo-buildpacks","name":"eclipse-openj9","version":"10.1.11","yanked":false,"addr":"docker.io/paketobuildpacks/eclipse-openj9@sha256:bdc94c5727d55af590485f6f0ccd94e2ad384d9c1d5efd00f25e5c3e8fd0c081"}
+{"ns":"paketo-buildpacks","name":"eclipse-openj9","version":"10.1.12","yanked":false,"addr":"docker.io/paketobuildpacks/eclipse-openj9@sha256:2923ba83ced4b7960a8b0495ad95dfac2095e262f9e8a9d95a3e4dd9d80d1075"}
