@@ -12,3 +12,4 @@
 {"ns":"tomh4","name":"python-poetry","version":"0.1.7","yanked":false,"addr":"ghcr.io/tomh4/python-poetry-buildpack/tomh4_python-poetry@sha256:be2a4043243db931d991422a0a263cbffb5623579c4f77f3d22fe0a880dcacde"}
 {"ns":"tomh4","name":"python-poetry","version":"1.0.0","yanked":false,"addr":"ghcr.io/tomh4/python-poetry-buildpack/tomh4_python-poetry@sha256:4fa75b7463b9bbf622282d245d9e074ef5eb25a1f28160dd81dc7df439aa299c"}
 {"ns":"tomh4","name":"python-poetry","version":"1.0.1","yanked":false,"addr":"ghcr.io/tomh4/python-poetry-buildpack/tomh4_python-poetry@sha256:9a09138ffa8d82c5e24b39d382b20aab489c25011456be2ddddfd404a7d9a65b"}
+{"ns":"tomh4","name":"python-poetry","version":"2.0.0","yanked":false,"addr":"ghcr.io/tomh4/python-poetry-buildpack/tomh4_python-poetry@sha256:ee6531668264533c73d43591061eb21682c59ab931556b047b1433c49261a9c8"}
