@@ -1,1 +1,2 @@
 {"ns":"nv","name":"nodejs","version":"1.1.2","yanked":false,"addr":"public.ecr.aws/initializ/test@sha256:3858be608482244958ba36d445f48e0c8bd7ee7e73d849d9b7e62b9999a3bd9c"}
+{"ns":"nv","name":"nodejs","version":"2.2.2","yanked":false,"addr":"public.ecr.aws/initializ/test@sha256:2c5d7084658f998f87380e22f95813b400af73f6357dad36f2d3b351245a32a6"}
