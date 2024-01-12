@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"yarn-start","version":"1.1.3","yanked":false,"addr":"public.ecr.aws/initializ/nodejs@sha256:5ede507707cfe5adbbb753c6fa606984f4f21f3b0b1fbf21b3ccddcec0cec47d"}
+{"ns":"initializ-buildpacks","name":"yarn-start","version":"1.1.4","yanked":false,"addr":"public.ecr.aws/initializ/nodejs@sha256:4fbbbc45b1a1cee4a04971b924988371b8504210ce74e2cf67f0c4cea9060e0b"}
