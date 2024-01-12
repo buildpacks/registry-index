@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"nodejs","version":"1.0.0","yanked":false,"addr":"public.ecr.aws/initializ/nodejsfull@sha256:b9c2f622df03da22bfcbb2a1c328db077992d46253a95348077b26210d288a6b"}
+{"ns":"initializ-buildpacks","name":"nodejs","version":"1.0.1","yanked":false,"addr":"public.ecr.aws/initializ/nodejsfull@sha256:7968f60b3c72be67887909b535afbb14531a294e1a1c2764aa5b782b89a4fd0d"}
