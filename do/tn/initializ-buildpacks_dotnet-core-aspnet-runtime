@@ -1,0 +1,1 @@
+{"ns":"initializ-buildpacks","name":"dotnet-core-aspnet-runtime","version":"0.4.2","yanked":false,"addr":"public.ecr.aws/initializ/dotnetcore@sha256:92243bdd3a824dcfbe3f7bea7a19a640c083514882b89b15141b657262a18acb"}
