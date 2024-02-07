@@ -43,3 +43,4 @@
 {"ns":"paketo-buildpacks","name":"cpython","version":"1.9.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/cpython@sha256:13c94363fec13d8b11ce32fa5139fde297864336d98370095bd84eb3808ec517"}
 {"ns":"paketo-buildpacks","name":"cpython","version":"1.10.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/cpython@sha256:28a29451307118a4a3d2ef70bd979086c0b841bb3c5ef9af9b92ee74f77f5ae2"}
 {"ns":"paketo-buildpacks","name":"cpython","version":"1.11.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/cpython@sha256:9c5cdde4340f59186c0b251f55cbe73c5f6b5f4be997b78c020fbda4f7ae5e4f"}
+{"ns":"paketo-buildpacks","name":"cpython","version":"1.11.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/cpython@sha256:0763969c2297233e304fde966f084ec3e7715f0609dc55e6dff01698edabf2a7"}
