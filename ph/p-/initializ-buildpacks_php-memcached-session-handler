@@ -1,0 +1,1 @@
+{"ns":"initializ-buildpacks","name":"php-memcached-session-handler","version":"0.2.22","yanked":false,"addr":"public.ecr.aws/initializ/php-buildpack@sha256:8f4e51b516eeb527c53541ad956422c2a8772f09957ed9e5b4002e9dd2fc0119"}
