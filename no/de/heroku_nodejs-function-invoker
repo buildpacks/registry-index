@@ -51,3 +51,4 @@
 {"ns":"heroku","name":"nodejs-function-invoker","version":"2.6.3","yanked":false,"addr":"docker.io/heroku/buildpack-nodejs-function-invoker@sha256:2511d9771e93216236be1bd0978f64f55d4a59ff622152ba029d2a6c857441d3"}
 {"ns":"heroku","name":"nodejs-function-invoker","version":"2.6.4","yanked":false,"addr":"docker.io/heroku/buildpack-nodejs-function-invoker@sha256:04242a08eadac39ca57f7e6e8ada626e31c1da113422d744fa2fa7131169adc8"}
 {"ns":"heroku","name":"nodejs-function-invoker","version":"2.6.5","yanked":false,"addr":"docker.io/heroku/buildpack-nodejs-function-invoker@sha256:1caf47f3f5f8c587765121a387c9d13e62929593e10d8db5bb3828d555629a3d"}
+{"ns":"heroku","name":"nodejs-function-invoker","version":"2.6.6","yanked":false,"addr":"docker.io/heroku/buildpack-nodejs-function-invoker@sha256:b39f6434fbcb252bde448dd9cab987b4d21bcb0349181d4c4d81df1918d4d850"}
