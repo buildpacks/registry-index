@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"dotnet-core-sdk","version":"0.38.0","yanked":false,"addr":"public.ecr.aws/initializ/dotnetcore@sha256:4f187dc80e32082859701e80e55512584ece085fd857309012b5a13a05cf7cab"}
+{"ns":"initializ-buildpacks","name":"dotnet-core-sdk","version":"0.38.1","yanked":false,"addr":"public.ecr.aws/initializ/dotnetcore@sha256:6302f50a5ef9e68689afae039724553106ffc3180c0dacca35e01974e635661b"}
