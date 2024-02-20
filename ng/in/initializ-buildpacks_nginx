@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"nginx","version":"0.15.8","yanked":false,"addr":"public.ecr.aws/initializ/php-buildpack@sha256:7a97dca320dbcea2a061318fd731ec4eac8819afee5747d2cba5e705c93383fb"}
+{"ns":"initializ-buildpacks","name":"nginx","version":"0.15.9","yanked":false,"addr":"public.ecr.aws/initializ/php-buildpack@sha256:6bb1e9a491a7b82037f7d95ac8512b5af044e9379433f2b01b1730d45e59ef81"}
