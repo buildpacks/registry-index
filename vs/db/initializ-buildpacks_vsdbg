@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"vsdbg","version":"1.0.0","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/vsdbg@sha256:9c2575e8803bed57d515fb5bfc62065c97d4c67a8c06092c07b5a901af2152bd"}
+{"ns":"initializ-buildpacks","name":"vsdbg","version":"0.3.8","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/vsdbg@sha256:54f6d0313d8b7f80e474b2f0293cdacd0bbbb56a74f95e77ea5e859f8fe2d03d"}
