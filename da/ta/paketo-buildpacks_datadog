@@ -59,3 +59,4 @@
 {"ns":"paketo-buildpacks","name":"datadog","version":"5.2.0","yanked":false,"addr":"docker.io/paketobuildpacks/datadog@sha256:0f5e788c12df35ccbf76009d653d8d5a0cd16e4136aa647cc4c5cdfeb1494d7d"}
 {"ns":"paketo-buildpacks","name":"datadog","version":"5.3.0","yanked":false,"addr":"docker.io/paketobuildpacks/datadog@sha256:f25783a94bfd197d84fbdbfc8ec82573231eac8a853a99a7e69e9471320ad138"}
 {"ns":"paketo-buildpacks","name":"datadog","version":"5.3.1","yanked":false,"addr":"docker.io/paketobuildpacks/datadog@sha256:1f046843370e44aae2d463d241bc56788ce991462a8ebb6e25419160c248e385"}
+{"ns":"paketo-buildpacks","name":"datadog","version":"5.4.0","yanked":false,"addr":"docker.io/paketobuildpacks/datadog@sha256:62d5513b484ab32d52997f3f76a6558d7bdea8063cd3f3392dff97308b1b0091"}
