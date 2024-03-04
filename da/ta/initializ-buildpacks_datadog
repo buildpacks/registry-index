@@ -1,3 +1,4 @@
 {"ns":"initializ-buildpacks","name":"datadog","version":"1.0.0","yanked":false,"addr":"public.ecr.aws/initializ/datadog@sha256:4ae1d026f5e628b6fe0553110f85f4b7ada554627ac9192efc127f4d4b685368"}
 {"ns":"initializ-buildpacks","name":"datadog","version":"1.0.1","yanked":false,"addr":"public.ecr.aws/initializ/static@sha256:142700727f21136c690f6ccad15c16cc8d33ad2f737b3b997197c9fbff481c6c"}
 {"ns":"initializ-buildpacks","name":"datadog","version":"1.0.2","yanked":false,"addr":"public.ecr.aws/initializ/static@sha256:1ae540e5fd579bcb10504622de53d5b0ec12781cc2366377d4e3ee5bbe441531"}
+{"ns":"initializ-buildpacks","name":"datadog","version":"4.8.0","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/datadog@sha256:bb26aeea65786a4299c53a5f89d42e46ee71cfe44d5943fb12414e12a4efda50"}
