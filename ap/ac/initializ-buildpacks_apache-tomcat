@@ -1,0 +1,1 @@
+{"ns":"initializ-buildpacks","name":"apache-tomcat","version":"7.15.0","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/apache-tomcat@sha256:99f504b8b6f66a464f883176df0212b5b7d0ec32cb7be01aacddb184a2fa4070"}
