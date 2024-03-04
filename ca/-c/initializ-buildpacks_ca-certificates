@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"ca-certificates","version":"3.6.7","yanked":false,"addr":"public.ecr.aws/initializ/java-buildpack@sha256:d3809b2c82bcf372429ace4014a25d2b1ce4a5ca9e6c234ec4c652dcbc403030"}
+{"ns":"initializ-buildpacks","name":"ca-certificates","version":"3.6.9","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/ca-certificates@sha256:be747c51b701557fe61855fdcedf60548617a479ee52b22ab7a479a2fd3f2d66"}
