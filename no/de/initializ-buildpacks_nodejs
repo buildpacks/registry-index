@@ -3,3 +3,4 @@
 {"ns":"initializ-buildpacks","name":"nodejs","version":"1.0.2","yanked":false,"addr":"public.ecr.aws/initializ/nodejsfull@sha256:f3409025305914ecd6faae67b8c53dc13ab27cd2cd60636f81cd927bb3b0ea71"}
 {"ns":"initializ-buildpacks","name":"nodejs","version":"2.2.0","yanked":false,"addr":"public.ecr.aws/initializ/nodejsfull@sha256:868f39fc5f1e524112c78527ff46924a291b9b627f51c8ee7b12daa67cf869bf"}
 {"ns":"initializ-buildpacks","name":"nodejs","version":"2.2.1","yanked":false,"addr":"public.ecr.aws/initializ/nodejsfull@sha256:a8a91cf9523256284e3409d98d3bff591e7a9803410647b69b7bbe1943507b87"}
+{"ns":"initializ-buildpacks","name":"nodejs","version":"2.2.2","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/nodejs@sha256:437ad4efb145c2308b716ed8a70fc687e27eafbed9509a11129829caada35f02"}
