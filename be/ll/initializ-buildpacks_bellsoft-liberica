@@ -1,2 +1,3 @@
 {"ns":"initializ-buildpacks","name":"bellsoft-liberica","version":"10.4.4","yanked":false,"addr":"public.ecr.aws/initializ/java-buildpack@sha256:e1a3052df0c6e10808a313c4acde9794702802e7afc58ccca3a120ede1a34514"}
 {"ns":"initializ-buildpacks","name":"bellsoft-liberica","version":"10.5.2","yanked":false,"addr":"public.ecr.aws/initializ/test@sha256:e70444bb7886f05789f8820e219a2d03d60522a83236600a989ab7ce7ba66b65"}
+{"ns":"initializ-buildpacks","name":"bellsoft-liberica","version":"10.5.3","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/bellsoft-liberica@sha256:a0589d2cbf430776a03aace22eddfc5394d06b30a6d7a4a2c8ba96426fbdfd4a"}
