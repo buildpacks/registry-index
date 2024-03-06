@@ -1,2 +1,3 @@
 {"ns":"initializ-buildpacks","name":"php","version":"1.0.0","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/phpfull@sha256:76e168bc26f69e0425c05b32e8fcae426f77b9f546f76a518666f6c8c27f4cc0"}
 {"ns":"initializ-buildpacks","name":"php","version":"1.0.2","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/phpfull@sha256:b59b907b1285416e4a91bf3bfb739c1736c0db6afed9b4bbde11e76fd3db155e"}
+{"ns":"initializ-buildpacks","name":"php","version":"1.0.3","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/php@sha256:5e5d6ea7d6c743de5fd2b9816687bc473821a9fcde37c00b08989885f84a0239"}
