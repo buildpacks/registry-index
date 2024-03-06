@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"maven","version":"6.15.12","yanked":false,"addr":"public.ecr.aws/initializ/java-buildpack@sha256:e4bb50e9336cb80c2754b810d229bd0ae21b71d9401c2134d614fd66491cb25b"}
+{"ns":"initializ-buildpacks","name":"maven","version":"6.15.13","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/maven@sha256:a6b52e5c515b95846ce6d90db04e5af9635eac3b4a90ac840dc6dfa31b4e58dc"}
