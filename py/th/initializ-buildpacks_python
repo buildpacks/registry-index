@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"python","version":"4.0.0","yanked":false,"addr":"public.ecr.aws/initializ/fullpython@sha256:d12365d20788365f30adfa3bb34f55d9d3224bfd0aca8a3dda8f68c34fe09a05"}
+{"ns":"initializ-buildpacks","name":"python","version":"4.0.1","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/python@sha256:7dd0a9f657bc734ec139f0bb6598277e4c50f2cc3c112e9654a7f6ad4f0f4def"}
