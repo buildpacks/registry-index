@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"spring-boot","version":"5.27.8","yanked":false,"addr":"public.ecr.aws/initializ/spring-boot@sha256:e5ac8d50b32ec26e7dece0a54fea2e1679cd2f1dde4031937e9be3c8af135e08"}
+{"ns":"initializ-buildpacks","name":"spring-boot","version":"5.27.10","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/spring-boot@sha256:33e2867d989eb4b1faf4e7b4c089f58beab1f886b8d902ae2b915a8c6f2e30db"}
