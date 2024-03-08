@@ -1,3 +1,4 @@
 {"ns":"initializ-buildpacks","name":"dotnet-core-sdk","version":"0.38.0","yanked":false,"addr":"public.ecr.aws/initializ/dotnetcore@sha256:4f187dc80e32082859701e80e55512584ece085fd857309012b5a13a05cf7cab"}
 {"ns":"initializ-buildpacks","name":"dotnet-core-sdk","version":"0.38.1","yanked":false,"addr":"public.ecr.aws/initializ/dotnetcore@sha256:6302f50a5ef9e68689afae039724553106ffc3180c0dacca35e01974e635661b"}
 {"ns":"initializ-buildpacks","name":"dotnet-core-sdk","version":"0.14.5","yanked":false,"addr":"public.ecr.aws/initializ/dotnetcore@sha256:a32ed289bbcabff92c522a001968b57e0076dd4d2b81961a20bcb7c194c29684"}
+{"ns":"initializ-buildpacks","name":"dotnet-core-sdk","version":"0.14.6","yanked":false,"addr":"public.ecr.aws/initializ/dotnetcore@sha256:7fe3690572e00fc0435f0fec330274f04580eb34799f84ed8f30bf0641015bc5"}
