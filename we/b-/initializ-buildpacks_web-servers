@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"web-servers","version":"1.0.1","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/web-servers@sha256:d3b55c0c619705efd60a10606075c0d1ad1e7945d2203fa46f5cd7e82b807c6c"}
+{"ns":"initializ-buildpacks","name":"web-servers","version":"1.0.2","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/web-servers@sha256:1259c10adde1e5a1731b576959d88be35cf928fc43a1aec97e6d7328652fa150"}
