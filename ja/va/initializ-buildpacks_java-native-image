@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"java-native-image","version":"9.0.0","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/java-native-image@sha256:45eb3f0a11cdc10909a3e2892d92b657d9a8d2c9e582401c862c3ecb1c0474f4"}
+{"ns":"initializ-buildpacks","name":"java-native-image","version":"9.0.1","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/java-native-image@sha256:ac755349ce60a23389fe3fb65925ccafc3d407a619a190c4aa6ed72ed56f89f8"}
