@@ -1,3 +1,4 @@
 {"ns":"initializ-buildpacks","name":"java","version":"0.1.2","yanked":false,"addr":"public.ecr.aws/initializ/fulljava@sha256:f8937a351f224db076908a6646d2720dff0a555093462c05e508a2b8b9b2091d"}
 {"ns":"initializ-buildpacks","name":"java","version":"0.1.3","yanked":false,"addr":"public.ecr.aws/initializ/test@sha256:16d4e602365f1c510c689be7c2e2f283d6c8a47840e51aae351399e9e5d7cd5a"}
 {"ns":"initializ-buildpacks","name":"java","version":"2.0.1","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/java@sha256:3f3d021d44dec366512b57cf84db8ccfbfc39a22cd64353cf16c9b1c7c506b90"}
+{"ns":"initializ-buildpacks","name":"java","version":"2.0.2","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/java@sha256:aec4a0d573bf9c5a309c28482710fbfe1526c7f96b8a95cce37b175c9e9ca5cf"}
