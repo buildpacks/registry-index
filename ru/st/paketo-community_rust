@@ -50,3 +50,4 @@
 {"ns":"paketo-community","name":"rust","version":"0.42.0","yanked":false,"addr":"docker.io/paketocommunity/rust@sha256:718b3b4be22f8fb4280c087b2777520fee94048e0d7d2c4f6924a3eaf5b61c6b"}
 {"ns":"paketo-community","name":"rust","version":"0.43.0","yanked":false,"addr":"docker.io/paketocommunity/rust@sha256:31b29ab2f9cd42a5608f16ea889d2000226d16a403143caf5308f2f84219d05f"}
 {"ns":"paketo-community","name":"rust","version":"0.44.0","yanked":false,"addr":"docker.io/paketocommunity/rust@sha256:d2b437a9a7b3f80baa8bd7979b43febd9c6ac9447a7fd4ce48f4103043549b3c"}
+{"ns":"paketo-community","name":"rust","version":"0.45.0","yanked":false,"addr":"docker.io/paketocommunity/rust@sha256:224480d04e3569ae577e393ea6b9330a18dcda2ae80b6e08e88de7f7da38f4d1"}
