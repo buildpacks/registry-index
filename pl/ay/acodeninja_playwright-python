@@ -1,2 +1,3 @@
 {"ns":"acodeninja","name":"playwright-python","version":"0.1.0","yanked":false,"addr":"ghcr.io/acodeninja/acodeninja_playwright-python@sha256:3e7d748b912edb25f0426513de0f22cfd7f1b5db7027fb8e42a7685c413d01b0"}
 {"ns":"acodeninja","name":"playwright-python","version":"0.1.1","yanked":false,"addr":"ghcr.io/acodeninja/acodeninja_playwright-python@sha256:8848f67bcd35353568709fe3fe72116d8533bbc6c0e875474150802c4a556576"}
+{"ns":"acodeninja","name":"playwright-python","version":"0.2.0","yanked":false,"addr":"ghcr.io/acodeninja/acodeninja_playwright-python@sha256:76da54215eccdc4a54cc0de381b4955f5e245043351b7836116232b362c83b37"}
