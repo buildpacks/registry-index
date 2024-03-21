@@ -1,2 +1,3 @@
 {"ns":"initializ-buildpacks","name":"procfile","version":"5.6.9","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/procfile@sha256:fe2979ecc343c1fe8cc13b8d9c0bd931d86503447be2fa5d3d299ecb7a35329e"}
 {"ns":"initializ-buildpacks","name":"procfile","version":"5.6.10","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/procfile@sha256:f9f9558b1ead4e8fc781b5e62df54eac074c2a240bab99737b4c824c6e6f3712"}
+{"ns":"initializ-buildpacks","name":"procfile","version":"5.6.11","yanked":false,"addr":"index.docker.io/initializbuildpacks/procfile@sha256:bd23a2d42c75721f49ab15964e24cb9080427b17c2a7b25db710b30c2761540c"}
