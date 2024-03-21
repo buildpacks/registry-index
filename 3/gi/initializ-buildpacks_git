@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"git","version":"1.0.7","yanked":false,"addr":"public.ecr.aws/initializ/go-buildpack@sha256:ea076bbfd932c0fbb3efa246e57fe9cb61bb227ed7c950716d398ff6661360d7"}
+{"ns":"initializ-buildpacks","name":"git","version":"1.0.8","yanked":false,"addr":"index.docker.io/initializbuildpacks/git@sha256:bc1c30f662bc3e5b96164d3f39f995a732d9a45cbcffcfa7af42cff5843e0abd"}
