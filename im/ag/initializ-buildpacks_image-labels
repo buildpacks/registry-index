@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"image-labels","version":"4.5.5","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/image-labels@sha256:19ee94f0228880ee689ed9b652141c4d91de7f1ec8d49b21efd580b70dd15127"}
+{"ns":"initializ-buildpacks","name":"image-labels","version":"4.5.6","yanked":false,"addr":"index.docker.io/initializbuildpacks/image-labels@sha256:8f9097e72a3e3fc92937f116c4cd8a7e67b232079d9413686e023aeb6afb9f88"}
