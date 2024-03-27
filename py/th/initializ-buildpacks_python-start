@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"python-start","version":"0.14.14","yanked":false,"addr":"public.ecr.aws/initializ/python-buildpack@sha256:75231b7c19b8cf2dc4c8e12dd4ad244e73f13d73006a34c2ac86b26f56e30f17"}
+{"ns":"initializ-buildpacks","name":"python-start","version":"0.14.15","yanked":false,"addr":"index.docker.io/initializbuildpacks/python-start@sha256:994c4fa40545bfe646413ea698a75aee48955386cab3ba23eb93bc8590a419ea"}
