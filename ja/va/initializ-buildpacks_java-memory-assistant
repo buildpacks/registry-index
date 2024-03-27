@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"java-memory-assistant","version":"1.4.10","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/java-memory-assistant@sha256:27a68302e7660d76cdae75ab23a5ab853c0cd62a3ecfc4739d728b27a909e043"}
+{"ns":"initializ-buildpacks","name":"java-memory-assistant","version":"1.4.11","yanked":false,"addr":"index.docker.io/initializbuildpacks/java-memory-assistant@sha256:3bfd819b3c10b6b9622eb13c63698fb1fa4f712e2e4431dc6632ea393f950332"}
