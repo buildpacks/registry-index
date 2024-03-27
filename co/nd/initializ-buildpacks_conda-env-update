@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"conda-env-update","version":"0.7.12","yanked":false,"addr":"public.ecr.aws/initializ/python-buildpack@sha256:ff29d16b0d8c1d916eae367ab7891a3c3065f5fa39fd18b0a5804ae04518d985"}
+{"ns":"initializ-buildpacks","name":"conda-env-update","version":"0.7.13","yanked":false,"addr":"index.docker.io/initializbuildpacks/conda-env-update@sha256:4a673696ed407ed3ed5df887b611788710f1f3938f480eafc5ff9bab9eb35a20"}
