@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"poetry-install","version":"0.3.17","yanked":false,"addr":"public.ecr.aws/initializ/python-buildpack@sha256:e380341238fd348ab44dadecd02828c6b10f6d49394068bb675f30a6044cbf3b"}
+{"ns":"initializ-buildpacks","name":"poetry-install","version":"0.3.18","yanked":false,"addr":"index.docker.io/initializbuildpacks/poetry-install@sha256:b03bbe733fc0e73df84f85e2fe4abbee48dbfb979bb317fc4332361b8c3272e6"}
