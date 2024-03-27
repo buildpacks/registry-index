@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"apache-tomcat","version":"7.15.0","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/apache-tomcat@sha256:99f504b8b6f66a464f883176df0212b5b7d0ec32cb7be01aacddb184a2fa4070"}
+{"ns":"initializ-buildpacks","name":"apache-tomcat","version":"7.15.1","yanked":false,"addr":"index.docker.io/initializbuildpacks/apache-tomcat@sha256:6b54e9f34e27495afeba9fb1f9e1e24f6942f6b156792ad462d00a0b77c9e148"}
