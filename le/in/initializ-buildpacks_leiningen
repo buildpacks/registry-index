@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"leiningen","version":"4.7.0","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/leiningen@sha256:0d12c5e45bf9ecd7bdecd49dd29340e25180eff02471206e36a46cce4b6aa289"}
+{"ns":"initializ-buildpacks","name":"leiningen","version":"4.7.1","yanked":false,"addr":"index.docker.io/initializbuildpacks/leiningen@sha256:9f6cc42cdab79a0317d87d5a36e846f1f31d10a1d9aef7deda442bbf071da58a"}
