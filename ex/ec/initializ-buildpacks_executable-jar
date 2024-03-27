@@ -1,2 +1,3 @@
 {"ns":"initializ-buildpacks","name":"executable-jar","version":"6.8.3","yanked":false,"addr":"public.ecr.aws/initializ/java-buildpack@sha256:949ac072a1e1a089bc28f02d5f1e8e9bcbccc72006ca1ce46bbbd6dbfadc4985"}
 {"ns":"initializ-buildpacks","name":"executable-jar","version":"6.8.4","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/executable-jar@sha256:82d19f17e2ddbf0f4ab8943e08013cb97f78e8e08b5f67caf9595538c64481f8"}
+{"ns":"initializ-buildpacks","name":"executable-jar","version":"6.8.5","yanked":false,"addr":"index.docker.io/initializbuildpacks/executable-jar@sha256:2fd9e9d108aaa5d373457d5caa55bc86d994c41c25dcf84c23a6496b85e0a9e7"}
