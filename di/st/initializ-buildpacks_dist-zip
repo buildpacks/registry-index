@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"dist-zip","version":"5.6.9","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/dist-zip@sha256:650dc4c4df8e508db25d6cde4bfba061a42441ec8d9bcc8a59b1f4c8c3a053ad"}
+{"ns":"initializ-buildpacks","name":"dist-zip","version":"5.6.10","yanked":false,"addr":"index.docker.io/initializbuildpacks/dist-zip@sha256:4a4d91e30bf7d8160a672cf2a9bc6a5b67ebd9a99ab386b032cf2d0f4e66e259"}
