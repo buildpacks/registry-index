@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"native-image","version":"5.12.8","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/native-image@sha256:13070707f46df559498e7f6e9754606fd5c19b429b2b0af2b758dc9530144922"}
+{"ns":"initializ-buildpacks","name":"native-image","version":"5.12.9","yanked":false,"addr":"index.docker.io/initializbuildpacks/native-image@sha256:0155fca82a3c6b651e6f47f7026ea34c5e31c9295644e503e17d3dcad730a4de"}
