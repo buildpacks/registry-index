@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"bundler","version":"0.8.8","yanked":false,"addr":"index.docker.io/initializbuildpacks/bundler@sha256:4c2cb404e17c23ac46a27065272ae1facaf4ee184893a47791401e6a46f77709"}
+{"ns":"initializ-buildpacks","name":"bundler","version":"0.8.9","yanked":false,"addr":"index.docker.io/initializbuildpacks/bundler@sha256:bfb824334e01e14fcb152ca7ea0f0b4447135a7097e201b277d944fa00ca1ccc"}
