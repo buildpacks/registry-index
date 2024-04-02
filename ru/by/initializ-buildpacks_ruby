@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"ruby","version":"1.0.0","yanked":false,"addr":"index.docker.io/initializbuildpacks/ruby@sha256:6a30026a1886c33a080bdacb5d0dec0af3e265402953c4ea97e8373f8849394d"}
+{"ns":"initializ-buildpacks","name":"ruby","version":"1.0.1","yanked":false,"addr":"index.docker.io/initializbuildpacks/ruby@sha256:fea14c23abea8e3ef51c49faf3bfc27842295d88cec92c7f669164b5b1b2f827"}
