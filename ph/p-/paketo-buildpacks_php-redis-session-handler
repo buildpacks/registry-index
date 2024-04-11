@@ -34,3 +34,4 @@
 {"ns":"paketo-buildpacks","name":"php-redis-session-handler","version":"0.2.25","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-redis-session-handler@sha256:aacb0d043b7cff58a1ff981d46c47ddd8065c8ed0bd113789ead1a1988749ca1"}
 {"ns":"paketo-buildpacks","name":"php-redis-session-handler","version":"0.2.26","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-redis-session-handler@sha256:c3d8e98892380d891f7d972accb9a1225ec4054a5de43df076e23c66853ca47e"}
 {"ns":"paketo-buildpacks","name":"php-redis-session-handler","version":"0.2.27","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-redis-session-handler@sha256:d2848d2ba3ca4ad14b355a2de5ef49c6979f79d552af9ab74663260e2900b14d"}
+{"ns":"paketo-buildpacks","name":"php-redis-session-handler","version":"0.2.28","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-redis-session-handler@sha256:632b9a4b43ccd886599efa560a66c2b8e6804510801b323ae5402e8c2a4e180a"}
