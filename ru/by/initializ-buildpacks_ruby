@@ -2,3 +2,4 @@
 {"ns":"initializ-buildpacks","name":"ruby","version":"1.0.1","yanked":false,"addr":"index.docker.io/initializbuildpacks/ruby@sha256:fea14c23abea8e3ef51c49faf3bfc27842295d88cec92c7f669164b5b1b2f827"}
 {"ns":"initializ-buildpacks","name":"ruby","version":"1.0.3","yanked":false,"addr":"index.docker.io/initializbuildpacks/ruby@sha256:7f2e5aeb2dbe8ac8555d7136684f4312d36756a3c911d500cdf65fdd3e8c792c"}
 {"ns":"initializ-buildpacks","name":"ruby","version":"1.0.9","yanked":false,"addr":"index.docker.io/initializbuildpacks/ruby@sha256:cdbe2624b4f55a51c724090ee192833c7a820af89044a1567e52fff4810e672e"}
+{"ns":"initializ-buildpacks","name":"ruby","version":"2.5.1","yanked":false,"addr":"index.docker.io/initializbuildpacks/ruby@sha256:3cec76ed066cea4d7767cb676cd970210d696b39b23738990ffc25d68db81428"}
