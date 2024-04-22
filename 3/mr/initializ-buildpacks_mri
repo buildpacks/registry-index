@@ -1,2 +1,3 @@
 {"ns":"initializ-buildpacks","name":"mri","version":"0.16.3","yanked":false,"addr":"index.docker.io/initializbuildpacks/mri@sha256:3b4881ffd258dccd919ac8de2b6d785ed7c5f8e1ab045983da6af13e517542ea"}
 {"ns":"initializ-buildpacks","name":"mri","version":"0.16.4","yanked":false,"addr":"index.docker.io/initializbuildpacks/mri@sha256:8c9ac3e4a38fa352f071ec5d9c205ddd51bc320c186fa2d431dff6244b4723f5"}
+{"ns":"initializ-buildpacks","name":"mri","version":"2.0.1","yanked":false,"addr":"index.docker.io/initializbuildpacks/mri@sha256:edf397cfb15f204d6c22fc37bbb7061c81745fa075195874192e5569b2ee7af2"}
