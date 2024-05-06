@@ -1,2 +1,3 @@
 {"ns":"initializ-buildpacks","name":"environment-variables","version":"4.5.7","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/environment-variables@sha256:f09abaa902044fd03b747c13e8b8330116afe0b6402cdfad8c391c5390e33167"}
 {"ns":"initializ-buildpacks","name":"environment-variables","version":"4.5.8","yanked":false,"addr":"index.docker.io/initializbuildpacks/environment-variables@sha256:2edb6355904423441837f691d85a624491254e18cda5a4634db72b1f16f8be0d"}
+{"ns":"initializ-buildpacks","name":"environment-variables","version":"0.1.6","yanked":false,"addr":"docker.io/initializbuildpacks/environment-variables@sha256:232346bd9b9ddd9be8c760fdc7d874f4134ba0fff1403d2d082439e7911fa41e"}
