@@ -1,3 +1,4 @@
 {"ns":"initializ-buildpacks","name":"syft","version":"1.42.0","yanked":false,"addr":"public.ecr.aws/initializ/java-buildpack@sha256:a484f0cce50e4ba61029fe75fb5de2c9399fffc00f532eb4fe1cd96f78b44c71"}
 {"ns":"initializ-buildpacks","name":"syft","version":"1.45.1","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/syft@sha256:82deb693b1b3143d35de44007fdeb811602bf36bfbcf7a15aa84f69c1441213a"}
 {"ns":"initializ-buildpacks","name":"syft","version":"1.45.2","yanked":false,"addr":"index.docker.io/initializbuildpacks/syft@sha256:a616634012c2483c9691916f685cf6d6d09e9c27e481711220900b5ee853d968"}
+{"ns":"initializ-buildpacks","name":"syft","version":"1.45.3","yanked":false,"addr":"index.docker.io/initializbuildpacks/syft@sha256:6d10df5b95da18e050dff896dc969f796c5e908a65dd0e3bd274bb8821149785"}
