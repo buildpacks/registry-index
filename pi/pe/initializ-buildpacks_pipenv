@@ -2,3 +2,4 @@
 {"ns":"initializ-buildpacks","name":"pipenv","version":"1.19.1","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/pipenv@sha256:dfc9a1bc92a85e0586a1eb691cadeb4485fbdd2e7a01b21a46525940a4cc16cb"}
 {"ns":"initializ-buildpacks","name":"pipenv","version":"1.19.2","yanked":false,"addr":"index.docker.io/initializbuildpacks/pipenv@sha256:e0541beeadf7633985a532b6080ddce997a4154ea98e75c439547c44d3a3e08d"}
 {"ns":"initializ-buildpacks","name":"pipenv","version":"1.21.0","yanked":false,"addr":"index.docker.io/initializbuildpacks/pipenv@sha256:7dcfd3e907a7975b8d9e24f5588cf3b9479cfab4e4cc71dae6300ad2b9b29c25"}
+{"ns":"initializ-buildpacks","name":"pipenv","version":"1.21.1","yanked":false,"addr":"index.docker.io/initializbuildpacks/pipenv@sha256:7b5e0e80ce3752513447af3697964514ec6be8a0bdb0a0699c1f1fc590cd81ac"}
