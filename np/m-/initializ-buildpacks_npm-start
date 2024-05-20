@@ -1,3 +1,4 @@
 {"ns":"initializ-buildpacks","name":"npm-start","version":"1.0.15","yanked":false,"addr":"public.ecr.aws/initializ/nodejs@sha256:68f82d5001a7b22058d30490205b13babb69570d05653e266b98b14c6172028c"}
 {"ns":"initializ-buildpacks","name":"npm-start","version":"1.0.16","yanked":false,"addr":"public.ecr.aws/initializ/nodejs@sha256:0f9fde14e399f3c684032a82a35f958b19e92ff84c58d96f43d53f230f1bc37e"}
 {"ns":"initializ-buildpacks","name":"npm-start","version":"1.0.17","yanked":false,"addr":"index.docker.io/initializbuildpacks/npm-start@sha256:e010f88be545fc91674979c2f7c69473f296aafe923d66eb7b36b12a5aa6de4b"}
+{"ns":"initializ-buildpacks","name":"npm-start","version":"1.0.18","yanked":false,"addr":"index.docker.io/initializbuildpacks/npm-start@sha256:fce20cc9788bf967cc41b88e3528fc777bc965b8c8b83864845ecaa0f5557307"}
