@@ -2,3 +2,4 @@
 {"ns":"initializ-buildpacks","name":"yarn","version":"1.2.1","yanked":false,"addr":"public.ecr.aws/initializ/nodejs@sha256:fd9e276c3db115fdc5322a71cd02f15ebd325e4a08c752a02f8e032fff114836"}
 {"ns":"initializ-buildpacks","name":"yarn","version":"1.2.2","yanked":false,"addr":"public.ecr.aws/initializ/nodejs@sha256:a27b03f34b66e6e42cdc39a940ceaa578c88e97733f08fb7079bb1dcf3be8386"}
 {"ns":"initializ-buildpacks","name":"yarn","version":"1.2.3","yanked":false,"addr":"index.docker.io/initializbuildpacks/yarn@sha256:2573176f2e2ea13528f5427420b205eaaab6b99a2621d66a1447008b8428f186"}
+{"ns":"initializ-buildpacks","name":"yarn","version":"1.2.5","yanked":false,"addr":"index.docker.io/initializbuildpacks/yarn@sha256:1a518714ea226c6e5a5ea2360590e9a58ad77852debdbc0867f21f63a2fe7fe3"}
