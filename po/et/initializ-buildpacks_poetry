@@ -1,3 +1,4 @@
 {"ns":"initializ-buildpacks","name":"poetry","version":"0.6.5","yanked":false,"addr":"public.ecr.aws/initializ/python-buildpack@sha256:8d5e528c28d019dae3a3063e8f6ec5bdfa85755fd4f34def216ec452b4969e9f"}
 {"ns":"initializ-buildpacks","name":"poetry","version":"0.6.6","yanked":false,"addr":"index.docker.io/initializbuildpacks/poetry@sha256:37ae65c8d6b2045a6f9b9d04856adf5a32a6aabbe5b32a0d63a81405dc87ecaf"}
 {"ns":"initializ-buildpacks","name":"poetry","version":"0.8.0","yanked":false,"addr":"index.docker.io/initializbuildpacks/poetry@sha256:21e0c0d02ca56d91758c110bcd442ace3d20e63c19dbeac0085058e6d67f1450"}
+{"ns":"initializ-buildpacks","name":"poetry","version":"0.8.1","yanked":false,"addr":"index.docker.io/initializbuildpacks/poetry@sha256:20d4a1bb1b981d1491b8841aef4f9b63775892f5eb8ca527a11c14e91764ec6f"}
