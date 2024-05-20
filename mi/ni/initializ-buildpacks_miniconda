@@ -1,2 +1,3 @@
 {"ns":"initializ-buildpacks","name":"miniconda","version":"0.8.5","yanked":false,"addr":"public.ecr.aws/initializ/python-buildpack@sha256:49c5cf1c4c041830372d6b42a23b3f05c5ea9b884a053d1d4df4e94445aa16ef"}
 {"ns":"initializ-buildpacks","name":"miniconda","version":"0.8.6","yanked":false,"addr":"index.docker.io/initializbuildpacks/miniconda@sha256:8ee2aca5ae8a0c819b747b547471a25aae1702e2f520ccc026b39751efbe0e3a"}
+{"ns":"initializ-buildpacks","name":"miniconda","version":"0.8.7","yanked":false,"addr":"index.docker.io/initializbuildpacks/miniconda@sha256:4d0d4d1c9f08da4ccb7f1e3c91ccd9a09d59d698c216099edc3243eaf9aedf3c"}
