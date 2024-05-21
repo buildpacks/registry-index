@@ -3,3 +3,4 @@
 {"ns":"initializ-buildpacks","name":"dotnet-core-aspnet-runtime","version":"0.4.4","yanked":false,"addr":"public.ecr.aws/initializ/dotnetcore@sha256:7914ef4d5e7e94a386a5e4ffd7bf54974b4fce44c1e3f290b2c9d130ad83e07c"}
 {"ns":"initializ-buildpacks","name":"dotnet-core-aspnet-runtime","version":"0.4.5","yanked":false,"addr":"index.docker.io/initializbuildpacks/dotnet-core-aspnet-runtime@sha256:7f36e7abdacfcfdf59b08507c3741a7b5c85e03424510b72c6d6d8b54d074243"}
 {"ns":"initializ-buildpacks","name":"dotnet-core-aspnet-runtime","version":"0.4.8","yanked":false,"addr":"index.docker.io/initializbuildpacks/dotnet-core-aspnet-runtime@sha256:4de68d6e3533869bbed39968255bb16746eaacdd9e84f88527d2f1d4f2c4fc55"}
+{"ns":"initializ-buildpacks","name":"dotnet-core-aspnet-runtime","version":"0.4.9","yanked":false,"addr":"index.docker.io/initializbuildpacks/dotnet-core-aspnet-runtime@sha256:e90fdc0a692118a2392cdea4559e75abcfc0ebf14fe6ad7c9b71c4eeb0d5d878"}
