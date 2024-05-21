@@ -2,3 +2,4 @@
 {"ns":"initializ-buildpacks","name":"python","version":"4.0.1","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/python@sha256:7dd0a9f657bc734ec139f0bb6598277e4c50f2cc3c112e9654a7f6ad4f0f4def"}
 {"ns":"initializ-buildpacks","name":"python","version":"4.0.2","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/python@sha256:36ce50cbc407ef025200fe0d3daa730f67fe4ac7a8ca39ab6be1fafe616f4023"}
 {"ns":"initializ-buildpacks","name":"python","version":"4.0.3","yanked":false,"addr":"index.docker.io/initializbuildpacks/python@sha256:271a0f00e921dccd76883dfe52b126bf02648b2125e1890e737cb83074bced43"}
+{"ns":"initializ-buildpacks","name":"python","version":"4.0.4","yanked":false,"addr":"index.docker.io/initializbuildpacks/python@sha256:7aaeada4cd13f04f4e5ff570bb80328515d335550a309979bf82b3bb229ef07c"}
