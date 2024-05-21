@@ -2,3 +2,4 @@
 {"ns":"initializ-buildpacks","name":"icu","version":"0.7.5","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/icu@sha256:d1ef51a1c413137d6afb5adfd10c7b0905e7adde962a50fc02d5b8009f6fe5a1"}
 {"ns":"initializ-buildpacks","name":"icu","version":"0.7.6","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/icu@sha256:8525cf1fd9adf0dd72e0208eeb20476f05460ddcfe182ac6f0291a7a2bdc1056"}
 {"ns":"initializ-buildpacks","name":"icu","version":"0.7.9","yanked":false,"addr":"index.docker.io/initializbuildpacks/icu@sha256:955b3eff69c2482b728417d00038d2fdcefcfb302fc4f7bf9ebd711f4b054d23"}
+{"ns":"initializ-buildpacks","name":"icu","version":"0.7.11","yanked":false,"addr":"index.docker.io/initializbuildpacks/icu@sha256:0db0e36de00fa264d4008f8fea89972600c45a10de29cb54c3c446743c452dae"}
