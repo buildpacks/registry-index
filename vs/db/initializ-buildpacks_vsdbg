@@ -1,3 +1,4 @@
 {"ns":"initializ-buildpacks","name":"vsdbg","version":"1.0.0","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/vsdbg@sha256:9c2575e8803bed57d515fb5bfc62065c97d4c67a8c06092c07b5a901af2152bd"}
 {"ns":"initializ-buildpacks","name":"vsdbg","version":"0.3.8","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/vsdbg@sha256:54f6d0313d8b7f80e474b2f0293cdacd0bbbb56a74f95e77ea5e859f8fe2d03d"}
 {"ns":"initializ-buildpacks","name":"vsdbg","version":"0.3.9","yanked":false,"addr":"index.docker.io/initializbuildpacks/vsdbg@sha256:3d50d497d2146763a3ad6e3a655598bd9d489d2c3970899c48f747c26996a046"}
+{"ns":"initializ-buildpacks","name":"vsdbg","version":"0.3.10","yanked":false,"addr":"index.docker.io/initializbuildpacks/vsdbg@sha256:c2a416ad9932f787a1e7cdc7a76c6cff4caa259789591d1d77f6b5bfa4987e15"}
