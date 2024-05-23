@@ -4,3 +4,4 @@
 {"ns":"initializ-buildpacks","name":"datadog","version":"4.8.0","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/datadog@sha256:bb26aeea65786a4299c53a5f89d42e46ee71cfe44d5943fb12414e12a4efda50"}
 {"ns":"initializ-buildpacks","name":"datadog","version":"4.8.2","yanked":false,"addr":"index.docker.io/initializbuildpacks/datadog@sha256:43d5b088ed5ca5cade46d73052aa4e42ece929b6c157241488cfa243a9db6c0d"}
 {"ns":"initializ-buildpacks","name":"datadog","version":"4.8.3","yanked":false,"addr":"index.docker.io/initializbuildpacks/datadog@sha256:cab079c87b59b6642fbc385a286fda2eb594038ffdcf9cf726626ad0a87528cd"}
+{"ns":"initializ-buildpacks","name":"datadog","version":"0.1.0","yanked":false,"addr":"docker.io/initializbuildpacks/datadog@sha256:83c5d17a90a6ee4768454bfb22fa5da143e45083a41b8d10be6b906012991737"}
