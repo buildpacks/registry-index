@@ -3,3 +3,4 @@
 {"ns":"initializ-buildpacks","name":"procfile","version":"5.6.11","yanked":false,"addr":"index.docker.io/initializbuildpacks/procfile@sha256:bd23a2d42c75721f49ab15964e24cb9080427b17c2a7b25db710b30c2761540c"}
 {"ns":"initializ-buildpacks","name":"procfile","version":"0.1.1","yanked":false,"addr":"docker.io/initializbuildpacks/procfile@sha256:7a86d66f077feef3aa61ed9bc047b5b40c390d84a2b9f21ea0d124778c494a24"}
 {"ns":"initializ-buildpacks","name":"procfile","version":"0.1.2","yanked":false,"addr":"docker.io/initializbuildpacks/procfile@sha256:fc5532c0d753dee9d7e02bb85379af5ee27fc5d20c4f447daf2dd147f2ba2b19"}
+{"ns":"initializ-buildpacks","name":"procfile","version":"5.6.13","yanked":false,"addr":"docker.io/initializbuildpacks/procfile@sha256:b5bbb368c326f19162cc4ad6449f13b05259a941fe64672ffc19d71814f1954e"}
