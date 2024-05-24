@@ -3,3 +3,4 @@
 {"ns":"initializ-buildpacks","name":"web-servers","version":"1.0.3","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/web-servers@sha256:80c10029f14558aa02989ec807d59e5ef76ccf05f2afe24f65e645d46e802f3a"}
 {"ns":"initializ-buildpacks","name":"web-servers","version":"1.0.4","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/web-servers@sha256:05f51febf87d72d579d42f7f7b64ae52e577a02bd888021f80b7c37c2866a437"}
 {"ns":"initializ-buildpacks","name":"web-servers","version":"1.0.6","yanked":false,"addr":"index.docker.io/initializbuildpacks/web-servers@sha256:826e2c84a786ce4da2522c7c99f07fa5fa8b36abf9d20c6ed5eb765c3a4e4d50"}
+{"ns":"initializ-buildpacks","name":"web-servers","version":"1.0.8","yanked":false,"addr":"index.docker.io/initializbuildpacks/web-servers@sha256:d6bbda7e3acb8a43ed2162fa8afa5c273b3c7286d947691451a44700ba60e82c"}
