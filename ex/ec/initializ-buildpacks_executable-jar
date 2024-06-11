@@ -3,3 +3,4 @@
 {"ns":"initializ-buildpacks","name":"executable-jar","version":"6.8.5","yanked":false,"addr":"index.docker.io/initializbuildpacks/executable-jar@sha256:2fd9e9d108aaa5d373457d5caa55bc86d994c41c25dcf84c23a6496b85e0a9e7"}
 {"ns":"initializ-buildpacks","name":"executable-jar","version":"6.8.6","yanked":false,"addr":"index.docker.io/initializbuildpacks/executable-jar@sha256:255cf8b2d9434cb8472701d8b2351ff809fe65e37c62988257cb952dc7eade4a"}
 {"ns":"initializ-buildpacks","name":"executable-jar","version":"0.1.2","yanked":false,"addr":"docker.io/initializbuildpacks/executable-jar@sha256:14af33043993f94aa89258e7ad0a7c0f07b590238d29657385e06df30cfbd1d3"}
+{"ns":"initializ-buildpacks","name":"executable-jar","version":"6.8.8","yanked":false,"addr":"index.docker.io/initializbuildpacks/executable-jar@sha256:8e4cff7a56e4e777b659930d5e77d94390dbd4a461ed8c552394c56a4deb6621"}
