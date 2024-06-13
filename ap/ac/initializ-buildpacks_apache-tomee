@@ -2,3 +2,4 @@
 {"ns":"initializ-buildpacks","name":"apache-tomee","version":"1.8.1","yanked":false,"addr":"index.docker.io/initializbuildpacks/apache-tomee@sha256:1f53d0ad804215b44e5f013925a96c10d0516c595bcd957cbdf13d7e6c5e9303"}
 {"ns":"initializ-buildpacks","name":"apache-tomee","version":"1.8.2","yanked":false,"addr":"index.docker.io/initializbuildpacks/apache-tomee@sha256:8449dfbee3b08d0f1d1d19fe4377061aba3adf41bb974960c327ffcd067014f5"}
 {"ns":"initializ-buildpacks","name":"apache-tomee","version":"1.8.3","yanked":false,"addr":"index.docker.io/initializbuildpacks/apache-tomee@sha256:8af7d8182ec87abd9aebb483bb80ed1e2e16c746ecce09874718aed342085700"}
+{"ns":"initializ-buildpacks","name":"apache-tomee","version":"1.8.5","yanked":false,"addr":"index.docker.io/initializbuildpacks/apache-tomee@sha256:130e6de2a454be10c5fcfdab42338b05ece2854630eeca1970bf95f659ba2963"}
