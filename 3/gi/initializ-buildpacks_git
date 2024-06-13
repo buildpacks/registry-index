@@ -1,3 +1,4 @@
 {"ns":"initializ-buildpacks","name":"git","version":"1.0.7","yanked":false,"addr":"public.ecr.aws/initializ/go-buildpack@sha256:ea076bbfd932c0fbb3efa246e57fe9cb61bb227ed7c950716d398ff6661360d7"}
 {"ns":"initializ-buildpacks","name":"git","version":"1.0.8","yanked":false,"addr":"index.docker.io/initializbuildpacks/git@sha256:bc1c30f662bc3e5b96164d3f39f995a732d9a45cbcffcfa7af42cff5843e0abd"}
 {"ns":"initializ-buildpacks","name":"git","version":"1.0.9","yanked":false,"addr":"index.docker.io/initializbuildpacks/git@sha256:95d3eba6fc4487d3cd25e69a22e6b0212ffb7ddfd39c7cfcf97df7aabb27a907"}
+{"ns":"initializ-buildpacks","name":"git","version":"1.0.10","yanked":false,"addr":"index.docker.io/initializbuildpacks/git@sha256:f2c3e3eb3e3659dc24eff9db066304868a38efab2c2ed066073d6e8cb774bbf1"}
