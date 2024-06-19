@@ -51,3 +51,4 @@
 {"ns":"paketo-buildpacks","name":"rake","version":"0.4.40","yanked":false,"addr":"index.docker.io/paketobuildpacks/rake@sha256:ebab13012fc3fd921f4426111a3af7370d483453be74283ef872a0805ac28c99"}
 {"ns":"paketo-buildpacks","name":"rake","version":"0.4.41","yanked":false,"addr":"index.docker.io/paketobuildpacks/rake@sha256:6073a517eb6370885d385660ae1cb55bc19c43904a5520c27b382536fd915226"}
 {"ns":"paketo-buildpacks","name":"rake","version":"0.4.42","yanked":false,"addr":"index.docker.io/paketobuildpacks/rake@sha256:ec16c8f4533f31dff5b563f3e190c324369c31ae2372f92cd3060f81494e53f3"}
+{"ns":"paketo-buildpacks","name":"rake","version":"0.4.43","yanked":false,"addr":"index.docker.io/paketobuildpacks/rake@sha256:4ad59898dd32af1edfc41f4ab8b6189e6f8b66d5ac161bedcf269c1e1dfaac91"}
