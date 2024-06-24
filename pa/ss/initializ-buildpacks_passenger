@@ -1,3 +1,4 @@
 {"ns":"initializ-buildpacks","name":"passenger","version":"0.14.3","yanked":false,"addr":"index.docker.io/initializbuildpacks/passenger@sha256:1d773fd31e0e7dbe4fb6963e816114fa45383b5e2ab32ad222bab1db68c1d106"}
 {"ns":"initializ-buildpacks","name":"passenger","version":"0.14.4","yanked":false,"addr":"index.docker.io/initializbuildpacks/passenger@sha256:70ea148019da416016b7d23f4d0e3f5b530f68199cf9cfe05b2e76a9b8ee56d4"}
 {"ns":"initializ-buildpacks","name":"passenger","version":"2.0.0","yanked":false,"addr":"index.docker.io/initializbuildpacks/passenger@sha256:962d5b237b479936de72b7a5599c8223b98fbf575dc6120f4436dae90bc13d2e"}
+{"ns":"initializ-buildpacks","name":"passenger","version":"0.14.7","yanked":false,"addr":"index.docker.io/initializbuildpacks/passenger@sha256:7434906ffcf843303c890a6b4d6d9a1876e5f26b3ddca6dcf3cb6905eda15bb7"}
