@@ -6,3 +6,4 @@
 {"ns":"initializ-buildpacks","name":"java","version":"2.0.4","yanked":false,"addr":"index.docker.io/initializbuildpacks/java@sha256:3c7ddd556833e0227dc370cce0827a99563721719e8429f604f8d99c303088b1"}
 {"ns":"initializ-buildpacks","name":"java","version":"9.8.7","yanked":false,"addr":"index.docker.io/initializbuildpacks/java@sha256:3b8af4345f790b796fca166a8b9b42103bfab9df192c33084618ff12ee308eb7"}
 {"ns":"initializ-buildpacks","name":"java","version":"9.8.9","yanked":false,"addr":"index.docker.io/initializbuildpacks/java@sha256:9a5fad7e74cd6abf3203c1e6d9d78b60193c2208d3b2b26162af8a45395b4da6"}
+{"ns":"initializ-buildpacks","name":"java","version":"9.8.10","yanked":false,"addr":"index.docker.io/initializbuildpacks/java@sha256:e65433d9d89d15a8723a76f82d560d99136af097947f04b76dfdf13f00d88e6b"}
