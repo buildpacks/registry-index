@@ -3,3 +3,4 @@
 {"ns":"initializ-buildpacks","name":"environment-variables","version":"0.1.6","yanked":false,"addr":"docker.io/initializbuildpacks/environment-variables@sha256:232346bd9b9ddd9be8c760fdc7d874f4134ba0fff1403d2d082439e7911fa41e"}
 {"ns":"initializ-buildpacks","name":"environment-variables","version":"4.5.10","yanked":false,"addr":"docker.io/initializbuildpacks/environment-variables@sha256:d92c30490f53d75499f27e07e04e9f8430a30dc20a7bd9d52341aad41a239c78"}
 {"ns":"initializ-buildpacks","name":"environment-variables","version":"4.5.11","yanked":false,"addr":"docker.io/initializbuildpacks/environment-variables@sha256:e8015ffef1e7c2265d1b857592f4515a5a73a53607c93fa573dc1a0e2909f5f8"}
+{"ns":"initializ-buildpacks","name":"environment-variables","version":"4.5.12","yanked":false,"addr":"docker.io/initializbuildpacks/environment-variables@sha256:ebd9a7924fecb71b1e5d826efee40a1e55cd2eda0515d6b926980478545ee586"}
