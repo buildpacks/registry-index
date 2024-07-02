@@ -1,3 +1,4 @@
 {"ns":"initializ-buildpacks","name":"dotnet-execute","version":"0.14.26","yanked":false,"addr":"public.ecr.aws/initializ/dotnetcore@sha256:78bd959c821f7937d3481b9271d6b3fa16db426356679a02d2d8f2b38d193150"}
 {"ns":"initializ-buildpacks","name":"dotnet-execute","version":"0.14.27","yanked":false,"addr":"index.docker.io/initializbuildpacks/dotnet-execute@sha256:aa549d9a6dfa6503eadc84ff1ffd24cbdc9709e26d716ce8b08c380ca3f957b7"}
 {"ns":"initializ-buildpacks","name":"dotnet-execute","version":"0.14.28","yanked":false,"addr":"index.docker.io/initializbuildpacks/dotnet-execute@sha256:6caf464424d001e7663ad11814051060c2cc24fb4fb79141fd226e2117a7436e"}
+{"ns":"initializ-buildpacks","name":"dotnet-execute","version":"0.14.29","yanked":false,"addr":"index.docker.io/initializbuildpacks/dotnet-execute@sha256:9328546feff32d190ad614467a57659423b7a8ce19b6229454cf92100de52251"}
