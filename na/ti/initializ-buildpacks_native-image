@@ -1,3 +1,4 @@
 {"ns":"initializ-buildpacks","name":"native-image","version":"5.12.8","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/native-image@sha256:13070707f46df559498e7f6e9754606fd5c19b429b2b0af2b758dc9530144922"}
 {"ns":"initializ-buildpacks","name":"native-image","version":"5.12.9","yanked":false,"addr":"index.docker.io/initializbuildpacks/native-image@sha256:0155fca82a3c6b651e6f47f7026ea34c5e31c9295644e503e17d3dcad730a4de"}
 {"ns":"initializ-buildpacks","name":"native-image","version":"5.12.11","yanked":false,"addr":"index.docker.io/initializbuildpacks/native-image@sha256:6e6ef4535e7dc29faec8d190ef9e576082ff0674d170caf4a28a99c869db8830"}
+{"ns":"initializ-buildpacks","name":"native-image","version":"5.12.12","yanked":false,"addr":"index.docker.io/initializbuildpacks/native-image@sha256:0883f1e0f573ab5bedefa8c003f79cf4e2aac65ffa4fe68aab5379cb0d701dfd"}
