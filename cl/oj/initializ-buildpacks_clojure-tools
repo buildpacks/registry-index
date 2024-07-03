@@ -4,3 +4,4 @@
 {"ns":"initializ-buildpacks","name":"clojure-tools","version":"2.8.17","yanked":false,"addr":"index.docker.io/initializbuildpacks/clojure-tools@sha256:c2910ab9c22f787a8dbcfa5eb573bb7e5e0aac35eb3ecdb2c6e28e27e20f198e"}
 {"ns":"initializ-buildpacks","name":"clojure-tools","version":"2.8.18","yanked":false,"addr":"index.docker.io/initializbuildpacks/clojure-tools@sha256:ca33b83bb3037d62654e2f7df6d04d096aeca8fa598ce751623e4c6bde099f80"}
 {"ns":"initializ-buildpacks","name":"clojure-tools","version":"2.8.20","yanked":false,"addr":"index.docker.io/initializbuildpacks/clojure-tools@sha256:888a92caae427bb14b773f58a6999ffd86c8eeca9cc456b5652b6abe6f95a8c6"}
+{"ns":"initializ-buildpacks","name":"clojure-tools","version":"2.8.21","yanked":false,"addr":"index.docker.io/initializbuildpacks/clojure-tools@sha256:6d72ca613f6639ff620420f9ac28b1f8120cdda607d9a370605429c8bbad7381"}
