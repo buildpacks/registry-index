@@ -3,3 +3,4 @@
 {"ns":"initializ-buildpacks","name":"syft","version":"1.45.2","yanked":false,"addr":"index.docker.io/initializbuildpacks/syft@sha256:a616634012c2483c9691916f685cf6d6d09e9c27e481711220900b5ee853d968"}
 {"ns":"initializ-buildpacks","name":"syft","version":"1.45.3","yanked":false,"addr":"index.docker.io/initializbuildpacks/syft@sha256:6d10df5b95da18e050dff896dc969f796c5e908a65dd0e3bd274bb8821149785"}
 {"ns":"initializ-buildpacks","name":"syft","version":"1.45.5","yanked":false,"addr":"index.docker.io/initializbuildpacks/syft@sha256:0a3f202242c293a7c01706747c92feb969e1f3a8563d0320cd2119c2ecdfa99e"}
+{"ns":"initializ-buildpacks","name":"syft","version":"1.45.6","yanked":false,"addr":"index.docker.io/initializbuildpacks/syft@sha256:334bfbfb8ed3539eb34b5d5d9bfdd4742985b49ca4f109b13124fbee5a739591"}
