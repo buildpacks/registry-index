@@ -2,3 +2,4 @@
 {"ns":"initializ-buildpacks","name":"dist-zip","version":"5.6.10","yanked":false,"addr":"index.docker.io/initializbuildpacks/dist-zip@sha256:4a4d91e30bf7d8160a672cf2a9bc6a5b67ebd9a99ab386b032cf2d0f4e66e259"}
 {"ns":"initializ-buildpacks","name":"dist-zip","version":"5.6.11","yanked":false,"addr":"index.docker.io/initializbuildpacks/dist-zip@sha256:65e5d169b713d7890c0cea2b93ac71f659ea80f1e3320a7f29ecab08e6fb072a"}
 {"ns":"initializ-buildpacks","name":"dist-zip","version":"5.6.13","yanked":false,"addr":"index.docker.io/initializbuildpacks/dist-zip@sha256:73844b6511cd09f55889b5494aac56a612ab8e2515bc7a333065530f165e7def"}
+{"ns":"initializ-buildpacks","name":"dist-zip","version":"5.6.14","yanked":false,"addr":"index.docker.io/initializbuildpacks/dist-zip@sha256:b573fb79608fe0c4119a187853a86cd7f2f7fcfd14ace5152910817c48c7c3a5"}
