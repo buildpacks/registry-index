@@ -2,3 +2,4 @@
 {"ns":"initializ-buildpacks","name":"upx","version":"3.4.9","yanked":false,"addr":"index.docker.io/initializbuildpacks/upx@sha256:548194d377b81974e391f6f08499f48ea750879098a804fa546fb26aaf2fef06"}
 {"ns":"initializ-buildpacks","name":"upx","version":"3.4.11","yanked":false,"addr":"index.docker.io/initializbuildpacks/upx@sha256:2a85608a78e00846ed72aed0ff148f1930f788fd7328d0ab9b162cd81707ef7d"}
 {"ns":"initializ-buildpacks","name":"upx","version":"3.4.12","yanked":false,"addr":"index.docker.io/initializbuildpacks/upx@sha256:6c988997cce246b084ec8e1ce6e262dc01a6214f3f43f1c87757ca4bdd085ea2"}
+{"ns":"initializ-buildpacks","name":"upx","version":"3.4.13","yanked":false,"addr":"docker.io/initializbuildpacks/upx@sha256:99a62bbde5a43b7fcfaf1d6398e4f3a080e7fdc351555b0cac082ed29a0b7ada"}
