@@ -3,3 +3,4 @@
 {"ns":"initializ-buildpacks","name":"leiningen","version":"4.7.2","yanked":false,"addr":"index.docker.io/initializbuildpacks/leiningen@sha256:eb22518b1634a4e969556f8dd7c8ac37587af55e6cef91afb1997900af519318"}
 {"ns":"initializ-buildpacks","name":"leiningen","version":"4.7.4","yanked":false,"addr":"index.docker.io/initializbuildpacks/leiningen@sha256:1530d58a62b1c96a8a09146e83f76bf1aea29c39ffab0927347c23e620e8f96b"}
 {"ns":"initializ-buildpacks","name":"leiningen","version":"4.7.5","yanked":false,"addr":"index.docker.io/initializbuildpacks/leiningen@sha256:5a695ebbe249ca9113e8c7284c8689961a72cb407be59fd9b622ad60c43a11d7"}
+{"ns":"initializ-buildpacks","name":"leiningen","version":"4.7.6","yanked":false,"addr":"docker.io/initializbuildpacks/leiningen@sha256:2a3d7172ff0c9bde038559cb87b1cb13cb27585141aa929c89cee09dbbcce183"}
