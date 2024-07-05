@@ -4,3 +4,4 @@
 {"ns":"initializ-buildpacks","name":"azure-application-insights","version":"5.17.8","yanked":false,"addr":"index.docker.io/initializbuildpacks/azure-application-insights@sha256:08d0253415200e76753ffc0eb49174848b081f4d462b50fa609c80eec0ab0329"}
 {"ns":"initializ-buildpacks","name":"azure-application-insights","version":"5.17.9","yanked":false,"addr":"index.docker.io/initializbuildpacks/azure-application-insights@sha256:2788d5c5df1991677569779a876330a0d2c6f719051c98e66fc3d17d1e66250d"}
 {"ns":"initializ-buildpacks","name":"azure-application-insights","version":"5.17.10","yanked":false,"addr":"index.docker.io/initializbuildpacks/azure-application-insights@sha256:252f50f64df1e734d044a808a68ba18d847bf0443637dca820f0b7b0a64dd4e9"}
+{"ns":"initializ-buildpacks","name":"azure-application-insights","version":"5.17.11","yanked":false,"addr":"docker.io/initializbuildpacks/azure-application-insights@sha256:66281ba85cac7498bdab5e6fc3d9e8096eb54469cedbd85fa22961770eaa7fed"}
