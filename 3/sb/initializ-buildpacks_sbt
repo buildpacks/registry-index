@@ -3,3 +3,4 @@
 {"ns":"initializ-buildpacks","name":"sbt","version":"6.12.14","yanked":false,"addr":"index.docker.io/initializbuildpacks/sbt@sha256:2aae45f2031746766bc9309ad5a1b2a8151121d0a1a5cf863c141351b4fc0771"}
 {"ns":"initializ-buildpacks","name":"sbt","version":"6.12.16","yanked":false,"addr":"index.docker.io/initializbuildpacks/sbt@sha256:ea8dbe28ced192b4503cd4e748f394854b38f393fe6c8b3914acdd1937bf2135"}
 {"ns":"initializ-buildpacks","name":"sbt","version":"6.12.17","yanked":false,"addr":"index.docker.io/initializbuildpacks/sbt@sha256:89c1dad9358ef55a53d01bcd8d5e0b6e4a1c4f028e19d5b8ba36a33d637afd86"}
+{"ns":"initializ-buildpacks","name":"sbt","version":"0.1.0","yanked":false,"addr":"docker.io/initializbuildpacks/sbt@sha256:baabd17dcb518dee67faaf4f5bf7451d165647cbf86a672e959906903fb1d14b"}
