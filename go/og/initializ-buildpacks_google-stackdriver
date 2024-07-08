@@ -3,3 +3,4 @@
 {"ns":"initializ-buildpacks","name":"google-stackdriver","version":"9.0.2","yanked":false,"addr":"index.docker.io/initializbuildpacks/google-stackdriver@sha256:f0d7df98b67e0576abf2106e9ff1df7328b74640d0b95e382cc1e523232fe250"}
 {"ns":"initializ-buildpacks","name":"google-stackdriver","version":"9.0.4","yanked":false,"addr":"index.docker.io/initializbuildpacks/google-stackdriver@sha256:ec635dabf46d3e2000bf50635447fce2f30819240686648f3c353c1f0bdc78e4"}
 {"ns":"initializ-buildpacks","name":"google-stackdriver","version":"9.0.5","yanked":false,"addr":"index.docker.io/initializbuildpacks/google-stackdriver@sha256:ab9271c656f5a67a7f84ae64a3e3b896e0ae37c396701e805428db49fbb8f3a7"}
+{"ns":"initializ-buildpacks","name":"google-stackdriver","version":"9.0.6","yanked":false,"addr":"index.docker.io/initializbuildpacks/google-stackdriver@sha256:1348bf28c879d42bf8d74b39818ea9d0c79587934823e33e5dbef6ee8039deac"}
