@@ -1,3 +1,4 @@
 {"ns":"jkutner","name":"launch","version":"1.0.0","yanked":false,"addr":"ghcr.io/jkutner/buildpacks/jkutner_launch@sha256:9154369aa8b7bac6a67cd3c523b5ac81e739c786c332d42316f1106fe6553b7b"}
 {"ns":"jkutner","name":"launch","version":"1.0.1","yanked":false,"addr":"ghcr.io/jkutner/buildpacks/jkutner_launch@sha256:762902b8366c057def5831e8a0e69e4216f13d9fcb11e76f7535f1b4cd87520d"}
 {"ns":"jkutner","name":"launch","version":"1.0.3","yanked":false,"addr":"ghcr.io/jkutner/buildpacks/jkutner_launch@sha256:151e42e12f6e00c7b5f9744353b0a877152ca998531e2f9883f3b24c2b50c288"}
+{"ns":"jkutner","name":"launch","version":"1.0.4","yanked":false,"addr":"ghcr.io/jkutner/buildpacks/jkutner_launch@sha256:6d7f608dab3d8767919ed809b1da135f175a6c2c90940d387549d13091ecf169"}
