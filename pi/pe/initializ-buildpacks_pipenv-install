@@ -1,3 +1,4 @@
 {"ns":"initializ-buildpacks","name":"pipenv-install","version":"0.6.18","yanked":false,"addr":"public.ecr.aws/initializ/python-buildpack@sha256:92e9772a14bb4a7ab398e3209be27e27322dc0f5b3fa3350f86ed003bbc26f73"}
 {"ns":"initializ-buildpacks","name":"pipenv-install","version":"0.6.19","yanked":false,"addr":"index.docker.io/initializbuildpacks/pipenv-install@sha256:26223ac8dd448f631e8d9248ce3f538d2bbce23aec020eb000b6938e59a23bb8"}
 {"ns":"initializ-buildpacks","name":"pipenv-install","version":"0.6.20","yanked":false,"addr":"index.docker.io/initializbuildpacks/pipenv-install@sha256:d02f3a6c7addc7340f5ff1ea4ffb523674b49a9090d7b19525d58ea22dbe32b4"}
+{"ns":"initializ-buildpacks","name":"pipenv-install","version":"0.6.21","yanked":false,"addr":"index.docker.io/initializbuildpacks/pipenv-install@sha256:1577798cadde8d0b54d01628ff758bcc7ab4b423a20edf6e65c8d70bcfec5f9c"}
