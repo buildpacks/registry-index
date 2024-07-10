@@ -4,3 +4,4 @@
 {"ns":"initializ-buildpacks","name":"python","version":"4.0.3","yanked":false,"addr":"index.docker.io/initializbuildpacks/python@sha256:271a0f00e921dccd76883dfe52b126bf02648b2125e1890e737cb83074bced43"}
 {"ns":"initializ-buildpacks","name":"python","version":"4.0.4","yanked":false,"addr":"index.docker.io/initializbuildpacks/python@sha256:7aaeada4cd13f04f4e5ff570bb80328515d335550a309979bf82b3bb229ef07c"}
 {"ns":"initializ-buildpacks","name":"python","version":"4.0.5","yanked":false,"addr":"index.docker.io/initializbuildpacks/python@sha256:588b44c14a07a9980bee921a7d53abe84911a468e16c080d2099707d823fccec"}
+{"ns":"initializ-buildpacks","name":"python","version":"4.0.6","yanked":false,"addr":"index.docker.io/initializbuildpacks/python@sha256:285211ce992295ed8ea8a98c83cb522689f3a41f14f14f5c186283e6759df1ec"}
