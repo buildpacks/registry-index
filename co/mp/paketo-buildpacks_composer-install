@@ -37,3 +37,4 @@
 {"ns":"paketo-buildpacks","name":"composer-install","version":"0.3.24","yanked":false,"addr":"index.docker.io/paketobuildpacks/composer-install@sha256:21d8eb721f7eed94275b57c25c9db3e649f44a2f662144b17de5b33f62623f69"}
 {"ns":"paketo-buildpacks","name":"composer-install","version":"0.3.25","yanked":false,"addr":"index.docker.io/paketobuildpacks/composer-install@sha256:672a10e2248fe12e782ffceac7d4d768ee117d3e999adb663e8550cd523c8954"}
 {"ns":"paketo-buildpacks","name":"composer-install","version":"0.3.26","yanked":false,"addr":"index.docker.io/paketobuildpacks/composer-install@sha256:65766567286b859c2f6f9fdc9c10cb570f3cb773f73720c529cf200c2e973694"}
+{"ns":"paketo-buildpacks","name":"composer-install","version":"0.3.27","yanked":false,"addr":"index.docker.io/paketobuildpacks/composer-install@sha256:72a597a779e7c001f838b40e672aa6cdbaa4ebcf726e788043961dd0e4ea03fc"}
