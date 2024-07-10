@@ -3,3 +3,4 @@
 {"ns":"initializ-buildpacks","name":"poetry","version":"0.8.0","yanked":false,"addr":"index.docker.io/initializbuildpacks/poetry@sha256:21e0c0d02ca56d91758c110bcd442ace3d20e63c19dbeac0085058e6d67f1450"}
 {"ns":"initializ-buildpacks","name":"poetry","version":"0.8.1","yanked":false,"addr":"index.docker.io/initializbuildpacks/poetry@sha256:20d4a1bb1b981d1491b8841aef4f9b63775892f5eb8ca527a11c14e91764ec6f"}
 {"ns":"initializ-buildpacks","name":"poetry","version":"0.8.2","yanked":false,"addr":"index.docker.io/initializbuildpacks/poetry@sha256:f47371841451fbf12fb1c929cb82ff0c91950de7b61d0a1fae4ff4496299a340"}
+{"ns":"initializ-buildpacks","name":"poetry","version":"0.8.3","yanked":false,"addr":"index.docker.io/initializbuildpacks/poetry@sha256:7dfc7ff9ea0fdbcb12acfdca12b0c8cfed5a4207af0c1872a9964288a0e81bf1"}
