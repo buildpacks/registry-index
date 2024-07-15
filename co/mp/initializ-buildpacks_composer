@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"composer","version":"0.6.6","yanked":false,"addr":"public.ecr.aws/initializ/php-buildpack@sha256:5e61bddb941485fc65e06c86be2c64f4154facaf31250a1451b4cda008aeb96b"}
+{"ns":"initializ-buildpacks","name":"composer","version":"1.0.0","yanked":false,"addr":"index.docker.io/initializbuildpacks/composer@sha256:024cda1c127d4478d7d04a160307bb2a2000c04b64fa884f3cf1f612940f0fb5"}
