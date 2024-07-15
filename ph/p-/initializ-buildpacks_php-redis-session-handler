@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"php-redis-session-handler","version":"0.2.23","yanked":false,"addr":"public.ecr.aws/initializ/php-buildpack@sha256:a01a2a684a914bf11bfc123d990dc6da7b5db737c9a551d20513747994daffd6"}
+{"ns":"initializ-buildpacks","name":"php-redis-session-handler","version":"1.0.0","yanked":false,"addr":"index.docker.io/initializbuildpacks/php-redis-session-handler@sha256:c699fe6c17ed1b50b45c5ec50662c8935d115ef7d774e3c3cf499b6d7c2988f3"}
