@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"php-nginx","version":"0.3.9","yanked":false,"addr":"public.ecr.aws/initializ/php-buildpack@sha256:5806120a7828c5c3b0d1931db421d0ff7164fabf5e7f0c2a86ad348aa666b443"}
+{"ns":"initializ-buildpacks","name":"php-nginx","version":"0.3.18","yanked":false,"addr":"index.docker.io/initializbuildpacks/php-nginx@sha256:01d810b4a3d5fcd292c8e950fb6a914f063545c0161e02bf3b2263e5f22f1874"}
