@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"composer-install","version":"0.3.21","yanked":false,"addr":"public.ecr.aws/initializ/php-buildpack@sha256:67c9fc19bddf95b82cc2416bd72f665d5cf84a2accb333fe12bb5a52cf11af58"}
+{"ns":"initializ-buildpacks","name":"composer-install","version":"1.0.0","yanked":false,"addr":"index.docker.io/initializbuildpacks/composer-install@sha256:54a16d7c410e699ee53f597b1c30c61dd75044fb4cf5e99339141f1ba0ff1f33"}
