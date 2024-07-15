@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"php-start","version":"0.4.23","yanked":false,"addr":"public.ecr.aws/initializ/php-buildpack@sha256:5fb9da03712044e0991fdb2ccb63ade0e54429262b3339447312b3b842b59c74"}
+{"ns":"initializ-buildpacks","name":"php-start","version":"2.0.0","yanked":false,"addr":"index.docker.io/initializbuildpacks/php-start@sha256:3f0777155b59ed9452b9a8ca402f76ec95212bd42574fd715ee4261b5940cda8"}
