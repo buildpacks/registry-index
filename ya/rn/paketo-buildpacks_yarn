@@ -36,3 +36,4 @@
 {"ns":"paketo-buildpacks","name":"yarn","version":"1.3.3","yanked":false,"addr":"index.docker.io/paketobuildpacks/yarn@sha256:4ed21adc8980d7205c5ace0f3fa2e280a2412ebb76b1705bf311645a1101e55f"}
 {"ns":"paketo-buildpacks","name":"yarn","version":"1.3.4","yanked":false,"addr":"index.docker.io/paketobuildpacks/yarn@sha256:e6d6b0aa4f1b576c49ef85aab2b499dae6f8bab62a2e2c9561eedbf5fa956930"}
 {"ns":"paketo-buildpacks","name":"yarn","version":"1.3.5","yanked":false,"addr":"index.docker.io/paketobuildpacks/yarn@sha256:67a0e820b83faddf1f019068d078bd4bb92a774de3092f3325d99f32cf078854"}
+{"ns":"paketo-buildpacks","name":"yarn","version":"1.3.7","yanked":false,"addr":"index.docker.io/paketobuildpacks/yarn@sha256:32e6e23d11c904638ec0b5aaabdd7632d94eba44fa48a5a79ba8f43fe9ff209b"}
