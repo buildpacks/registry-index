@@ -8,3 +8,4 @@
 {"ns":"initializ-buildpacks","name":"httpd","version":"0.7.20","yanked":false,"addr":"index.docker.io/initializbuildpacks/httpd@sha256:b787d617b72ffe2ea0472cdea0a3a85f7914e632df61dbe923437df49882bcc7"}
 {"ns":"initializ-buildpacks","name":"httpd","version":"0.7.21","yanked":false,"addr":"index.docker.io/initializbuildpacks/httpd@sha256:fcdf93e2fcc96d88a53ef8f6a29eed8c569c5540967db2df172868101ca2e816"}
 {"ns":"initializ-buildpacks","name":"httpd","version":"0.7.22","yanked":false,"addr":"index.docker.io/initializbuildpacks/httpd@sha256:5edee34040d95d0fb9424bf8f04244be22f67865ed0284d28727fe07989f1eaf"}
+{"ns":"initializ-buildpacks","name":"httpd","version":"0.7.23","yanked":false,"addr":"index.docker.io/initializbuildpacks/httpd@sha256:30ce47986168ced19d96fa411a7a5a1e69fa65d87be43a3216e2495979f3893c"}
