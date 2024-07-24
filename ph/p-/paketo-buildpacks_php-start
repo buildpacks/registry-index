@@ -41,3 +41,4 @@
 {"ns":"paketo-buildpacks","name":"php-start","version":"0.4.31","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-start@sha256:37b88ee5982c1763d881af25b7bf87a997b84183fb1f0d73328a66f266503648"}
 {"ns":"paketo-buildpacks","name":"php-start","version":"0.4.32","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-start@sha256:c2e00db0104d3852ad606d11d12bb7a69f6108876e5ea923eaf8a89f6a5fc06b"}
 {"ns":"paketo-buildpacks","name":"php-start","version":"0.4.33","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-start@sha256:b4843ad137a447e363e3f98f73197c474ed83213a4388e67352f2c0cf7e48fb3"}
+{"ns":"paketo-buildpacks","name":"php-start","version":"0.4.34","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-start@sha256:0a79b44da8187c0a352c548375ab1cc11235e6222f3c075db4e8674824c07884"}
