@@ -25,3 +25,4 @@
 {"ns":"initializ-buildpacks","name":"go","version":"1.22.3","yanked":false,"addr":"index.docker.io/initializbuildpacks/go@sha256:b43fde103834a4d26ed6442523177b1402d901817e94a33e26b82dcd5cbab104"}
 {"ns":"initializ-buildpacks","name":"go","version":"1.22.4","yanked":false,"addr":"index.docker.io/initializbuildpacks/go@sha256:64cb9dda8b8fd5af19a90f3614d00e0e4826c2bc3b66d239ff4ff981ba9d6306"}
 {"ns":"initializ-buildpacks","name":"go","version":"1.22.5","yanked":false,"addr":"index.docker.io/initializbuildpacks/go@sha256:ce91c79d58d53f855f7ce286213566b80bf557e1a1a6a636bf85a50b2d49c6de"}
+{"ns":"initializ-buildpacks","name":"go","version":"1.22.6","yanked":false,"addr":"index.docker.io/initializbuildpacks/go@sha256:ed704628e76ae8bad91ea8dabaf8a3f919441b9a0f16d068ff90371dc8caed8e"}
