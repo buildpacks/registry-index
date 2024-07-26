@@ -53,3 +53,4 @@
 {"ns":"paketo-buildpacks","name":"procfile","version":"5.7.0","yanked":false,"addr":"docker.io/paketobuildpacks/procfile@sha256:2973301222b12768552960f411b8078ac5a6b6253bf09ed8cefa37386ba1352a"}
 {"ns":"paketo-buildpacks","name":"procfile","version":"5.8.0","yanked":false,"addr":"docker.io/paketobuildpacks/procfile@sha256:f9c0361f4893ebfc2fbc42efd8a897e782f19fc28954a3d31915538bc4e81ca2"}
 {"ns":"paketo-buildpacks","name":"procfile","version":"5.9.0","yanked":false,"addr":"docker.io/paketobuildpacks/procfile@sha256:f11dfa4bac55ebf5f320e1a1ea695a9d4a8aebf99ec73effbd18d238c388f0b7"}
+{"ns":"paketo-buildpacks","name":"procfile","version":"5.9.1","yanked":false,"addr":"docker.io/paketobuildpacks/procfile@sha256:8d2787fbe96558b603e6b4820c1b9bf543450282c178a116fd2b502c6dc1967d"}
