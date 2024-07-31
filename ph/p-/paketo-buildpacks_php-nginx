@@ -43,3 +43,4 @@
 {"ns":"paketo-buildpacks","name":"php-nginx","version":"0.3.17","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-nginx@sha256:83fe12311282f48ccae69124ffc39eeb9f32a5b4e8d365f9037ef339485b3002"}
 {"ns":"paketo-buildpacks","name":"php-nginx","version":"0.3.18","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-nginx@sha256:fe7b5c275a5fb906d5a14da36548e314093433e612845abb53c17b1fda02d3b3"}
 {"ns":"paketo-buildpacks","name":"php-nginx","version":"0.3.19","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-nginx@sha256:f8ab39741e9f65a46e23fcf0e3d9640102339e4d3c0faa0927be7046fb6f8983"}
+{"ns":"paketo-buildpacks","name":"php-nginx","version":"0.3.20","yanked":false,"addr":"index.docker.io/paketobuildpacks/php-nginx@sha256:b6154f60b97fe8a02b6e050ae8e1d80c1e9d2adb0578bfebd1e16178f6b35c1d"}
