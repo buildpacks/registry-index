@@ -7,3 +7,4 @@
 {"ns":"paketo-buildpacks","name":"source-removal","version":"0.2.5","yanked":false,"addr":"index.docker.io/paketobuildpacks/source-removal@sha256:b1aaa0d72fb9ec0259661020ac0fa89cc65766e082f9cffd76cb02fe87afc682"}
 {"ns":"paketo-buildpacks","name":"source-removal","version":"0.2.7","yanked":false,"addr":"index.docker.io/paketobuildpacks/source-removal@sha256:7af20389d2fdd73166a5f239aab4a4de1dd0fd9b48be4c9de51fcfef229b9f1e"}
 {"ns":"paketo-buildpacks","name":"source-removal","version":"0.2.8","yanked":false,"addr":"index.docker.io/paketobuildpacks/source-removal@sha256:f70f453b4341b5750b03948bdc0a9f0d0355cb31ef221fc82b8d18a7a42b50cc"}
+{"ns":"paketo-buildpacks","name":"source-removal","version":"0.2.9","yanked":false,"addr":"index.docker.io/paketobuildpacks/source-removal@sha256:533414e0549e3c72aac7b45b76c877cd7be37f7693247272eedf8ef4129abf7d"}
