@@ -17,3 +17,4 @@
 {"ns":"initializ-buildpacks","name":"nodejs","version":"2.2.6","yanked":false,"addr":"index.docker.io/initializbuildpacks/nodejs@sha256:e099f5f398bb7c1d6b0a965a74644d3df817c433a7b7524f5129f6cf1736ecd0"}
 {"ns":"initializ-buildpacks","name":"nodejs","version":"2.2.7","yanked":false,"addr":"index.docker.io/initializbuildpacks/nodejs@sha256:a51ad651b603e95ffdf2b36a6d83ac1ff2d67920a60b67692252b84509e183ac"}
 {"ns":"initializ-buildpacks","name":"nodejs","version":"2.2.8","yanked":false,"addr":"index.docker.io/initializbuildpacks/nodejs@sha256:c3b4cbd7bba0046369a8116079fc622f93b5171f763cf1d6a1b3aa7ad7c4d759"}
+{"ns":"initializ-buildpacks","name":"nodejs","version":"2.2.9","yanked":false,"addr":"index.docker.io/initializbuildpacks/nodejs@sha256:27d9a38ada32109c0c0e90248013664ea59df9a5fb0765a940862e5937a53063"}
