@@ -3,3 +3,4 @@
 {"ns":"initializ-buildpacks","name":"miniconda","version":"0.8.7","yanked":false,"addr":"index.docker.io/initializbuildpacks/miniconda@sha256:4d0d4d1c9f08da4ccb7f1e3c91ccd9a09d59d698c216099edc3243eaf9aedf3c"}
 {"ns":"initializ-buildpacks","name":"miniconda","version":"0.8.8","yanked":false,"addr":"index.docker.io/initializbuildpacks/miniconda@sha256:5a7b18a02c9cb94c3f66d8886c73305a6f0908e09bed1c9c078c8cafdf950694"}
 {"ns":"initializ-buildpacks","name":"miniconda","version":"0.0.1","yanked":false,"addr":"index.docker.io/initializbuildpacks/miniconda@sha256:68bfa627f5d27c65ce7be0474aa09b0d3548e07491531feea8a30cf5027e077e"}
+{"ns":"initializ-buildpacks","name":"miniconda","version":"0.8.10","yanked":false,"addr":"index.docker.io/initializbuildpacks/miniconda@sha256:e98833b8305fb5963b6dcc6ed6f030d11f8c959403b4274b291c4c9a71a6ab4b"}
