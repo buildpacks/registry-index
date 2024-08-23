@@ -52,3 +52,4 @@
 {"ns":"paketo-buildpacks","name":"image-labels","version":"4.6.0","yanked":false,"addr":"docker.io/paketobuildpacks/image-labels@sha256:e2a21e0e9f2557d9cb48bc05cffd8a41eb17465e200fde7e759227595553ea2f"}
 {"ns":"paketo-buildpacks","name":"image-labels","version":"4.7.0","yanked":false,"addr":"docker.io/paketobuildpacks/image-labels@sha256:f79f193e2c5a668b7221ae59d7cc738858fca56448f83c22b62bd9b55628ecbf"}
 {"ns":"paketo-buildpacks","name":"image-labels","version":"4.7.1","yanked":false,"addr":"docker.io/paketobuildpacks/image-labels@sha256:1a568943d72d7522dde001749a6b4da4ac9f1ff3c89d257a327a13a2285f3acc"}
+{"ns":"paketo-buildpacks","name":"image-labels","version":"4.7.2","yanked":false,"addr":"docker.io/paketobuildpacks/image-labels@sha256:8cda959cf73f29ee214134394b57cde06d3cab8939618ba9fbe86bc0e9d29b99"}
