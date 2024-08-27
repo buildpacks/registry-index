@@ -5,3 +5,4 @@
 {"ns":"initializ-buildpacks","name":"pip","version":"0.20.3","yanked":false,"addr":"index.docker.io/initializbuildpacks/pip@sha256:b9227b771a8c00a4db770f18f0b8e50daf884804a673b7edc9ec86ef3b9e0f18"}
 {"ns":"initializ-buildpacks","name":"pip","version":"0.20.4","yanked":false,"addr":"index.docker.io/initializbuildpacks/pip@sha256:693780d964a64941168a87315d7c2132b46fcbcfc864aa7c206196c688a24467"}
 {"ns":"initializ-buildpacks","name":"pip","version":"0.20.5","yanked":false,"addr":"index.docker.io/initializbuildpacks/pip@sha256:aef2ff680650a7c1a9692e30f763dad8e5a817d4d1234d257353869cfed294aa"}
+{"ns":"initializ-buildpacks","name":"pip","version":"0.20.6","yanked":false,"addr":"index.docker.io/initializbuildpacks/pip@sha256:9a6760f1323569e38ce06467e803597fbe85dabb72637817b69e87c9bc177445"}
