@@ -4,3 +4,4 @@
 {"ns":"initializ-buildpacks","name":"pip-install","version":"0.6.3","yanked":false,"addr":"index.docker.io/initializbuildpacks/pip-install@sha256:c5d8fd2dc1bf39d6f4f04ad5a9708fc88ea8d06023276fb010083ada43704509"}
 {"ns":"initializ-buildpacks","name":"pip-install","version":"0.6.4","yanked":false,"addr":"index.docker.io/initializbuildpacks/pip-install@sha256:93c652268570b70af8a09084cd44429bdf29e64920279d7655cb5f4dab44d2f1"}
 {"ns":"initializ-buildpacks","name":"pip-install","version":"0.6.5","yanked":false,"addr":"index.docker.io/initializbuildpacks/pip-install@sha256:ac0f0077a9579f5371981719e994f0bcd5214f03a0b4423ffeab3df61a3067fa"}
+{"ns":"initializ-buildpacks","name":"pip-install","version":"0.6.6","yanked":false,"addr":"index.docker.io/initializbuildpacks/pip-install@sha256:988fb9546d3c2d4e5f8e86b8c21d571e427d98323c82501378f086499cb29834"}
