@@ -48,3 +48,4 @@
 {"ns":"paketo-buildpacks","name":"composer","version":"0.7.9","yanked":false,"addr":"index.docker.io/paketobuildpacks/composer@sha256:3928f0e1e55d704a46cd45f7e608ba40a1fee413d536bbb64a4c5c0e96239a4f"}
 {"ns":"paketo-buildpacks","name":"composer","version":"0.7.10","yanked":false,"addr":"index.docker.io/paketobuildpacks/composer@sha256:c63410f80c01a9c983950af213f6b98cfb9474a97cc9481c8677bf7fc1d83c27"}
 {"ns":"paketo-buildpacks","name":"composer","version":"0.7.11","yanked":false,"addr":"index.docker.io/paketobuildpacks/composer@sha256:544d0bf4a0309b6d7e7fa11027a3147b45ae64ab2c9d4fb4fda8b278521954c7"}
+{"ns":"paketo-buildpacks","name":"composer","version":"0.7.12","yanked":false,"addr":"index.docker.io/paketobuildpacks/composer@sha256:78dcab8e47cd6f7107ed2c0054d9c65ee40af4f4dcf755a1987fd0748db2d540"}
