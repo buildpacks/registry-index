@@ -9,3 +9,4 @@
 {"ns":"initializ-buildpacks","name":"yarn-install","version":"1.2.9","yanked":false,"addr":"index.docker.io/initializbuildpacks/yarn-install@sha256:eb72e90302eacb12b5f1bad057abd4a22f0ff4c180c22609994e3c5348d3af02"}
 {"ns":"initializ-buildpacks","name":"yarn-install","version":"1.2.10","yanked":false,"addr":"index.docker.io/initializbuildpacks/yarn-install@sha256:6456beec4ec5baba33b3a7f5b462e59d8f35db9b28d0d4274fc6e718a8840660"}
 {"ns":"initializ-buildpacks","name":"yarn-install","version":"1.2.11","yanked":false,"addr":"index.docker.io/initializbuildpacks/yarn-install@sha256:9047b94b1f8c041727784328676e4ca93f44e9e5d4d013335fb4b903460ace8f"}
+{"ns":"initializ-buildpacks","name":"yarn-install","version":"1.2.12","yanked":false,"addr":"index.docker.io/initializbuildpacks/yarn-install@sha256:0c39026a08228537b63249c0b1865da12ca276bca2ab8f2b520a9bb9280f6b97"}
