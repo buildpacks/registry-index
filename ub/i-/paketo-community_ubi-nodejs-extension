@@ -4,3 +4,4 @@
 {"ns":"paketo-community","name":"ubi-nodejs-extension","version":"0.3.1","yanked":false,"addr":"index.docker.io/paketocommunity/ubi-nodejs-extension@sha256:3022cb955f8a7d6a121b132ed60853ef4d807fc69c05c734f02d632a28585d16"}
 {"ns":"paketo-community","name":"ubi-nodejs-extension","version":"0.3.2","yanked":false,"addr":"index.docker.io/paketocommunity/ubi-nodejs-extension@sha256:eefcfab02ac24a285efdd50f61b4ed3e1bec3aa73ea5d0b870955687b3015c8f"}
 {"ns":"paketo-community","name":"ubi-nodejs-extension","version":"0.3.3","yanked":false,"addr":"index.docker.io/paketocommunity/ubi-nodejs-extension@sha256:37c3d438e2c5927301d637c48f1e2f92cbe1cbdc3dce3f0b42704b5d95f8adf6"}
+{"ns":"paketo-community","name":"ubi-nodejs-extension","version":"0.3.4","yanked":false,"addr":"index.docker.io/paketocommunity/ubi-nodejs-extension@sha256:2f2385aebb9224a90886a6d96a3df4add5a0c83f55d8469357226592fab5d69f"}
