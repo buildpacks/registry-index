@@ -25,3 +25,4 @@
 {"ns":"paketo-buildpacks","name":"jattach","version":"1.8.1","yanked":false,"addr":"docker.io/paketobuildpacks/jattach@sha256:2a85596ec2771dce0c0d0bf2ef6a82306c703e50e61aa939c5f72e27a1e6f690"}
 {"ns":"paketo-buildpacks","name":"jattach","version":"1.8.2","yanked":false,"addr":"docker.io/paketobuildpacks/jattach@sha256:511f0fb03970252fdc6c5b752addd7574d7d23993068a0bf5faaeb5bedca1834"}
 {"ns":"paketo-buildpacks","name":"jattach","version":"1.8.3","yanked":false,"addr":"docker.io/paketobuildpacks/jattach@sha256:4a218e936b2efe4815c87accbf3ede7a27814113228db37676e5e05b59082985"}
+{"ns":"paketo-buildpacks","name":"jattach","version":"1.8.4","yanked":false,"addr":"docker.io/paketobuildpacks/jattach@sha256:51f3fd6f676e66610667e9109fb0eaeb29de211aecdd5196d6878c35c91083aa"}
