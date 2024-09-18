@@ -16,3 +16,4 @@
 {"ns":"paketo-buildpacks","name":"jprofiler","version":"7.0.3","yanked":false,"addr":"docker.io/paketobuildpacks/jprofiler@sha256:b991592e473e6a9e2932266a53d1d4604e800d56ff00e6a220870da28642f078"}
 {"ns":"paketo-buildpacks","name":"jprofiler","version":"7.1.0","yanked":false,"addr":"docker.io/paketobuildpacks/jprofiler@sha256:364ce9ed127985bdb4b74a80545f0cada9c51b4453c892f78c0293640720e663"}
 {"ns":"paketo-buildpacks","name":"jprofiler","version":"7.1.1","yanked":false,"addr":"docker.io/paketobuildpacks/jprofiler@sha256:d6b654656707e960c9c4233f2c4532f85d963f84df2002b7d502db1a7b59c629"}
+{"ns":"paketo-buildpacks","name":"jprofiler","version":"7.1.2","yanked":false,"addr":"docker.io/paketobuildpacks/jprofiler@sha256:a8245b78608d9c69e812d5b180016be5fd299500109fc75503a0ef15106323d6"}
