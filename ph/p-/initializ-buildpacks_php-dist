@@ -2,3 +2,4 @@
 {"ns":"initializ-buildpacks","name":"php-dist","version":"2.2.2","yanked":false,"addr":"public.ecr.aws/initializ/php-buildpack@sha256:82ce9c93fbbd280957fe300cac0e92d032c52af232157b658677123c67917036"}
 {"ns":"initializ-buildpacks","name":"php-dist","version":"2.2.3","yanked":false,"addr":"public.ecr.aws/initializ/buildpack/php-dist@sha256:dddc3b134dc2048a0bf8c0af5555611d168ef23615a8ace2d1956d0304712c0e"}
 {"ns":"initializ-buildpacks","name":"php-dist","version":"2.2.4","yanked":false,"addr":"index.docker.io/initializbuildpacks/php-dist@sha256:65cc34839a71506fcf590b131a7d01a8c57855878d300354190ade97355fe9de"}
+{"ns":"initializ-buildpacks","name":"php-dist","version":"2.2.6","yanked":false,"addr":"index.docker.io/initializbuildpacks/php-dist@sha256:a54c5b98d114834a12701db9740be12f71200fbe7176423ccc31c11b5f5f6db7"}
