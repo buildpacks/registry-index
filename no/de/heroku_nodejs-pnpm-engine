@@ -29,3 +29,4 @@
 {"ns":"heroku","name":"nodejs-pnpm-engine","version":"3.2.12","yanked":false,"addr":"docker.io/heroku/buildpack-nodejs-pnpm-engine@sha256:ff789f703c22b8eae551c7db7ee57821a847238fc7ca6bf75dd18619846e22f5"}
 {"ns":"heroku","name":"nodejs-pnpm-engine","version":"3.2.13","yanked":false,"addr":"docker.io/heroku/buildpack-nodejs-pnpm-engine@sha256:fc6c172f6cfad2848e933b1b38e896273a8bb7082480b6de761bab09800e8809"}
 {"ns":"heroku","name":"nodejs-pnpm-engine","version":"3.2.14","yanked":false,"addr":"docker.io/heroku/buildpack-nodejs-pnpm-engine@sha256:3a665b17bfd06c6eeb8679f744f6b3955fe0a56ef370195beaadcd42099bf200"}
+{"ns":"heroku","name":"nodejs-pnpm-engine","version":"3.2.15","yanked":false,"addr":"docker.io/heroku/buildpack-nodejs-pnpm-engine@sha256:247eb38b582f0604db9d5d9289e264dad108469ffd92e08ee96c8e45115d8151"}
