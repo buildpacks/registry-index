@@ -12,3 +12,4 @@
 {"ns":"initializ-buildpacks","name":"web-servers","version":"1.0.12","yanked":false,"addr":"index.docker.io/initializbuildpacks/web-servers@sha256:55e21c9eb5a94ede5aba2f1af0d6a193d760edb36161c479a8fdab8a9fabce4f"}
 {"ns":"initializ-buildpacks","name":"web-servers","version":"1.0.13","yanked":false,"addr":"index.docker.io/initializbuildpacks/web-servers@sha256:e9a7cee3e59b6158a16579b7493fc9eabdb56de9ea0be765bd0eb0e331a681fd"}
 {"ns":"initializ-buildpacks","name":"web-servers","version":"1.0.14","yanked":false,"addr":"index.docker.io/initializbuildpacks/web-servers@sha256:30e50cc7710120d7eb155f4f41e6b6867334fe39f66a47804c301456a774d2bf"}
+{"ns":"initializ-buildpacks","name":"web-servers","version":"1.0.15","yanked":false,"addr":"index.docker.io/initializbuildpacks/web-servers@sha256:3d7b84fe7fc7bc8c01404d8ab5f7a7778d56e69e760835f8216e3d7fe1356e52"}
