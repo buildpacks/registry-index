@@ -96,3 +96,4 @@
 {"ns":"paketo-buildpacks","name":"sap-machine","version":"10.6.1","yanked":false,"addr":"docker.io/paketobuildpacks/sap-machine@sha256:6ca7bffac291df95c76fc98a6f75964e9ca429531013f6857963d7f5878a898f"}
 {"ns":"paketo-buildpacks","name":"sap-machine","version":"10.6.2","yanked":false,"addr":"docker.io/paketobuildpacks/sap-machine@sha256:63954fa2c1283017dd97a5336e84c0cc15c976ae2881bf6a8a7bbbe6d2068c19"}
 {"ns":"paketo-buildpacks","name":"sap-machine","version":"10.6.3","yanked":false,"addr":"docker.io/paketobuildpacks/sap-machine@sha256:04b232e7dce23e5667d44c4a7663b8d446cc2c99f5382715827d0497a6641473"}
+{"ns":"paketo-buildpacks","name":"sap-machine","version":"10.7.0","yanked":false,"addr":"docker.io/paketobuildpacks/sap-machine@sha256:f4882718ade1b498fd918585234662482f1526d84e2ddd54cd58cecf6e8bc1af"}
