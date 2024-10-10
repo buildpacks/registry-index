@@ -1,1 +1,2 @@
 {"ns":"initializ-buildpacks","name":"elixir-securepack","version":"0.0.1","yanked":false,"addr":"index.docker.io/initializbuildpacks/elixir-securepack@sha256:8fb82505b25e0c557c0b40f0e7af649f30b01b39797973aa3061f9de14ec91bf"}
+{"ns":"initializ-buildpacks","name":"elixir-securepack","version":"0.0.2","yanked":false,"addr":"index.docker.io/initializbuildpacks/elixir-securepack@sha256:1b4ba8c11e6495a68b0c091b7d81471ddcec08ec13511e14b9e37e36156a7906"}
