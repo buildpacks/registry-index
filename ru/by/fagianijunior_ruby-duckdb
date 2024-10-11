@@ -3,3 +3,4 @@
 {"ns":"fagianijunior","name":"ruby-duckdb","version":"0.0.3","yanked":false,"addr":"ghcr.io/fagianijunior/buildpacks/fagianijunior_ruby-duckdb@sha256:48844d43dd3a8a3cf10eed15cea69a2782aaedb2f9c8d45940379ce69f7d1fc4"}
 {"ns":"fagianijunior","name":"ruby-duckdb","version":"0.0.4","yanked":false,"addr":"ghcr.io/fagianijunior/buildpacks/fagianijunior_ruby-duckdb@sha256:c190275344071c30b6faeeb2b8804abcaf02b1df63992247e82d22accaebb53c"}
 {"ns":"fagianijunior","name":"ruby-duckdb","version":"0.0.5","yanked":false,"addr":"ghcr.io/fagianijunior/buildpacks/fagianijunior_ruby-duckdb@sha256:639a25e793a200946583d00a9dcf26c167a0aac684ed889b46ce10a2b09cc82b"}
+{"ns":"fagianijunior","name":"ruby-duckdb","version":"0.0.6","yanked":false,"addr":"ghcr.io/fagianijunior/buildpacks/fagianijunior_ruby-duckdb@sha256:b277285da5a558b691e4eae1d09795407aa5f2bb40171923c67a71e63b4ca79a"}
