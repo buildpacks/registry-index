@@ -3,3 +3,4 @@
 {"ns":"initializ-buildpacks","name":"elixir-securepack","version":"0.0.6","yanked":false,"addr":"index.docker.io/initializbuildpacks/elixir-securepack@sha256:7b913fb08640d4d404ac1a9c316629fb0c8d45c07bc845563a733967cb997d76"}
 {"ns":"initializ-buildpacks","name":"elixir-securepack","version":"1.0.0","yanked":false,"addr":"index.docker.io/initializbuildpacks/elixir-securepack@sha256:d489318303e324df19b69978922ea5cfd9dfef0b2cf5b286624f032704418d73"}
 {"ns":"initializ-buildpacks","name":"elixir-securepack","version":"1.0.1","yanked":false,"addr":"index.docker.io/initializbuildpacks/elixir-securepack@sha256:e08a736a51f5d38e733e9c829b42ff41a6a91423dd2384e6658e1b2e2ecbaf7c"}
+{"ns":"initializ-buildpacks","name":"elixir-securepack","version":"2.0.0","yanked":false,"addr":"index.docker.io/initializbuildpacks/elixir-securepack@sha256:4661f0a256e9b16cf20cc48fba029fd3385e68921f2f05617b28f6c4255db644"}
