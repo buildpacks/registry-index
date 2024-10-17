@@ -44,3 +44,4 @@
 {"ns":"paketo-buildpacks","name":"oracle","version":"3.14.3","yanked":false,"addr":"docker.io/paketobuildpacks/oracle@sha256:1eaf0e6f3bfbefd7524765bc32682d63c8be861b287b9dcef9ffef9442d590e8"}
 {"ns":"paketo-buildpacks","name":"oracle","version":"3.15.0","yanked":false,"addr":"docker.io/paketobuildpacks/oracle@sha256:02cd9fc708d1fd48bcfc07567565b2a4115a69457b4aae20f5a684ae26554ea8"}
 {"ns":"paketo-buildpacks","name":"oracle","version":"3.15.1","yanked":false,"addr":"docker.io/paketobuildpacks/oracle@sha256:a61d611807d5fc214041d84c40f8c97a5deacfb42739692189c3d7510ba1b436"}
+{"ns":"paketo-buildpacks","name":"oracle","version":"3.15.2","yanked":false,"addr":"docker.io/paketobuildpacks/oracle@sha256:777e78384a644556581963be90be225dff0ff805f4028b762d07813d13bd00a6"}
