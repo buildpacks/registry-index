@@ -52,3 +52,4 @@
 {"ns":"paketo-buildpacks","name":"adoptium","version":"11.5.4","yanked":false,"addr":"docker.io/paketobuildpacks/adoptium@sha256:a58f0439285c44b47b98e626ccbe75ce92dacc4a0d4a63ca6a279a2d7b85cbf3"}
 {"ns":"paketo-buildpacks","name":"adoptium","version":"11.6.0","yanked":false,"addr":"docker.io/paketobuildpacks/adoptium@sha256:d6fc67f133fa7c81e1a78d85082e970830caa368a96c0c7a447ad8f7386c4d2d"}
 {"ns":"paketo-buildpacks","name":"adoptium","version":"11.6.1","yanked":false,"addr":"docker.io/paketobuildpacks/adoptium@sha256:22264a09fcd0b6009852632400a0ba849bbe562ad08b1361485f7e64a7768dcf"}
+{"ns":"paketo-buildpacks","name":"adoptium","version":"11.6.2","yanked":false,"addr":"docker.io/paketobuildpacks/adoptium@sha256:0892a443fd3096646dc5606a8347da45deefb24a2bd90b96cf3a52b08aebdef1"}
