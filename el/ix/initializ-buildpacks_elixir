@@ -8,3 +8,4 @@
 {"ns":"initializ-buildpacks","name":"elixir","version":"2.0.0","yanked":false,"addr":"index.docker.io/initializbuildpacks/elixir@sha256:bc2a382a8b1320170fc5badbd681eb54b6facebce611f5463aeb41e604605b58"}
 {"ns":"initializ-buildpacks","name":"elixir","version":"0.0.7","yanked":false,"addr":"index.docker.io/initializbuildpacks/elixir@sha256:4be99d512768d1fb742a85bf63a86562d342be590884d281d5600ad06d497e4c"}
 {"ns":"initializ-buildpacks","name":"elixir","version":"0.0.8","yanked":false,"addr":"index.docker.io/initializbuildpacks/elixir@sha256:cdd2a988b241761871a7e2cb95efeda4f04a97aebc7a80eb43f478170b07ff19"}
+{"ns":"initializ-buildpacks","name":"elixir","version":"0.0.9","yanked":false,"addr":"index.docker.io/initializbuildpacks/elixir@sha256:6daadd44d4886c0a7c6ca1511eae584efb25704cf145c14c2019881c4b00bea2"}
