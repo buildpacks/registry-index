@@ -1,1 +1,2 @@
 {"ns":"heroku","name":"release-phase","version":"1.0.0","yanked":false,"addr":"docker.io/heroku/buildpack-release-phase@sha256:4c0a452b7016edb727a3a8e1bd1b690ce7e90351651f5b27eb78242d0a0f19ec"}
+{"ns":"heroku","name":"release-phase","version":"1.0.1","yanked":false,"addr":"docker.io/heroku/buildpack-release-phase@sha256:35d1427bae76a3114839999e382b3c14c7f797930442ea46dec8eb9527006770"}
