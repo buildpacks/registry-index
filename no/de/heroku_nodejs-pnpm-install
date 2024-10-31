@@ -49,3 +49,4 @@
 {"ns":"heroku","name":"nodejs-pnpm-install","version":"3.2.15","yanked":false,"addr":"docker.io/heroku/buildpack-nodejs-pnpm-install@sha256:0aeca0193f73969deace6c51d85e65a9a26a564ea6544305d5e912e2b2f63608"}
 {"ns":"heroku","name":"nodejs-pnpm-install","version":"3.2.16","yanked":false,"addr":"docker.io/heroku/buildpack-nodejs-pnpm-install@sha256:15f36ba5a1718bad42ba4fe5903512de3d584be298f77a7f4215b977061bb878"}
 {"ns":"heroku","name":"nodejs-pnpm-install","version":"3.2.17","yanked":false,"addr":"docker.io/heroku/buildpack-nodejs-pnpm-install@sha256:dbb9e4bc6170a766c05ac315a44b4f4ca370200a88a26352bd84413b988bd7d1"}
+{"ns":"heroku","name":"nodejs-pnpm-install","version":"3.2.18","yanked":false,"addr":"docker.io/heroku/buildpack-nodejs-pnpm-install@sha256:aa6f1c2b5a4a374cb2e0cf959b2fa53f8d2457769c0cd1025ebba2382fb8011c"}
