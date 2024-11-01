@@ -5,3 +5,4 @@
 {"ns":"initializ-buildpacks","name":"maven","version":"5.16.17","yanked":false,"addr":"index.docker.io/initializbuildpacks/maven@sha256:76cc8f122ed10f93b8268999646d2f7a6fe2211e28f96b399a667714a570421a"}
 {"ns":"initializ-buildpacks","name":"maven","version":"5.16.18","yanked":false,"addr":"index.docker.io/initializbuildpacks/maven@sha256:67ba5619aeacaea0917aa4ce8f90414d8b99ee721467b38de627f565396edac8"}
 {"ns":"initializ-buildpacks","name":"maven","version":"5.16.19","yanked":false,"addr":"docker.io/initializbuildpacks/maven@sha256:98d9a167779b07bdc7e552597d1ab15ddadec821b2aeaff1fc24773dddc84478"}
+{"ns":"initializ-buildpacks","name":"maven","version":"5.16.20","yanked":false,"addr":"docker.io/initializbuildpacks/maven@sha256:63c15ba1f841450cde2f4f5e27c47f5f16c0720dff13056e7565d01f9a1dd6fb"}
