@@ -7,3 +7,4 @@
 {"ns":"acodeninja","name":"playwright","version":"2.1.2","yanked":false,"addr":"ghcr.io/acodeninja/acodeninja_playwright@sha256:42b9a7f642bf56eb326e8467931b6b62ce973857660b7af844a4be255f5f6a48"}
 {"ns":"acodeninja","name":"playwright","version":"3.0.0","yanked":false,"addr":"ghcr.io/acodeninja/acodeninja_playwright@sha256:2888e27825499b7a5ab2c6e3e23904c7b98695dacf75fe943ae52db8d0021a43"}
 {"ns":"acodeninja","name":"playwright","version":"3.0.1","yanked":false,"addr":"ghcr.io/acodeninja/acodeninja_playwright@sha256:528b3ee200afee85b2cb22d752e1aa7baa9c3200df9cd8160affd628546d7b59"}
+{"ns":"acodeninja","name":"playwright","version":"3.0.2","yanked":false,"addr":"ghcr.io/acodeninja/acodeninja_playwright@sha256:f4e9e9780f2a04ca6625ab215d25582fc814dedb0e2f238d1959b1c4e01bda3c"}
