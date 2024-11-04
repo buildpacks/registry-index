@@ -1,1 +1,2 @@
 {"ns":"acodeninja","name":"psql","version":"1.0.0","yanked":false,"addr":"ghcr.io/acodeninja/acodeninja_psql@sha256:93c92eb275e1d8977a98bcca4c166e4f996435aef698b65e44c5699d03ad4769"}
+{"ns":"acodeninja","name":"psql","version":"1.1.0","yanked":false,"addr":"ghcr.io/acodeninja/acodeninja_psql@sha256:2be7758080a4ee8e73ed5dafa6107230deedbd84b6e5375c582f63f0cce900d7"}
