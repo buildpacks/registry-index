@@ -3,3 +3,4 @@
 {"ns":"acodeninja","name":"install","version":"0.0.3","yanked":false,"addr":"ghcr.io/acodeninja/acodeninja_install@sha256:7cd1aedbed9a8107e84d7a9b67ae90d2b5fe52b7cdd39b032d1e29c65abad286"}
 {"ns":"acodeninja","name":"install","version":"1.0.0","yanked":false,"addr":"ghcr.io/acodeninja/acodeninja_install@sha256:58159dcf9fd8f4fdbfb5891c6792ddfc98ac8d704994f8dcd059fcc140c1c243"}
 {"ns":"acodeninja","name":"install","version":"1.0.1","yanked":false,"addr":"ghcr.io/acodeninja/acodeninja_install@sha256:d6fd0cb15e618dfbded603125288f1f3867b96ea1c909d5534dabf4ade088b53"}
+{"ns":"acodeninja","name":"install","version":"1.0.2","yanked":false,"addr":"ghcr.io/acodeninja/acodeninja_install@sha256:ea7a2768c27234d6fd64e89842b0749fb33b12e9ad43c12d38c660c60898f4e2"}
