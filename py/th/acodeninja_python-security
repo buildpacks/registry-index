@@ -5,3 +5,4 @@
 {"ns":"acodeninja","name":"python-security","version":"2.0.1","yanked":false,"addr":"ghcr.io/acodeninja/acodeninja_python-security@sha256:d151976b40c158c59bce36853e9373fdc357d6c97b4b8320cd8b8cdd1213cc3d"}
 {"ns":"acodeninja","name":"python-security","version":"2.0.2","yanked":false,"addr":"ghcr.io/acodeninja/acodeninja_python-security@sha256:9279a97232411cb091b7a9e306b95335f39beaf0e1f893c08233b7842692cc94"}
 {"ns":"acodeninja","name":"python-security","version":"2.0.3","yanked":false,"addr":"ghcr.io/acodeninja/acodeninja_python-security@sha256:cfc91c26e3d54e6f9d9434e451b3731e203955b7f86387ceb3135450fda31dac"}
+{"ns":"acodeninja","name":"python-security","version":"2.0.4","yanked":false,"addr":"ghcr.io/acodeninja/acodeninja_python-security@sha256:37f7052abdf811fa1b029b94fbfbe87fd0d6341c960a323ff012844a3902142f"}
