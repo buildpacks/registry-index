@@ -6,3 +6,4 @@
 {"ns":"initializ-buildpacks","name":"cpython","version":"1.13.5","yanked":false,"addr":"index.docker.io/initializbuildpacks/cpython@sha256:08ecce440610dab5653167d640d816fec0cdc2d4a2a972f0372befa3cfa9ad0f"}
 {"ns":"initializ-buildpacks","name":"cpython","version":"1.13.6","yanked":false,"addr":"index.docker.io/initializbuildpacks/cpython@sha256:28d1fd3c12b973dd8dff41e2ba1e35757061d06829f84f7d530275fbb3f29a31"}
 {"ns":"initializ-buildpacks","name":"cpython","version":"1.13.7","yanked":false,"addr":"index.docker.io/initializbuildpacks/cpython@sha256:c36e7f36408c36efd491b280fa4f6c9e1c96815be5f92066d91eb0edf7ea7eb4"}
+{"ns":"initializ-buildpacks","name":"cpython","version":"1.13.8","yanked":false,"addr":"index.docker.io/initializbuildpacks/cpython@sha256:617bc72031dab12bc9048de5409a6a280310717e8216cfa5a3b32dc00462203d"}
