@@ -8,3 +8,4 @@
 {"ns":"initializ-buildpacks","name":"yarn","version":"1.2.8","yanked":false,"addr":"index.docker.io/initializbuildpacks/yarn@sha256:0fbfa3960cd6b341ab425e784e5a4a01c8b0f8ea2a3854776bd22dda5fa30af6"}
 {"ns":"initializ-buildpacks","name":"yarn","version":"1.2.9","yanked":false,"addr":"index.docker.io/initializbuildpacks/yarn@sha256:5d8e6708be7c401a0594388602cc4c9018e422b0946e7dd20290c0819ff43f11"}
 {"ns":"initializ-buildpacks","name":"yarn","version":"1.2.10","yanked":false,"addr":"index.docker.io/initializbuildpacks/yarn@sha256:052faaed3516d62dfec41a489980b07083aebb01c5f6ad366ea7954717f78531"}
+{"ns":"initializ-buildpacks","name":"yarn","version":"1.2.11","yanked":false,"addr":"index.docker.io/initializbuildpacks/yarn@sha256:9adbaea808ba5dd180edc1ae6d2e5b3ab6ba2977e6316f1d6057379e732299f9"}
