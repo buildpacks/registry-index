@@ -10,3 +10,4 @@
 {"ns":"initializ-buildpacks","name":"node-start","version":"1.1.14","yanked":false,"addr":"index.docker.io/initializbuildpacks/node-start@sha256:9a23b439a3def7a539c98ae8ae6c0564346fc861d857834fc465f0bcad6d1dd8"}
 {"ns":"initializ-buildpacks","name":"node-start","version":"1.1.15","yanked":false,"addr":"index.docker.io/initializbuildpacks/node-start@sha256:e085ea74c011a65d2be933d2e976b3428cf03c888444990c6e3b31bd04275023"}
 {"ns":"initializ-buildpacks","name":"node-start","version":"1.1.16","yanked":false,"addr":"index.docker.io/initializbuildpacks/node-start@sha256:6d74216156b474149eca8cca6a68fb092a280ccb3becf4d1382e3bb9251856cc"}
+{"ns":"initializ-buildpacks","name":"node-start","version":"1.1.17","yanked":false,"addr":"index.docker.io/initializbuildpacks/node-start@sha256:2f843c9b01b333ddeec3d679d9c104c2dda29a8cffccb0a54c008a24991a0530"}
