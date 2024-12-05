@@ -76,3 +76,4 @@
 {"ns":"paketo-buildpacks","name":"encrypt-at-rest","version":"4.7.9","yanked":false,"addr":"docker.io/paketobuildpacks/encrypt-at-rest@sha256:60cd516b2e36e59d6c8fc22936ccfd1e1e9bca7b6fc4900c1f4b381fbb742040"}
 {"ns":"paketo-buildpacks","name":"encrypt-at-rest","version":"4.8.0","yanked":false,"addr":"docker.io/paketobuildpacks/encrypt-at-rest@sha256:111ef3651311f21f88bc66fa8e68ae0b44aef7eeb0d5dff1cda79369bd20d68a"}
 {"ns":"paketo-buildpacks","name":"encrypt-at-rest","version":"4.8.1","yanked":false,"addr":"docker.io/paketobuildpacks/encrypt-at-rest@sha256:3e4b5d02c747895f30e8d4f4442a45609a79b85890554569bb2828b1ef02dd63"}
+{"ns":"paketo-buildpacks","name":"encrypt-at-rest","version":"4.8.2","yanked":false,"addr":"docker.io/paketobuildpacks/encrypt-at-rest@sha256:3a9ea887dcafe4407fad7ad6cd22029e9c90dcd3d8c0e3083f7216b4836553b1"}
