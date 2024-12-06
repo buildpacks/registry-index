@@ -26,3 +26,4 @@
 {"ns":"heroku","name":"go","version":"0.4.4","yanked":false,"addr":"docker.io/heroku/buildpack-go@sha256:0600278cc2f7d8c8162fbac034a1533bab26407da3a7da9e7e953bcfd71bce3a"}
 {"ns":"heroku","name":"go","version":"0.4.5","yanked":false,"addr":"docker.io/heroku/buildpack-go@sha256:71c346d575a62fd427e906122f0145ba7ba3d7dec679f68f4fb3bc2e0e4a1fa1"}
 {"ns":"heroku","name":"go","version":"0.4.6","yanked":false,"addr":"docker.io/heroku/buildpack-go@sha256:7e451fe2c3d213de9e91c39246de5bec221ce234df97091d34491a8ba05d0338"}
+{"ns":"heroku","name":"go","version":"0.4.7","yanked":false,"addr":"docker.io/heroku/buildpack-go@sha256:5dade2c20d01b50ed6b7eb047dc7fa9db6eec5766a61faee4a60482533e8448b"}
