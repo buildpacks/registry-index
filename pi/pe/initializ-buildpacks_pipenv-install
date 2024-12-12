@@ -5,3 +5,4 @@
 {"ns":"initializ-buildpacks","name":"pipenv-install","version":"0.7.0","yanked":false,"addr":"index.docker.io/initializbuildpacks/pipenv-install@sha256:58f5c0988cccae74762a444e1c01d0b3e2b5b80bcb353c5de37135db96d3d186"}
 {"ns":"initializ-buildpacks","name":"pipenv-install","version":"0.7.1","yanked":false,"addr":"index.docker.io/initializbuildpacks/pipenv-install@sha256:bc7541c965596e374d9be1236e88b2e4ea7c4abf39395b6b6b05dfcce5017971"}
 {"ns":"initializ-buildpacks","name":"pipenv-install","version":"0.7.2","yanked":false,"addr":"index.docker.io/initializbuildpacks/pipenv-install@sha256:eee27c0f3175007ad487ba2e109e234df77fcdbc73ae4e34c14dd6353a6c3a2d"}
+{"ns":"initializ-buildpacks","name":"pipenv-install","version":"0.7.3","yanked":false,"addr":"index.docker.io/initializbuildpacks/pipenv-install@sha256:bb695c1fcb1d118a9e17cb93cb9c00df1a1c916d3f2955d3313d88f969c89e4e"}
