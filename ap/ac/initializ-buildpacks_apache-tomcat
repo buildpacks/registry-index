@@ -10,3 +10,4 @@
 {"ns":"initializ-buildpacks","name":"apache-tomcat","version":"7.15.14","yanked":false,"addr":"docker.io/initializbuildpacks/apache-tomcat@sha256:eefbf48fe32e2e765af88dd5cc1db4b667e19ecd4becf14fffd1289d7f617025"}
 {"ns":"initializ-buildpacks","name":"apache-tomcat","version":"7.15.15","yanked":false,"addr":"docker.io/initializbuildpacks/apache-tomcat@sha256:29fc29294e8cc58d5ceb930a065726ac39d39967d94361b1cd916a8fed49cb62"}
 {"ns":"initializ-buildpacks","name":"apache-tomcat","version":"7.15.16","yanked":false,"addr":"docker.io/initializbuildpacks/apache-tomcat@sha256:dbe831843729bcf75cd13446d08851970ddb28144a589e9176f8ba6203d2a785"}
+{"ns":"initializ-buildpacks","name":"apache-tomcat","version":"7.15.17","yanked":false,"addr":"docker.io/initializbuildpacks/apache-tomcat@sha256:a8dd64b04db4c9a4db4c3d2a67afd9b689c0aeb828373529ee4d78b1d9362790"}
