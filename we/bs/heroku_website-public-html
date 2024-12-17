@@ -1,1 +1,2 @@
 {"ns":"heroku","name":"website-public-html","version":"1.0.4","yanked":false,"addr":"docker.io/heroku/buildpack-website-public-html@sha256:7b547d132ce9f606a9f52bb17ef702f7eeaa72562d69a54d793e6a21ddc6a2e3"}
+{"ns":"heroku","name":"website-public-html","version":"1.0.5","yanked":false,"addr":"docker.io/heroku/buildpack-website-public-html@sha256:6eeec71a19fc4bee671b11d4746a5b3b9f156aadb5f13ec60fddd8076c1e73f2"}
