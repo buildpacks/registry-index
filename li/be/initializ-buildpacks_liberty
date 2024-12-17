@@ -7,3 +7,4 @@
 {"ns":"initializ-buildpacks","name":"liberty","version":"3.8.19","yanked":false,"addr":"docker.io/initializbuildpacks/liberty@sha256:a6cae274c1c8d4d041860bb0512e08aac7e8fb442fef39874d414fc4d2a92616"}
 {"ns":"initializ-buildpacks","name":"liberty","version":"3.8.20","yanked":false,"addr":"docker.io/initializbuildpacks/liberty@sha256:5a2b591163e1dd5a40c4eab79c885a0b025b62b157c3ed9c13a351f27775aa8c"}
 {"ns":"initializ-buildpacks","name":"liberty","version":"3.8.21","yanked":false,"addr":"docker.io/initializbuildpacks/liberty@sha256:0049fe9f9f1e19c1f157ed2eed2d554d7e7bb3e9adbb905f49180b6bb8418e37"}
+{"ns":"initializ-buildpacks","name":"liberty","version":"3.8.22","yanked":false,"addr":"docker.io/initializbuildpacks/liberty@sha256:2a386499c11858bb3b84d8ade4ac24a1338987c36ef0841ae05a8f2c64d58035"}
