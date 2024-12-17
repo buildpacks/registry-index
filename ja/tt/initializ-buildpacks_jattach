@@ -5,3 +5,4 @@
 {"ns":"initializ-buildpacks","name":"jattach","version":"1.6.5","yanked":false,"addr":"index.docker.io/initializbuildpacks/jattach@sha256:14eaf4efb6f1283ec54c3bec4d8a6305ffcd7eb8a50f0e1b7c4ff30493ee9a5d"}
 {"ns":"initializ-buildpacks","name":"jattach","version":"1.6.6","yanked":false,"addr":"docker.io/initializbuildpacks/jattach@sha256:658db177c67543fb58266d6cc73946b72e99c5511f0f5554ebc75d9d089ff86f"}
 {"ns":"initializ-buildpacks","name":"jattach","version":"1.6.7","yanked":false,"addr":"docker.io/initializbuildpacks/jattach@sha256:c256b742da2095a1a41e5caa1f3ff253a975d43a40c778c8609d221175298361"}
+{"ns":"initializ-buildpacks","name":"jattach","version":"1.6.8","yanked":false,"addr":"docker.io/initializbuildpacks/jattach@sha256:59c18fd6ccbe0e7af3c3b6fd2f52cc75a18c2c5f4b43433688d5d63129cdebed"}
