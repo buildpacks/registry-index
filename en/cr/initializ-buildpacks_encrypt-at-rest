@@ -5,3 +5,4 @@
 {"ns":"initializ-buildpacks","name":"encrypt-at-rest","version":"4.5.21","yanked":false,"addr":"index.docker.io/initializbuildpacks/encrypt-at-rest@sha256:ab7e1e5163c88f0f8a9002211f28dfaf0c37da49e08746da90cbecae7053f9fc"}
 {"ns":"initializ-buildpacks","name":"encrypt-at-rest","version":"4.5.22","yanked":false,"addr":"index.docker.io/initializbuildpacks/encrypt-at-rest@sha256:709aab1a139801713b07d3059b4c0cdd1d82ae62d2aff9a0775b49e064b668e9"}
 {"ns":"initializ-buildpacks","name":"encrypt-at-rest","version":"4.6.0","yanked":false,"addr":"docker.io/initializbuildpacks/encrypt-at-rest@sha256:e948e2332b6cd66afb496ead7efde829c15b74654a9ec03687d7373880011bf4"}
+{"ns":"initializ-buildpacks","name":"encrypt-at-rest","version":"4.6.1","yanked":false,"addr":"docker.io/initializbuildpacks/encrypt-at-rest@sha256:0082be6fa00da820809b17722629758e174260ece8ba62231d841a0a72e37f19"}
