@@ -2,3 +2,4 @@
 {"ns":"heroku","name":"release-phase","version":"1.0.1","yanked":false,"addr":"docker.io/heroku/buildpack-release-phase@sha256:35d1427bae76a3114839999e382b3c14c7f797930442ea46dec8eb9527006770"}
 {"ns":"heroku","name":"release-phase","version":"1.0.2","yanked":false,"addr":"docker.io/heroku/buildpack-release-phase@sha256:1347946884b4f76fbf94f38e11d2fd1c9e1686730f867d8eeb40a98d315148f1"}
 {"ns":"heroku","name":"release-phase","version":"1.0.3","yanked":false,"addr":"docker.io/heroku/buildpack-release-phase@sha256:c5462f89af1bd46fdaebe7c507ef166abab5f450bde58284da0489284f49248e"}
+{"ns":"heroku","name":"release-phase","version":"1.0.4","yanked":false,"addr":"docker.io/heroku/buildpack-release-phase@sha256:2cf4288cd54b8f62dd44a207d5d783c0d45d4aed08a19ca91e2ec364da8ae20e"}
