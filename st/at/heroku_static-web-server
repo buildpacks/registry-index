@@ -1,2 +1,3 @@
 {"ns":"heroku","name":"static-web-server","version":"1.0.4","yanked":false,"addr":"docker.io/heroku/buildpack-static-web-server@sha256:d6624af541ef67d900eafab218cb50c4d718c09758016a5308e47bd3d8a472fb"}
 {"ns":"heroku","name":"static-web-server","version":"1.0.5","yanked":false,"addr":"docker.io/heroku/buildpack-static-web-server@sha256:85be23d2c5d1ae65c6786cf66c7e27a970e0eff60c30953314f480b840d3e6b1"}
+{"ns":"heroku","name":"static-web-server","version":"1.0.6","yanked":false,"addr":"docker.io/heroku/buildpack-static-web-server@sha256:b2cb7453a716c9737981fc02134edbaab79ba490cc038cf3ab8564801be8daab"}
