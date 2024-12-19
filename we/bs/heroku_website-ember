@@ -1,2 +1,3 @@
 {"ns":"heroku","name":"website-ember","version":"1.0.4","yanked":false,"addr":"docker.io/heroku/buildpack-website-ember@sha256:37575d26bd15398940c1cd11a4e85778d58c39573fd087669cdbd9647220a56e"}
 {"ns":"heroku","name":"website-ember","version":"1.0.5","yanked":false,"addr":"docker.io/heroku/buildpack-website-ember@sha256:dd54d808ebf572987fdfef14c8529e57cb96370780351406e373f5a4e74771b5"}
+{"ns":"heroku","name":"website-ember","version":"1.0.6","yanked":false,"addr":"docker.io/heroku/buildpack-website-ember@sha256:b3708e6e20682a095e0a7b80e6812090b0352a965ab5e2405280cd4fd3f450d4"}
