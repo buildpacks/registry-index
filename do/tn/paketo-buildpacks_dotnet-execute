@@ -74,3 +74,4 @@
 {"ns":"paketo-buildpacks","name":"dotnet-execute","version":"1.0.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/dotnet-execute@sha256:771840f911abaf4e35378c5de71120ed3274c77d17986d9ee7bdf58047aa78a6"}
 {"ns":"paketo-buildpacks","name":"dotnet-execute","version":"1.0.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/dotnet-execute@sha256:4dbfdbc7414084a4157a8a86d263c24139b8c773473fcca08d34a03d6847dca7"}
 {"ns":"paketo-buildpacks","name":"dotnet-execute","version":"1.0.2","yanked":false,"addr":"index.docker.io/paketobuildpacks/dotnet-execute@sha256:c2e25b72616a516388f219cd18c0b6b6e7e5bcec98506bd6e536a6ac60d4f1b7"}
+{"ns":"paketo-buildpacks","name":"dotnet-execute","version":"1.0.3","yanked":false,"addr":"index.docker.io/paketobuildpacks/dotnet-execute@sha256:3fcc0da920aa57fc81af7d1828b348760a3fdc0aac4e7e0226b9b9130ab026ab"}
