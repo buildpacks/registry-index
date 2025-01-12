@@ -1,1 +1,2 @@
 {"ns":"eagle-io","name":"chrome-buildpack","version":"0.0.1","yanked":false,"addr":"ghcr.io/eagle-io/buildpacks/eagle-io_chrome-buildpack@sha256:3d5c89de3e53347a157018ff7de64805134d3b249d30086544dfeae1658b7222"}
+{"ns":"eagle-io","name":"chrome-buildpack","version":"0.0.2","yanked":false,"addr":"ghcr.io/eagle-io/buildpacks/eagle-io_chrome-buildpack@sha256:c726985faa796b6e6c2fb0570b379e1be87c4eb38d62b28c6998c690ce712891"}
