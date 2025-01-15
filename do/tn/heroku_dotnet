@@ -8,3 +8,4 @@
 {"ns":"heroku","name":"dotnet","version":"0.1.7","yanked":false,"addr":"docker.io/heroku/buildpack-dotnet@sha256:0b1afcc3e1b4984dffa48a6f6a9e382d0af615a7b0488ed48cf073335ff7370d"}
 {"ns":"heroku","name":"dotnet","version":"0.1.8","yanked":false,"addr":"docker.io/heroku/buildpack-dotnet@sha256:e4c5492577fab202800a2e2df0571d3deb51438f248fa4800fcd0c97e1701e6d"}
 {"ns":"heroku","name":"dotnet","version":"0.1.9","yanked":false,"addr":"docker.io/heroku/buildpack-dotnet@sha256:5c0c30190235467429ab325c119155b4608f90f980b9d5832016fc3f9452f67c"}
+{"ns":"heroku","name":"dotnet","version":"0.1.10","yanked":false,"addr":"docker.io/heroku/buildpack-dotnet@sha256:b413c39b968e1e69ed4a0d724619575ec57f942b5ebfd6418426e95e0847852f"}
