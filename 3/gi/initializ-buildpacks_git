@@ -7,3 +7,4 @@
 {"ns":"initializ-buildpacks","name":"git","version":"1.0.14","yanked":false,"addr":"index.docker.io/initializbuildpacks/git@sha256:5019438fb2a093c7cf887d93bf8a9f98bad4473e13ad591973e260b35a46425e"}
 {"ns":"initializ-buildpacks","name":"git","version":"1.1.0","yanked":false,"addr":"index.docker.io/initializbuildpacks/git@sha256:0e5b407f8f9c6bfa3bdc8088675a332559447df37e4fd337be0a219ee2e8dd1e"}
 {"ns":"initializ-buildpacks","name":"git","version":"1.1.1","yanked":false,"addr":"index.docker.io/initializbuildpacks/git@sha256:d8f8222889e22e861de4e9cb494d3b87f2e9744ae2c328278b5a78952ae669ed"}
+{"ns":"initializ-buildpacks","name":"git","version":"1.1.2","yanked":false,"addr":"index.docker.io/initializbuildpacks/git@sha256:68be28bf71784a478cbf8b8b265864b787a93b4260ff0960e995c2be2aca6ebf"}
