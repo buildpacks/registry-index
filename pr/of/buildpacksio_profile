@@ -5,3 +5,4 @@
 {"ns":"buildpacksio","name":"profile","version":"0.4.1","yanked":false,"addr":"docker.io/buildpacksio/profile@sha256:f5cadea2f57e97b5184e17245007a02dd8c77b36e37016342b8b0b000a5c86fa"}
 {"ns":"buildpacksio","name":"profile","version":"0.5.0","yanked":false,"addr":"docker.io/buildpacksio/profile@sha256:566d08b6abef29ccc5bd6a0ff4c859537f7fd9d15e12b40ba0423fe8e41a5499"}
 {"ns":"buildpacksio","name":"profile","version":"1.0.0","yanked":false,"addr":"docker.io/buildpacksio/profile@sha256:aa0fbfe0ec4acffbd29a7ca66cc6c4bbf9f2dc906227905584ab28ef59b02672"}
+{"ns":"buildpacksio","name":"profile","version":"1.0.1","yanked":false,"addr":"docker.io/buildpacksio/profile@sha256:ea027c478b549c7d4b7564548cbc85c0f7de43bdb815ea99fd30ac5bc51e15d2"}
