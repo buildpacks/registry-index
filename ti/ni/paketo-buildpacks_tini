@@ -25,3 +25,4 @@
 {"ns":"paketo-buildpacks","name":"tini","version":"0.2.21","yanked":false,"addr":"index.docker.io/paketobuildpacks/tini@sha256:46957fb446dfa7a34dc9ff210a887ffa0fb8e5bc897c54800c7c7b6c40387522"}
 {"ns":"paketo-buildpacks","name":"tini","version":"0.2.22","yanked":false,"addr":"index.docker.io/paketobuildpacks/tini@sha256:16dc82dffaf52c3707e1db4df68e9dbe83cc21af13f98f02623f75141ccdce52"}
 {"ns":"paketo-buildpacks","name":"tini","version":"0.2.23","yanked":false,"addr":"index.docker.io/paketobuildpacks/tini@sha256:1683c7957878dcfba43254681d68bfbb20f84616df0dd6f11f2ec5fcfa3dc798"}
+{"ns":"paketo-buildpacks","name":"tini","version":"0.2.24","yanked":false,"addr":"index.docker.io/paketobuildpacks/tini@sha256:ae24f8cef3f451ef71d8bff1037efa0284c06aa5bfe65914c767308734c48d0d"}
