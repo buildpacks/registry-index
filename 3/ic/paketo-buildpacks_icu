@@ -71,3 +71,4 @@
 {"ns":"paketo-buildpacks","name":"icu","version":"0.7.34","yanked":false,"addr":"index.docker.io/paketobuildpacks/icu@sha256:aca0816d058a8ce231cc70d5a3c74d84d18268f295c69d587aa2400c6f24f3da"}
 {"ns":"paketo-buildpacks","name":"icu","version":"0.7.35","yanked":false,"addr":"index.docker.io/paketobuildpacks/icu@sha256:61248b3b6ee16c63a998e2bc4621af7b889d28219f0cade0e7edb6d4e34d0e1c"}
 {"ns":"paketo-buildpacks","name":"icu","version":"0.7.36","yanked":false,"addr":"index.docker.io/paketobuildpacks/icu@sha256:61ee34bae09d05037f9e99d7c6183fd8945b9e1a42a4f87205b365d5f72ca01b"}
+{"ns":"paketo-buildpacks","name":"icu","version":"0.7.37","yanked":false,"addr":"index.docker.io/paketobuildpacks/icu@sha256:6d22ce9e89e1e84430be73d8f212c630deac6b2640eb58bdeff8b99dcbb13a3b"}
