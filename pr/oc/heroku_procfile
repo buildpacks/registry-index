@@ -17,3 +17,4 @@
 {"ns":"heroku","name":"procfile","version":"3.1.2","yanked":false,"addr":"docker.io/heroku/buildpack-procfile@sha256:2e57b342cab83f6517bb1b94f7ebedd2f9b723b8dc7536c15009a779ef2df92f"}
 {"ns":"heroku","name":"procfile","version":"3.2.0","yanked":false,"addr":"docker.io/heroku/buildpack-procfile@sha256:78bbdb96dacbd50441be49c051b633b39b58e1bc1465af613cf099eca2cb1693"}
 {"ns":"heroku","name":"procfile","version":"4.0.0","yanked":false,"addr":"docker.io/heroku/buildpack-procfile@sha256:1ef903ca2474595eb35f24e2506c5bbafe81757ea298d225c0e133f64df7b75e"}
+{"ns":"heroku","name":"procfile","version":"4.1.0","yanked":false,"addr":"docker.io/heroku/buildpack-procfile@sha256:c3dabbd86ae62c92796fed892a19f3d07635a11b803d2aa0bf0dca9a388566ef"}
