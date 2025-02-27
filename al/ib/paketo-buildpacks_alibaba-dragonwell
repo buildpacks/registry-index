@@ -64,3 +64,4 @@
 {"ns":"paketo-buildpacks","name":"alibaba-dragonwell","version":"4.0.2","yanked":false,"addr":"docker.io/paketobuildpacks/alibaba-dragonwell@sha256:1f5a4ac9478444fe0d7c385aa063e71bf06fc0feb923832ec5b1d495a83ffc1f"}
 {"ns":"paketo-buildpacks","name":"alibaba-dragonwell","version":"4.0.3","yanked":false,"addr":"docker.io/paketobuildpacks/alibaba-dragonwell@sha256:44eff6a379935198dca3d7e238ed90f0caa6b2d5f0b9fdeafb0d006e8d62dd99"}
 {"ns":"paketo-buildpacks","name":"alibaba-dragonwell","version":"4.0.4","yanked":false,"addr":"docker.io/paketobuildpacks/alibaba-dragonwell@sha256:a2136881d9b12cd4551c681bbeb66d4e2771d03c7f1d3da4f7c2a1331a6a3822"}
+{"ns":"paketo-buildpacks","name":"alibaba-dragonwell","version":"4.0.5","yanked":false,"addr":"docker.io/paketobuildpacks/alibaba-dragonwell@sha256:bd0156510c6260c282b6f15ddd4cf1e040638c54e357b49aad61df10041a7736"}
