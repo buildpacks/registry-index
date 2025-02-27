@@ -28,3 +28,4 @@
 {"ns":"paketo-buildpacks","name":"pipeline-builder-canary","version":"2.6.1","yanked":false,"addr":"docker.io/paketobuildpacks/pipeline-builder-canary@sha256:c0ec934d9a050437bc8433b2a828ede1c74c03232dd8f57251b547cc8ec460ed"}
 {"ns":"paketo-buildpacks","name":"pipeline-builder-canary","version":"2.6.3","yanked":false,"addr":"docker.io/paketobuildpacks/pipeline-builder-canary@sha256:212b307196fa4f873598404a30ed92c14a57b367e29663e054ee0d80087555e9"}
 {"ns":"paketo-buildpacks","name":"pipeline-builder-canary","version":"2.6.4","yanked":false,"addr":"docker.io/paketobuildpacks/pipeline-builder-canary@sha256:c04b62a227fecd0844aff77c2660d8792a9495152ff001b2a505b25a4c4c9a48"}
+{"ns":"paketo-buildpacks","name":"pipeline-builder-canary","version":"2.7.0","yanked":false,"addr":"docker.io/paketobuildpacks/pipeline-builder-canary@sha256:2ad589e6daf6069edcfaa06de8ff4f8bdeff0a8396383db7b925269b93f09ce3"}
