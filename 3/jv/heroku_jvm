@@ -45,3 +45,4 @@
 {"ns":"heroku","name":"jvm","version":"6.0.2","yanked":false,"addr":"docker.io/heroku/buildpack-jvm@sha256:2eeded74b9fc150602d7de74d1c2641d2e93840bd41fc3e73a2155aa0d384e27"}
 {"ns":"heroku","name":"jvm","version":"6.0.3","yanked":false,"addr":"docker.io/heroku/buildpack-jvm@sha256:6437a17a26e2c5b7704451228213eaefe7010c9884d3fd982682d2ebb5d8e586"}
 {"ns":"heroku","name":"jvm","version":"6.0.4","yanked":false,"addr":"docker.io/heroku/buildpack-jvm@sha256:022e789447f7913a25983160cc4db6b418fdd857f18bdd8d7532f69544e678ae"}
+{"ns":"heroku","name":"jvm","version":"6.1.0","yanked":false,"addr":"docker.io/heroku/buildpack-jvm@sha256:792cf47e7ef1f770a8554c0a68d4d9ddeb88f2b7140f6bdecc6b99462eee54ee"}
