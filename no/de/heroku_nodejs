@@ -103,3 +103,4 @@
 {"ns":"heroku","name":"nodejs","version":"3.4.9","yanked":false,"addr":"docker.io/heroku/buildpack-nodejs@sha256:fa8c978636bc5a089b2e84e2609a2b3907fd93aee9ee779b9263e7478884e482"}
 {"ns":"heroku","name":"nodejs","version":"3.4.10","yanked":false,"addr":"docker.io/heroku/buildpack-nodejs@sha256:b9d867177798f0c3b97d8924a238cb3dd62bc850bdfca9ac4771fe476c990860"}
 {"ns":"heroku","name":"nodejs","version":"3.4.11","yanked":false,"addr":"docker.io/heroku/buildpack-nodejs@sha256:cd64ea84d02236aaae0123d0c0e6bdf73913166321128102001df71568db940c"}
+{"ns":"heroku","name":"nodejs","version":"3.5.0","yanked":false,"addr":"docker.io/heroku/buildpack-nodejs@sha256:f583e585115d12c8dd29321ac7d4ea767e3a5e7056c818f15173f31ae0f42ce5"}
