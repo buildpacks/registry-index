@@ -20,3 +20,4 @@
 {"ns":"initializ-buildpacks","name":"nginx","version":"0.16.3","yanked":false,"addr":"index.docker.io/initializbuildpacks/nginx@sha256:4ff3c173da1e689b3ef2735445c1b14b7a5c48285f748c5ed950271c77361085"}
 {"ns":"initializ-buildpacks","name":"nginx","version":"1.16.4","yanked":false,"addr":"index.docker.io/initializbuildpacks/nginx@sha256:c475c7f03bd02f0a68880e045ed3018984f386bb59d4578d264f044f2fa07ab4"}
 {"ns":"initializ-buildpacks","name":"nginx","version":"1.16.5","yanked":false,"addr":"index.docker.io/initializbuildpacks/nginx@sha256:5a495eed573ce0746027d1d28f79063a630dae0a88fdc486ac1cd6f8f429faa9"}
+{"ns":"initializ-buildpacks","name":"nginx","version":"1.16.6","yanked":false,"addr":"index.docker.io/initializbuildpacks/nginx@sha256:80c2511ea74ca6e136aa99e26408cf75b448ddf4571fb90fb45a1ef2f2aa4662"}
