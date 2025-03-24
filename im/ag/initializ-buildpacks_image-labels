@@ -9,3 +9,4 @@
 {"ns":"initializ-buildpacks","name":"image-labels","version":"4.6.2","yanked":false,"addr":"docker.io/initializbuildpacks/image-labels@sha256:0167771aba8e2dc80378ac07e272c9d4e7d356d966fcf3519fe106009f72a212"}
 {"ns":"initializ-buildpacks","name":"image-labels","version":"4.6.3","yanked":false,"addr":"docker.io/initializbuildpacks/image-labels@sha256:80a42517f40a7e233f21f54228cb2313aad754f293f24bc026a693e2e255398d"}
 {"ns":"initializ-buildpacks","name":"image-labels","version":"4.6.4","yanked":false,"addr":"docker.io/initializbuildpacks/image-labels@sha256:1cb721a6e6ebb88e58f73314c622a0d831fb0985953e2f1d9c416f54c269efd9"}
+{"ns":"initializ-buildpacks","name":"image-labels","version":"4.6.5","yanked":false,"addr":"docker.io/initializbuildpacks/image-labels@sha256:71e5bd4b71bb3a1dba1b9a5af4e1b54f02c29b9384fc9fa3a201511e4e758c8c"}
