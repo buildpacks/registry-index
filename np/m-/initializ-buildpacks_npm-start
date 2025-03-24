@@ -12,3 +12,4 @@
 {"ns":"initializ-buildpacks","name":"npm-start","version":"1.4.3","yanked":false,"addr":"index.docker.io/initializbuildpacks/npm-start@sha256:713dfe168b120c4e5c42f9174b36bc5c50be3e08d6e79a4d15ce7c0286203fb5"}
 {"ns":"initializ-buildpacks","name":"npm-start","version":"1.4.4","yanked":false,"addr":"index.docker.io/initializbuildpacks/npm-start@sha256:3717d8127956113f301d0009c2ea861a298e03d707454d49df73fbcc14e04cac"}
 {"ns":"initializ-buildpacks","name":"npm-start","version":"1.4.5","yanked":false,"addr":"index.docker.io/initializbuildpacks/npm-start@sha256:4a4f3752ac0e95c69ccac5dfb365bc80ad1ffb4818926ecec0d739e4f11238d6"}
+{"ns":"initializ-buildpacks","name":"npm-start","version":"1.5.6","yanked":false,"addr":"index.docker.io/initializbuildpacks/npm-start@sha256:8e616adb52da51b2ed8a4b994ccdd7e9868d27460e4423653e4d327eec8912a6"}
