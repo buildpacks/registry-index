@@ -4,3 +4,4 @@
 {"ns":"heroku","name":"php","version":"0.2.1","yanked":false,"addr":"docker.io/heroku/buildpack-php@sha256:451022d52b5e2c4c0e24a3c6f1ddfab1c892007b055b6df9ac9dfb1a74ed1b82"}
 {"ns":"heroku","name":"php","version":"0.2.2","yanked":false,"addr":"docker.io/heroku/buildpack-php@sha256:1870335ecee386beef78f8380072e31f476a7f18b4982bfe5f3768e1938017d3"}
 {"ns":"heroku","name":"php","version":"0.2.3","yanked":false,"addr":"docker.io/heroku/buildpack-php@sha256:abb08a6aa8fefcd0a2bac61c2ee1b4a455cb42bd65a2d25f12ec78f643e64c65"}
+{"ns":"heroku","name":"php","version":"0.2.4","yanked":false,"addr":"docker.io/heroku/buildpack-php@sha256:e82de6f13b4de6f1fcfc4b3399cf7d98c13443abf587520fa49e31b96bba848d"}
