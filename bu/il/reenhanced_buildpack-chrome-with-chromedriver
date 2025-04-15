@@ -1,3 +1,4 @@
 {"ns":"reenhanced","name":"buildpack-chrome-with-chromedriver","version":"0.0.2","yanked":false,"addr":"docker.io/nhance/reenhanced_buildpack-chrome-with-chromedriver@sha256:423055b9b08d1d60aabda447ab0cffff25a8a17a38620dc4de560b9e4eb08386"}
 {"ns":"reenhanced","name":"buildpack-chrome-with-chromedriver","version":"1.0.1","yanked":false,"addr":"docker.io/nhance/reenhanced_buildpack-chrome-with-chromedriver@sha256:796f871a43ab83d6c9c00687ead2750a10bc1e072e33c32e639751a3c56b8d20"}
 {"ns":"reenhanced","name":"buildpack-chrome-with-chromedriver","version":"1.0.2","yanked":false,"addr":"docker.io/nhance/reenhanced_buildpack-chrome-with-chromedriver@sha256:15955e6efc461b12b1e535a50d1f17fd4fd8f11109ac03b2c6337c09934112b1"}
+{"ns":"reenhanced","name":"buildpack-chrome-with-chromedriver","version":"2.0.0","yanked":false,"addr":"docker.io/nhance/reenhanced_buildpack-chrome-with-chromedriver@sha256:c15737903ae4d09f22a3518898450c51bf3f6f340ad025e28f57f75f8cfe8307"}
