@@ -22,3 +22,4 @@
 {"ns":"heroku","name":"sbt","version":"6.1.0","yanked":false,"addr":"docker.io/heroku/buildpack-sbt@sha256:b2e1eb33ef98766bcab0a9a4d76f6fbf1ce39794c013044456c4cdbc00335688"}
 {"ns":"heroku","name":"sbt","version":"6.1.1","yanked":false,"addr":"docker.io/heroku/buildpack-sbt@sha256:1af7f3343ba2f827bfd0f327bbfba3730d40031deb4fde45f1fbaedd54437d38"}
 {"ns":"heroku","name":"sbt","version":"6.1.2","yanked":false,"addr":"docker.io/heroku/buildpack-sbt@sha256:4ece4a8865415eab040590ca47ae48ba83bb327459d7687db1d76f9f413b75a0"}
+{"ns":"heroku","name":"sbt","version":"6.2.0","yanked":false,"addr":"docker.io/heroku/buildpack-sbt@sha256:2c66a86d891d515242d9229ae01d26fb608969638456db09e45f16bb90fe2c97"}
