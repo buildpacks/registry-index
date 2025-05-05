@@ -18,3 +18,4 @@
 {"ns":"heroku","name":"ruby","version":"6.0.0","yanked":false,"addr":"docker.io/heroku/buildpack-ruby@sha256:f5a251145bc50c2ed7add82ff37536389e8c7f5a1bc5e598f22cc3c15e862f19"}
 {"ns":"heroku","name":"ruby","version":"7.0.0","yanked":false,"addr":"docker.io/heroku/buildpack-ruby@sha256:030e489861a2111f64ab401f37d9eb5d99f444d6cb04d1098af5dd8e77be5a0f"}
 {"ns":"heroku","name":"ruby","version":"7.0.1","yanked":false,"addr":"docker.io/heroku/buildpack-ruby@sha256:6d34ce4b6be282fddeb681ce24de178aad8f5cd7a261ce4bc925a48e01bb7abc"}
+{"ns":"heroku","name":"ruby","version":"8.0.0","yanked":false,"addr":"docker.io/heroku/buildpack-ruby@sha256:2e7405358e572445a8d4f0edc997816c17d4802020da1c4f31d5591940199a3b"}
