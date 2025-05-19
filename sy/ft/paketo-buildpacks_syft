@@ -83,3 +83,4 @@
 {"ns":"paketo-buildpacks","name":"syft","version":"2.12.0","yanked":false,"addr":"docker.io/paketobuildpacks/syft@sha256:591810dd717c87f331db240e648312ab41db3bc846521a37b926be52d9add664"}
 {"ns":"paketo-buildpacks","name":"syft","version":"2.12.1","yanked":false,"addr":"docker.io/paketobuildpacks/syft@sha256:02057124344d1548522756371e53606c88419795e5f019ff6a6274f402902dc2"}
 {"ns":"paketo-buildpacks","name":"syft","version":"2.13.0","yanked":false,"addr":"docker.io/paketobuildpacks/syft@sha256:fb3689dedbe43ce6694943d08231bc7db82a901975a2b91ab58fce616c53c70a"}
+{"ns":"paketo-buildpacks","name":"syft","version":"2.14.0","yanked":false,"addr":"docker.io/paketobuildpacks/syft@sha256:c1108bff9c2d7f5ff4a60af51711ca0e9d05532d2966aeba6da0cab0203b3df7"}
