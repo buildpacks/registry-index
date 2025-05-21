@@ -29,3 +29,4 @@
 {"ns":"paketo-community","name":"go-generate","version":"0.3.3","yanked":false,"addr":"index.docker.io/paketocommunity/go-generate@sha256:8c39dfc7b61666dcc8247426f35e4e0aef9d762f93d710aa06eee36a29762ac4"}
 {"ns":"paketo-community","name":"go-generate","version":"0.3.4","yanked":false,"addr":"index.docker.io/paketocommunity/go-generate@sha256:e5072b3c474a5303c9527f7df37762365e813f07e696719bca8017bff7ed8b2f"}
 {"ns":"paketo-community","name":"go-generate","version":"0.3.5","yanked":false,"addr":"index.docker.io/paketocommunity/go-generate@sha256:a96db5093ff6c423ea77268adaded9583e0576b87e2236bb8cf7ab5959542395"}
+{"ns":"paketo-community","name":"go-generate","version":"0.3.6","yanked":false,"addr":"index.docker.io/paketocommunity/go-generate@sha256:17274728a9aee49f09e806591f9613713d5d61ee7ffe724bf97cfecbcfbaeb71"}
