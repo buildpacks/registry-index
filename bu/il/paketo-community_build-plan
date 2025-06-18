@@ -10,3 +10,4 @@
 {"ns":"paketo-community","name":"build-plan","version":"0.2.41","yanked":false,"addr":"index.docker.io/paketocommunity/build-plan@sha256:4919f77912670edd696ded2601a71a6f40bd954beef7933eccc412785ca54e62"}
 {"ns":"paketo-community","name":"build-plan","version":"0.2.42","yanked":false,"addr":"index.docker.io/paketocommunity/build-plan@sha256:1624454152a9e097d6f2e33e0d9f22187a6684a47756083892dbc435eb2e963c"}
 {"ns":"paketo-community","name":"build-plan","version":"0.2.43","yanked":false,"addr":"index.docker.io/paketocommunity/build-plan@sha256:6ba15399321b4859d9f5ee180d47329f0d728568a11bd37d3683b9f012853dc7"}
+{"ns":"paketo-community","name":"build-plan","version":"0.2.44","yanked":false,"addr":"index.docker.io/paketocommunity/build-plan@sha256:69707bb8a10648a2ea06fb610b0d3d8c79048ee5ac2a4e7d359930c7751223d4"}
