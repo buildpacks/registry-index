@@ -2,3 +2,4 @@
 {"ns":"maksimkurb","name":"apt","version":"0.2.8","yanked":false,"addr":"ghcr.io/maksimkurb/buildpacks/maksimkurb_apt@sha256:d0907f31f4b815f4452cef0be9bcbfb2ae721e7fa566ac6964e9d6ce76cf7134"}
 {"ns":"maksimkurb","name":"apt","version":"0.2.9","yanked":false,"addr":"ghcr.io/maksimkurb/buildpacks/maksimkurb_apt@sha256:d8c3dbe821901045b76a9f5a36e2a38473ea0f7e4b11ed49deceee19b87c8f39"}
 {"ns":"maksimkurb","name":"apt","version":"0.3.0","yanked":false,"addr":"ghcr.io/maksimkurb/buildpacks/maksimkurb_apt@sha256:c7b2f5a9fb0adab8d4f1319945544f71be3967b29d6a1b7e6ff2a926b5c6f2ea"}
+{"ns":"maksimkurb","name":"apt","version":"0.3.1","yanked":false,"addr":"ghcr.io/maksimkurb/buildpacks/maksimkurb_apt@sha256:ef0e5c7e5612d3182b127a412225594fb3a3874584644261534f064e95020ae3"}
