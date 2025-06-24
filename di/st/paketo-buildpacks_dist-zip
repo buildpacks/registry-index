@@ -65,3 +65,4 @@
 {"ns":"paketo-buildpacks","name":"dist-zip","version":"5.9.1","yanked":false,"addr":"docker.io/paketobuildpacks/dist-zip@sha256:82e7b97fb78e9750bed5705ad951fc4d1d2b8baa3628d53810f30cb178786812"}
 {"ns":"paketo-buildpacks","name":"dist-zip","version":"5.10.0","yanked":false,"addr":"docker.io/paketobuildpacks/dist-zip@sha256:856d49cfa67bb892eb5209544cc6b42914cdc828755bcc53ad67eeee41033446"}
 {"ns":"paketo-buildpacks","name":"dist-zip","version":"5.10.1","yanked":false,"addr":"docker.io/paketobuildpacks/dist-zip@sha256:f6b884ff194b1af7aba2053f10aa529cda04305472e6bf69225c81f325068a5d"}
+{"ns":"paketo-buildpacks","name":"dist-zip","version":"5.10.2","yanked":false,"addr":"docker.io/paketobuildpacks/dist-zip@sha256:587b25b6c7004e68a265d8299b0fe727f820ef0ffc68a4442ce8e791e9072b7e"}
