@@ -54,3 +54,4 @@
 {"ns":"paketo-buildpacks","name":"new-relic","version":"9.9.0","yanked":false,"addr":"docker.io/paketobuildpacks/new-relic@sha256:6a5d75ec41eb510e7db2c9dd35a54518f01cdffe5972afd5fc150681c02c5664"}
 {"ns":"paketo-buildpacks","name":"new-relic","version":"9.10.0","yanked":false,"addr":"docker.io/paketobuildpacks/new-relic@sha256:1618513403c6b2025b334fbfb4aaeb0b76dcd94934928a37f7a185becca56e70"}
 {"ns":"paketo-buildpacks","name":"new-relic","version":"9.11.0","yanked":false,"addr":"docker.io/paketobuildpacks/new-relic@sha256:ce55ee5f3f4f86cf39d9aa1f5fcc9c046583b605c19bd1ec72f073b855c61348"}
+{"ns":"paketo-buildpacks","name":"new-relic","version":"9.11.1","yanked":false,"addr":"docker.io/paketobuildpacks/new-relic@sha256:fcfddc070105a1e814200d42dc7eb035941c9e9eb899f0ddeb393955a28500fa"}
