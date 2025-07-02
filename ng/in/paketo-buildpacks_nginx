@@ -74,3 +74,4 @@
 {"ns":"paketo-buildpacks","name":"nginx","version":"0.17.30","yanked":false,"addr":"index.docker.io/paketobuildpacks/nginx@sha256:ce90620ddb18fb7ee53395fbc7f18d8448ba2bf4d945939fef9a55eef2ed9280"}
 {"ns":"paketo-buildpacks","name":"nginx","version":"0.17.31","yanked":false,"addr":"index.docker.io/paketobuildpacks/nginx@sha256:cf33b6327fb36ca4c8ad39443bee6250de8296ca22fc61ab9a55d0c0300d167f"}
 {"ns":"paketo-buildpacks","name":"nginx","version":"0.17.32","yanked":false,"addr":"index.docker.io/paketobuildpacks/nginx@sha256:7a10765e9dc81228f41bcb7d52743cedf5e0fd2aa281f62fb22cc48d3a64e999"}
+{"ns":"paketo-buildpacks","name":"nginx","version":"0.17.33","yanked":false,"addr":"index.docker.io/paketobuildpacks/nginx@sha256:8d93518723cf86cbdfc3b335bb8e1d2929a5f8522ac6c36e64cc497444834263"}
