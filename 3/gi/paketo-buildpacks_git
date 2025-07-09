@@ -57,3 +57,4 @@
 {"ns":"paketo-buildpacks","name":"git","version":"1.0.54","yanked":false,"addr":"index.docker.io/paketobuildpacks/git@sha256:836518dca99a6af10c13f64a85e93f55d70920635da39d3427ec410c15542031"}
 {"ns":"paketo-buildpacks","name":"git","version":"1.0.55","yanked":false,"addr":"index.docker.io/paketobuildpacks/git@sha256:90a5a11ca6dd2a8415137b7b76c23df29e2e473b2a1678231d764abc36316133"}
 {"ns":"paketo-buildpacks","name":"git","version":"1.0.56","yanked":false,"addr":"index.docker.io/paketobuildpacks/git@sha256:acc241e8a27b3919def975437357f4365bc64e10b5bb7a47ed60a7901f2b1b62"}
+{"ns":"paketo-buildpacks","name":"git","version":"1.0.57","yanked":false,"addr":"index.docker.io/paketobuildpacks/git@sha256:8f906399f93edc336c86e16625ecea5208b55749ef1aebbbeafcb2cf5e39a830"}
