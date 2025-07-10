@@ -74,3 +74,4 @@
 {"ns":"heroku","name":"nodejs-npm-install","version":"3.6.9","yanked":false,"addr":"docker.io/heroku/buildpack-nodejs-npm-install@sha256:379ab3f2802b214b1d5ae501a531d59421ac700ba7f9cf86ebacddd3902ee5db"}
 {"ns":"heroku","name":"nodejs-npm-install","version":"3.6.10","yanked":false,"addr":"docker.io/heroku/buildpack-nodejs-npm-install@sha256:b4376fc554619bf76bd93557a31cce17a39bd75f895ffa854cfd7d66cc61acd3"}
 {"ns":"heroku","name":"nodejs-npm-install","version":"3.6.11","yanked":false,"addr":"docker.io/heroku/buildpack-nodejs-npm-install@sha256:487b331da6c08b4ec8694aec3ebf350b6258756517e91880e84b4c16d6194c3d"}
+{"ns":"heroku","name":"nodejs-npm-install","version":"4.0.0","yanked":false,"addr":"docker.io/heroku/buildpack-nodejs-npm-install@sha256:1ea4f221acf9774712703b745686e1868f77c319a9e921f5b9793aac661e942a"}
