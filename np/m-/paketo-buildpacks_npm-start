@@ -80,3 +80,4 @@
 {"ns":"paketo-buildpacks","name":"npm-start","version":"2.1.21","yanked":false,"addr":"index.docker.io/paketobuildpacks/npm-start@sha256:66195d772eecdb8b0f9d65d3cd0a369d2ad5d57409e8cf289cf54cdb8092d69e"}
 {"ns":"paketo-buildpacks","name":"npm-start","version":"2.1.22","yanked":false,"addr":"index.docker.io/paketobuildpacks/npm-start@sha256:b59e2e598e21201220f7ae1f1d1c39cd98e0b0616657dd828aa216d4bb0376b5"}
 {"ns":"paketo-buildpacks","name":"npm-start","version":"2.1.23","yanked":false,"addr":"index.docker.io/paketobuildpacks/npm-start@sha256:bd452f07686c32166e5cbfa93121e787d05713e138cd545adb89ebe905378ee7"}
+{"ns":"paketo-buildpacks","name":"npm-start","version":"2.1.24","yanked":false,"addr":"index.docker.io/paketobuildpacks/npm-start@sha256:15237547a658a3ed26ab3ce34645ee6ab8579dc02a265b88072a8f60060e941f"}
