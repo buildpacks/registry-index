@@ -1,1 +1,2 @@
 {"ns":"fagianijunior","name":"google-chrome","version":"0.1.11","yanked":false,"addr":"ghcr.io/fagianijunior/buildpacks/fagianijunior_google-chrome@sha256:13cdf9c3332db100885f765d7a6af7aa9804538f05019aa8904a707bb9e46432"}
+{"ns":"fagianijunior","name":"google-chrome","version":"0.0.3","yanked":false,"addr":"ghcr.io/fagianijunior/buildpacks/fagianijunior_google-chrome@sha256:66e19b34e0d2c93c31e2a4d52be5a9ea5c1919547a3c4e2eb5c374177c25be07"}
