@@ -2,3 +2,4 @@
 {"ns":"fagianijunior","name":"google-chrome","version":"0.0.3","yanked":false,"addr":"ghcr.io/fagianijunior/buildpacks/fagianijunior_google-chrome@sha256:66e19b34e0d2c93c31e2a4d52be5a9ea5c1919547a3c4e2eb5c374177c25be07"}
 {"ns":"fagianijunior","name":"google-chrome","version":"0.0.5","yanked":false,"addr":"ghcr.io/fagianijunior/buildpacks/fagianijunior_google-chrome@sha256:9ca96f6491f94927362c09a5c133b0dca241e2df20aaa74b6fefc4374d4d1326"}
 {"ns":"fagianijunior","name":"google-chrome","version":"1.0.0","yanked":false,"addr":"ghcr.io/fagianijunior/buildpacks/fagianijunior_google-chrome@sha256:ae26edc92841fed78741d37e9e6b793e89a5363bf5bc92410ac18ef3813e187a"}
+{"ns":"fagianijunior","name":"google-chrome","version":"1.0.1","yanked":false,"addr":"ghcr.io/fagianijunior/buildpacks/fagianijunior_google-chrome@sha256:7a4efcdcd977958562eae0aac18ca964793146c0b23abbd59b824f6bc289793e"}
