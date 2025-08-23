@@ -33,3 +33,4 @@
 {"ns":"paketo-buildpacks","name":"health-checker","version":"2.9.0","yanked":false,"addr":"docker.io/paketobuildpacks/health-checker@sha256:772a7dd46fda096a568a6f313984e9e6831d275241b453908f5b8c36a52e3534"}
 {"ns":"paketo-buildpacks","name":"health-checker","version":"2.10.0","yanked":false,"addr":"docker.io/paketobuildpacks/health-checker@sha256:e7c17fd6ad0b0cdc66a61c65db61d528031020b3da9013acb11a92aad9642c62"}
 {"ns":"paketo-buildpacks","name":"health-checker","version":"2.10.1","yanked":false,"addr":"docker.io/paketobuildpacks/health-checker@sha256:df9678e761881accce72bb85c073f66354a5dfddb60ea222f8e002abdeb16207"}
+{"ns":"paketo-buildpacks","name":"health-checker","version":"2.10.2","yanked":false,"addr":"docker.io/paketobuildpacks/health-checker@sha256:a9791f66a65ddf88993ec00bf0022e79923544353859fae058b0d1ed2251e6f1"}
