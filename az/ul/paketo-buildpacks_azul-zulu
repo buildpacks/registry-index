@@ -114,3 +114,4 @@
 {"ns":"paketo-buildpacks","name":"azul-zulu","version":"11.2.0","yanked":false,"addr":"docker.io/paketobuildpacks/azul-zulu@sha256:9671013fddad0836633ec99ee13c561d6829fb61412d5456ad9a4e9404e556bc"}
 {"ns":"paketo-buildpacks","name":"azul-zulu","version":"11.2.1","yanked":false,"addr":"docker.io/paketobuildpacks/azul-zulu@sha256:ceb4f07490defb82d7d219cdd43b7c05bdf7188878fc6de9b5a250894691f987"}
 {"ns":"paketo-buildpacks","name":"azul-zulu","version":"11.2.3","yanked":false,"addr":"docker.io/paketobuildpacks/azul-zulu@sha256:35fb0c79bacd88a2521e41666deb12c9a39b76f2fc37784c227221f1bd17cf2d"}
+{"ns":"paketo-buildpacks","name":"azul-zulu","version":"11.2.4","yanked":false,"addr":"docker.io/paketobuildpacks/azul-zulu@sha256:6d6638c65a693c4b1b40194dae60226436eed9505a49a7db9bc14e665bea5821"}
