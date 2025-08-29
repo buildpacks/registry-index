@@ -29,3 +29,4 @@
 {"ns":"paketo-buildpacks","name":"miniconda","version":"0.10.2","yanked":false,"addr":"index.docker.io/paketobuildpacks/miniconda@sha256:ac1318d457cd7a0f9536eaf8a7c30fd6d4b491c1880f08dc8537690002bce945"}
 {"ns":"paketo-buildpacks","name":"miniconda","version":"0.10.3","yanked":false,"addr":"index.docker.io/paketobuildpacks/miniconda@sha256:80fdb3c67306512b07afe35c52cdc0118664e2e72a0d2be656ac67379445fb60"}
 {"ns":"paketo-buildpacks","name":"miniconda","version":"0.10.4","yanked":false,"addr":"index.docker.io/paketobuildpacks/miniconda@sha256:1a2ecf2428e89e318c59701a3b568ab9a10cea34fff553621e81ec8d0db4185d"}
+{"ns":"paketo-buildpacks","name":"miniconda","version":"0.10.5","yanked":false,"addr":"index.docker.io/paketobuildpacks/miniconda@sha256:e1890ffdf8c5a19785d8db9fd9b1ac5de4417ccb993a33e2a895dadf0d4276f0"}
