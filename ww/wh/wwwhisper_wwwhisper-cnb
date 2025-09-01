@@ -1,3 +1,4 @@
 {"ns":"wwwhisper","name":"wwwhisper-cnb","version":"1.0.2","yanked":false,"addr":"index.docker.io/wwwhisper/wwwhisper-cnb@sha256:4efde1660370c690125d7c4bd506895c24953204ce4e59718fe797978e1e3990"}
 {"ns":"wwwhisper","name":"wwwhisper-cnb","version":"1.0.5","yanked":false,"addr":"index.docker.io/wwwhisper/wwwhisper-cnb@sha256:8c379ea74616597671f41c82d9a0a16b4f454fe1a7a3aa0cd44840ab64951844"}
 {"ns":"wwwhisper","name":"wwwhisper-cnb","version":"1.0.6","yanked":false,"addr":"index.docker.io/wwwhisper/wwwhisper-cnb@sha256:bcc9ec5e8e8e1d4595f0f23f84149d586adaf6617dcff7e6765098d527edad8c"}
+{"ns":"wwwhisper","name":"wwwhisper-cnb","version":"1.0.7","yanked":false,"addr":"index.docker.io/wwwhisper/wwwhisper-cnb@sha256:aa4021c9bc0294b51b0432f922db19d5e6c280abba7d3d81ef27e0c5cfcb371e"}
