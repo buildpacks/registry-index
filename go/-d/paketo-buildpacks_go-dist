@@ -109,3 +109,4 @@
 {"ns":"paketo-buildpacks","name":"go-dist","version":"2.7.15","yanked":false,"addr":"index.docker.io/paketobuildpacks/go-dist@sha256:bd2d90bf0c76ca59f4ea54f121e50cc1ecdc759f2583460669079cb038e2b371"}
 {"ns":"paketo-buildpacks","name":"go-dist","version":"2.7.16","yanked":false,"addr":"index.docker.io/paketobuildpacks/go-dist@sha256:ea7b7721729c9cbe8b2e498d584f5e6896a38ae2c4bf81ef0bd0ea1e694d0d6e"}
 {"ns":"paketo-buildpacks","name":"go-dist","version":"2.7.17","yanked":false,"addr":"index.docker.io/paketobuildpacks/go-dist@sha256:56609249b75c2599fdf0f2787b2123beec2db4d05e471bae2fd8a0ed033b46ed"}
+{"ns":"paketo-buildpacks","name":"go-dist","version":"2.7.18","yanked":false,"addr":"index.docker.io/paketobuildpacks/go-dist@sha256:05d9f461310cb879372a223d8eb2375f3152cd8d2f7472e769a2cc8dc78aa71b"}
