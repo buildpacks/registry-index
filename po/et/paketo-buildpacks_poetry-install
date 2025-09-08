@@ -30,3 +30,4 @@
 {"ns":"paketo-buildpacks","name":"poetry-install","version":"0.5.2","yanked":false,"addr":"index.docker.io/paketobuildpacks/poetry-install@sha256:d38b8e4e3b9046d8bb0a9ba5f4361bc6bb0793519de41e9d59d19ad81a5fb385"}
 {"ns":"paketo-buildpacks","name":"poetry-install","version":"0.5.3","yanked":false,"addr":"index.docker.io/paketobuildpacks/poetry-install@sha256:1cf7d451483b30978d42f6a7239a7f2fb64e2bcb15648f498248b2d2967bbed3"}
 {"ns":"paketo-buildpacks","name":"poetry-install","version":"0.6.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/poetry-install@sha256:ca3bd874966f45fcf807fd655ee703a57567924edcc5bbd0a65955696cb415df"}
+{"ns":"paketo-buildpacks","name":"poetry-install","version":"0.6.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/poetry-install@sha256:d625ff6f8e2ce914a52c895471d3f9a077ae816e02efa34c42ba2a08c508efbc"}
