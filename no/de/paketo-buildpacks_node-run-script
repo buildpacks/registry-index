@@ -85,3 +85,4 @@
 {"ns":"paketo-buildpacks","name":"node-run-script","version":"2.2.3","yanked":false,"addr":"index.docker.io/paketobuildpacks/node-run-script@sha256:7e1b8f58792036e0f7200f9bbd27106951a364e9171a751cde46d12a19bc41a0"}
 {"ns":"paketo-buildpacks","name":"node-run-script","version":"2.3.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/node-run-script@sha256:17d9234c471de2c1b280b8b886b3dcaca2e897224f51dac33a96dc8de8cfbd89"}
 {"ns":"paketo-buildpacks","name":"node-run-script","version":"2.3.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/node-run-script@sha256:d15405859edca0db2e5a70530850d1ee1f2f000ccbefbf2fac6a57d96076af34"}
+{"ns":"paketo-buildpacks","name":"node-run-script","version":"2.3.2","yanked":false,"addr":"index.docker.io/paketobuildpacks/node-run-script@sha256:26a31f52218213be4be96369be8fc88642805c61283ec53828c66ea58ccc2aaf"}
