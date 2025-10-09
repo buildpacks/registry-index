@@ -1,2 +1,3 @@
 {"ns":"acodeninja","name":"graphviz","version":"1.0.0","yanked":false,"addr":"ghcr.io/acodeninja/acodeninja_graphviz@sha256:4999a0b63896220a65dd2b94c64d3e8cafbb284b617d6140c9d15c26d1e2acfd"}
 {"ns":"acodeninja","name":"graphviz","version":"1.0.1","yanked":false,"addr":"ghcr.io/acodeninja/acodeninja_graphviz@sha256:ca88e7b62b2c2123adaac63a47de01fd7badb42c666a01a7c51bcdc0a2e6cc61"}
+{"ns":"acodeninja","name":"graphviz","version":"1.0.2","yanked":false,"addr":"ghcr.io/acodeninja/acodeninja_graphviz@sha256:23a8fd7427cbcc6f5ff9ddb34b7e4e6541d8eeb4be5980fef666a684e5d17e6d"}
