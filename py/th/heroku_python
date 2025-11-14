@@ -61,3 +61,4 @@
 {"ns":"heroku","name":"python","version":"2.7.1","yanked":false,"addr":"docker.io/heroku/buildpack-python@sha256:3c70d78327505b50caa877b1e93e9af70512f70a714e8d36f9ab416a6f910b21"}
 {"ns":"heroku","name":"python","version":"2.7.2","yanked":false,"addr":"docker.io/heroku/buildpack-python@sha256:495a0c3f393b49429383477561de9d7c77c42dffaef0143b244c9beb075552aa"}
 {"ns":"heroku","name":"python","version":"2.7.3","yanked":false,"addr":"docker.io/heroku/buildpack-python@sha256:e54dba0cc03c21a5d983e3732f6a07ec1fcba20b680b93d877ef23a9c1967f89"}
+{"ns":"heroku","name":"python","version":"2.7.4","yanked":false,"addr":"docker.io/heroku/buildpack-python@sha256:11a2c5ca1ec9786e93dab9d5e56bb83ec237e21a0c6adc51118593f0bb330a64"}
