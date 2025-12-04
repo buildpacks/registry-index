@@ -1,3 +1,4 @@
 {"ns":"dmikusa","name":"apt","version":"0.2.5","yanked":true,"addr":"ghcr.io/dmikusa/buildpacks/dmikusa_apt@sha256:baa25dc57d6a6b7858d3bd230ea7fb3fcb9d1b70a5f228ad91388c477262e195"}
 {"ns":"dmikusa","name":"apt","version":"0.0.1","yanked":false,"addr":"ghcr.io/dmikusa/buildpacks/dmikusa_apt@sha256:47ebd9d94c6a995f75199e4b4254dd9eda1bb3c4d4967c0647758f4db50feb49"}
 {"ns":"dmikusa","name":"apt","version":"0.0.2","yanked":false,"addr":"ghcr.io/dmikusa/buildpacks/dmikusa_apt@sha256:8b6f835cd814ed01bf859bb651c30deacdbfb736ce1c47a3abf7ec99762b05f1"}
+{"ns":"dmikusa","name":"apt","version":"0.0.3","yanked":false,"addr":"ghcr.io/dmikusa/buildpacks/dmikusa_apt@sha256:b62f1bf8d458c182630011e017155f38b9125ba61cb25b3ab8b5573c5d2d8edc"}
