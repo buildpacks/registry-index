@@ -3,3 +3,4 @@
 {"ns":"heroku","name":"website-public-html","version":"1.0.6","yanked":false,"addr":"docker.io/heroku/buildpack-website-public-html@sha256:180087e6369388e4347a3ec2cfe376c217b6c247f602cafeda45f8d3e12db86b"}
 {"ns":"heroku","name":"website-public-html","version":"1.0.7","yanked":false,"addr":"docker.io/heroku/buildpack-website-public-html@sha256:da0febcde88a7f650d87228d8b01bb552fe5115272cb1942985cf36710a6adbd"}
 {"ns":"heroku","name":"website-public-html","version":"1.0.8","yanked":false,"addr":"docker.io/heroku/buildpack-website-public-html@sha256:939f94537a46fd6c17767ff8b1177e2aabf2fada6991eea590e881d81edddbff"}
+{"ns":"heroku","name":"website-public-html","version":"2.0.0","yanked":false,"addr":"docker.io/heroku/buildpack-website-public-html@sha256:deb5d89741676a635e090a591e6478b40005593b2286e386a468bbdd268cb80d"}
