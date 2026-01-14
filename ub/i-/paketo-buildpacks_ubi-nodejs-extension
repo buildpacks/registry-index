@@ -47,3 +47,4 @@
 {"ns":"paketo-buildpacks","name":"ubi-nodejs-extension","version":"1.6.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/ubi-nodejs-extension@sha256:65e0f6ac8ba911778b059e620b758df303dcfdda3452c7cd02989dc379dc2a40"}
 {"ns":"paketo-buildpacks","name":"ubi-nodejs-extension","version":"1.6.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/ubi-nodejs-extension@sha256:2db9f2c3ba0d2ebcdbacc3abc0e064d53d2a7c2a1794d202f5c81cb9ab6f7cc1"}
 {"ns":"paketo-buildpacks","name":"ubi-nodejs-extension","version":"1.6.2","yanked":false,"addr":"index.docker.io/paketobuildpacks/ubi-nodejs-extension@sha256:d220fde96b08bca2c266fb77cea645014dde62421c9194d068c6531f733ebb79"}
+{"ns":"paketo-buildpacks","name":"ubi-nodejs-extension","version":"1.6.3","yanked":false,"addr":"index.docker.io/paketobuildpacks/ubi-nodejs-extension@sha256:bb8e58caf52217fc55510d3036710097699f4e277f0b5b1f2272e27b50cb32e3"}
