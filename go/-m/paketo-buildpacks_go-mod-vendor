@@ -97,3 +97,4 @@
 {"ns":"paketo-buildpacks","name":"go-mod-vendor","version":"1.1.11","yanked":false,"addr":"index.docker.io/paketobuildpacks/go-mod-vendor@sha256:def744843caf83123ac5a88bd4d7b2e042d6fb70c47875a49cfd816e2b6d6bd0"}
 {"ns":"paketo-buildpacks","name":"go-mod-vendor","version":"1.1.12","yanked":false,"addr":"index.docker.io/paketobuildpacks/go-mod-vendor@sha256:c1e0b23d63ab8e0ad58f7114a07109607bc0fb202fdfdb3d00a73f3377822ee9"}
 {"ns":"paketo-buildpacks","name":"go-mod-vendor","version":"1.1.13","yanked":false,"addr":"index.docker.io/paketobuildpacks/go-mod-vendor@sha256:8c0b3d5e0b04a908122c3d9f508571bfa553b4d72932dc6954234a40661f4840"}
+{"ns":"paketo-buildpacks","name":"go-mod-vendor","version":"1.1.14","yanked":false,"addr":"index.docker.io/paketobuildpacks/go-mod-vendor@sha256:e1fe5a4d180a8431463b6ed437e116225593eb49608fb8f6661746ad3b43d88d"}
