@@ -107,3 +107,4 @@
 {"ns":"paketo-buildpacks","name":"web-servers","version":"4.0.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/web-servers@sha256:3be096889debfb831cd0b8bd8740ef56a5f30b403f7d48b04cb7fd821c607266"}
 {"ns":"paketo-buildpacks","name":"web-servers","version":"4.0.2","yanked":false,"addr":"index.docker.io/paketobuildpacks/web-servers@sha256:7f913c9ecdca5762f87d393cca4e3b641cc0df87c1a1abcc7745aa14ee2cceac"}
 {"ns":"paketo-buildpacks","name":"web-servers","version":"4.0.3","yanked":false,"addr":"index.docker.io/paketobuildpacks/web-servers@sha256:0451869ea4d56a0965f73124e9795758d558e74075035d3929c5d78665033881"}
+{"ns":"paketo-buildpacks","name":"web-servers","version":"4.0.4","yanked":false,"addr":"index.docker.io/paketobuildpacks/web-servers@sha256:5431e25c22ee24c7d0ef4064ec7e545c93c2cd631958aa21b82a94d0b964ba5d"}
