@@ -16,3 +16,4 @@
 {"ns":"paketo-buildpacks","name":"quarkus","version":"0.6.4","yanked":false,"addr":"docker.io/paketobuildpacks/quarkus@sha256:1bc51325d4097a092ea9c66f563144c473316ad516c9b4c8acda564822699265"}
 {"ns":"paketo-buildpacks","name":"quarkus","version":"0.7.0","yanked":false,"addr":"docker.io/paketobuildpacks/quarkus@sha256:9dd87bbb6cdd3fcda49162735f75932d802f73183b79fecb4b7a7c55dc6292b9"}
 {"ns":"paketo-buildpacks","name":"quarkus","version":"0.7.1","yanked":false,"addr":"docker.io/paketobuildpacks/quarkus@sha256:679f19b829eb736f093d916a1d6467475c8827068960de6743f376bc82adf43f"}
+{"ns":"paketo-buildpacks","name":"quarkus","version":"0.8.0","yanked":false,"addr":"docker.io/paketobuildpacks/quarkus@sha256:67ba4092948d11f48bc297474e46faeac56ee609e24bf3372aa9e6a09dab4b52"}
