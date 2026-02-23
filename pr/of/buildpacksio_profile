@@ -11,3 +11,4 @@
 {"ns":"buildpacksio","name":"profile","version":"1.2.0","yanked":false,"addr":"docker.io/buildpacksio/profile@sha256:269e80470f9d9d07a7b1131fe20ca65c1b1626200c1fc75ff33871ed7b3b76d8"}
 {"ns":"buildpacksio","name":"profile","version":"1.2.1","yanked":false,"addr":"docker.io/buildpacksio/profile@sha256:03a7eef7834ba8d46ceecd7a235a4b997d2b40145d282e770762dd8cd0bf8108"}
 {"ns":"buildpacksio","name":"profile","version":"1.3.0","yanked":false,"addr":"docker.io/buildpacksio/profile@sha256:6e28154afc0929912abd2c8638a887ed86d7a116fb0555d66753708697893e98"}
+{"ns":"buildpacksio","name":"profile","version":"1.4.0","yanked":false,"addr":"docker.io/buildpacksio/profile@sha256:f09dd139e429ff9b01cca8cb0682a7113c9b091fcfd9bbe95fd7652b888dab74"}
