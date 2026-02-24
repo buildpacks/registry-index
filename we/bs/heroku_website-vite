@@ -1,2 +1,3 @@
 {"ns":"heroku","name":"website-vite","version":"2.2.0","yanked":false,"addr":"docker.io/heroku/buildpack-website-vite@sha256:0f85491ec23cbc56bb10f016104441d3e9d7b5720915d03942e2155db18c51d7"}
 {"ns":"heroku","name":"website-vite","version":"3.0.0","yanked":false,"addr":"docker.io/heroku/buildpack-website-vite@sha256:df85de45c25cbfb8129a699c022ec9f9d634551dd680b6ba40828e176f8209ef"}
+{"ns":"heroku","name":"website-vite","version":"3.1.0","yanked":false,"addr":"docker.io/heroku/buildpack-website-vite@sha256:6a5d9cb74f1cdc1ea6887c89115999d771906c6ee781331cc63f1557f2cc3de1"}
