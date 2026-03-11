@@ -110,3 +110,4 @@
 {"ns":"paketo-buildpacks","name":"yarn-install","version":"2.7.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/yarn-install@sha256:bb3e358a37f1f78618af85a0923dc4b81cf6b4dc2f2e6da6c98d12b3fd096c0a"}
 {"ns":"paketo-buildpacks","name":"yarn-install","version":"2.7.2","yanked":false,"addr":"index.docker.io/paketobuildpacks/yarn-install@sha256:d2a3b32f8a7dd51084bcc207592db2ba79821266c0cbcc53ef0e755b2649f5dc"}
 {"ns":"paketo-buildpacks","name":"yarn-install","version":"2.7.3","yanked":false,"addr":"index.docker.io/paketobuildpacks/yarn-install@sha256:70cc362559d474e5985fbdf090208ee3e768bf7c099b1cb99de2f553110193c2"}
+{"ns":"paketo-buildpacks","name":"yarn-install","version":"2.7.4","yanked":false,"addr":"index.docker.io/paketobuildpacks/yarn-install@sha256:9c6d4121f5cf161d6e8d587f4e4270faf4e31e38304a568a5e495e5e2ca2d9d9"}
