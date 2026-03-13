@@ -59,3 +59,4 @@
 {"ns":"paketo-buildpacks","name":"leiningen","version":"4.14.0","yanked":false,"addr":"docker.io/paketobuildpacks/leiningen@sha256:fbb54a1f206fe6edb8630b213c975a7838772923803296f71b07b6fa35b22723"}
 {"ns":"paketo-buildpacks","name":"leiningen","version":"4.14.1","yanked":false,"addr":"docker.io/paketobuildpacks/leiningen@sha256:da58942d40b127294e49501649241cf405db9e465552b1e48b91f700b604e944"}
 {"ns":"paketo-buildpacks","name":"leiningen","version":"4.15.0","yanked":false,"addr":"docker.io/paketobuildpacks/leiningen@sha256:a937b1d93b046fb51cba58ea0bc234cbed00ed343aa31b2b03ae1ae0d6aaa07f"}
+{"ns":"paketo-buildpacks","name":"leiningen","version":"4.15.1","yanked":false,"addr":"docker.io/paketobuildpacks/leiningen@sha256:6af244693a761d1ebd09d37e105218ce3c4840ef5fd6ef8c78137e5d977fc8a6"}
