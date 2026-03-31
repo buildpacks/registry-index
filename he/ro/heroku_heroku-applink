@@ -1,2 +1,3 @@
 {"ns":"heroku","name":"heroku-applink","version":"1.0.2","yanked":false,"addr":"docker.io/heroku/buildpack-heroku-applink@sha256:339d4d2b3f76f2f12a6e9340f1a539cba02e3986b57bd093bc682ca7da25502c"}
 {"ns":"heroku","name":"heroku-applink","version":"1.1.0","yanked":false,"addr":"docker.io/heroku/buildpack-heroku-applink@sha256:5d86b11ca1b98cc987aa796b83c4945030c4d5e23f26e83cec889791ed6809d5"}
+{"ns":"heroku","name":"heroku-applink","version":"1.1.1","yanked":false,"addr":"docker.io/heroku/buildpack-heroku-applink@sha256:c711f555349c5c8b17db5b256309c68f2040ea0cbb13bc9034d4164d83687932"}
