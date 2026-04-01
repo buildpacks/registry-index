@@ -102,3 +102,4 @@
 {"ns":"paketo-buildpacks","name":"npm-install","version":"2.3.9","yanked":false,"addr":"index.docker.io/paketobuildpacks/npm-install@sha256:351486c9651c8fd861367660c9ad708c32a9b57442f63900329ceb5783275439"}
 {"ns":"paketo-buildpacks","name":"npm-install","version":"2.3.10","yanked":false,"addr":"index.docker.io/paketobuildpacks/npm-install@sha256:5577a536a0bd2f81ace9d9b344e87c56858980cffddc335e4b16d2a1cf5787a0"}
 {"ns":"paketo-buildpacks","name":"npm-install","version":"2.3.11","yanked":false,"addr":"index.docker.io/paketobuildpacks/npm-install@sha256:161387db0c4f5c6004f1a536fe1c5636d3993330c12082366d7e388067f89eda"}
+{"ns":"paketo-buildpacks","name":"npm-install","version":"2.3.12","yanked":false,"addr":"index.docker.io/paketobuildpacks/npm-install@sha256:71a7a634b198380ec24ab1433733f353b1bda412c87f34b3b1bc1b4dc069452c"}
