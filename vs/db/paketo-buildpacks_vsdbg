@@ -97,3 +97,4 @@
 {"ns":"paketo-buildpacks","name":"vsdbg","version":"0.6.15","yanked":false,"addr":"index.docker.io/paketobuildpacks/vsdbg@sha256:5448cbf603ce61e96aa73212f30f0f8869a617a042857731d96c1021ca6d9252"}
 {"ns":"paketo-buildpacks","name":"vsdbg","version":"0.6.16","yanked":false,"addr":"index.docker.io/paketobuildpacks/vsdbg@sha256:ef43396c4ad6b6f15f9af740b84afa95b1fa58e11bf1a7cbea5cc4e3a6151564"}
 {"ns":"paketo-buildpacks","name":"vsdbg","version":"0.6.17","yanked":false,"addr":"index.docker.io/paketobuildpacks/vsdbg@sha256:7f089c33e6bb0a03e9125fc6d26ff8ee136fd1c510b7a350962083904725fa06"}
+{"ns":"paketo-buildpacks","name":"vsdbg","version":"0.6.18","yanked":false,"addr":"index.docker.io/paketobuildpacks/vsdbg@sha256:fd0c0475f9cf9572ed98c78373f6e9fe393dd7ee0f6c20c00a6f4fe7dab39449"}
