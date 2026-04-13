@@ -1,2 +1,3 @@
 {"ns":"heroku","name":"website-cra","version":"3.1.0","yanked":false,"addr":"docker.io/heroku/buildpack-website-cra@sha256:050dfc8fc3f18a2720ed65a22c3941b6fe0a8f09adc2b06c5675f1d977f67010"}
 {"ns":"heroku","name":"website-cra","version":"3.2.0","yanked":false,"addr":"docker.io/heroku/buildpack-website-cra@sha256:9494e5c5e0c8c0f542e5c334c33de5117b536375448f12fb3290621e3db1b19c"}
+{"ns":"heroku","name":"website-cra","version":"3.2.1","yanked":false,"addr":"docker.io/heroku/buildpack-website-cra@sha256:3a5304a3c61cb801ce40a4d92ea70c0c3a7c772357973710a8400f54c1993c14"}
