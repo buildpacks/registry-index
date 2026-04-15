@@ -1,1 +1,2 @@
 {"ns":"paketo-buildpacks","name":"python-package-managers-install","version":"0.6.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/python-package-managers-install@sha256:918bfaeadb3310a4a6df6ce244ae2bd8c6d920413afd005125f2a5e9a61981c7"}
+{"ns":"paketo-buildpacks","name":"python-package-managers-install","version":"0.7.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/python-package-managers-install@sha256:b9746eb1acc8b02f23522c7e57be861bada1ab4806a9956a14829c3770bfbe95"}
