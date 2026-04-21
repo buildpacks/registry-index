@@ -3,3 +3,4 @@
 {"ns":"heroku","name":"website-nextjs","version":"3.1.0","yanked":false,"addr":"docker.io/heroku/buildpack-website-nextjs@sha256:338db5e349aada717033e8745507f2fe26fc61d57bed4058bfc254d1be7dd466"}
 {"ns":"heroku","name":"website-nextjs","version":"3.2.0","yanked":false,"addr":"docker.io/heroku/buildpack-website-nextjs@sha256:248305ce0bcc263d7c03c0a1ce27af0f39843c9169eaf4106e2f922ea9fafdbe"}
 {"ns":"heroku","name":"website-nextjs","version":"3.2.1","yanked":false,"addr":"docker.io/heroku/buildpack-website-nextjs@sha256:3f013e770b884e394a8aed3b2152787f8deb9357cff6c44e2467ba47673eb899"}
+{"ns":"heroku","name":"website-nextjs","version":"3.2.2","yanked":false,"addr":"docker.io/heroku/buildpack-website-nextjs@sha256:41b88dd6db47c0203b28e4355c419b1c4522afbbb89a2d00af825094afa9d26d"}
