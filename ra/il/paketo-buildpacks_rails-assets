@@ -73,3 +73,4 @@
 {"ns":"paketo-buildpacks","name":"rails-assets","version":"0.10.27","yanked":false,"addr":"index.docker.io/paketobuildpacks/rails-assets@sha256:3138e266f81fa25334d993a520b8647b95abf7ff010d04fdaf364ba82f4a4a03"}
 {"ns":"paketo-buildpacks","name":"rails-assets","version":"0.10.28","yanked":false,"addr":"index.docker.io/paketobuildpacks/rails-assets@sha256:8e651ac9ceb426977bd441cc35aa42173fa213bda101d341bf4284e31816d577"}
 {"ns":"paketo-buildpacks","name":"rails-assets","version":"0.10.29","yanked":false,"addr":"index.docker.io/paketobuildpacks/rails-assets@sha256:cfae2a690a49903ab8efa1db9d71156a2d07d0f8cc6269a927ffd956faf787a5"}
+{"ns":"paketo-buildpacks","name":"rails-assets","version":"0.10.30","yanked":false,"addr":"index.docker.io/paketobuildpacks/rails-assets@sha256:bc2ca5595351c90c96ead416d5dffe58a812a60b2175a7eb6be67247bfe9e8a7"}
