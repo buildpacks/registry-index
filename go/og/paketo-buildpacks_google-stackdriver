@@ -137,3 +137,4 @@
 {"ns":"paketo-buildpacks","name":"google-stackdriver","version":"10.1.1","yanked":false,"addr":"docker.io/paketobuildpacks/google-stackdriver@sha256:481e2749f02bc8b1013c3c226aa47c4344125c40f38910c57d8e1764d349a4c4"}
 {"ns":"paketo-buildpacks","name":"google-stackdriver","version":"10.2.0","yanked":false,"addr":"docker.io/paketobuildpacks/google-stackdriver@sha256:08399b56c8b3f2bab9b2394404cecf6da2c909adaa7b722acd46c0829f062407"}
 {"ns":"paketo-buildpacks","name":"google-stackdriver","version":"10.2.1","yanked":false,"addr":"docker.io/paketobuildpacks/google-stackdriver@sha256:9b02e2e8cbc69abf2aa08b0dc52fd4079fdf36a881b86238d83f3a7b71d50213"}
+{"ns":"paketo-buildpacks","name":"google-stackdriver","version":"10.2.2","yanked":false,"addr":"docker.io/paketobuildpacks/google-stackdriver@sha256:a03daceae9c919ca5adb27c52d47a4ad7629555340165886bcdaa5ec4f311ef7"}
