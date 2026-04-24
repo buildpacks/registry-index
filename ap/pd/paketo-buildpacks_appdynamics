@@ -48,3 +48,4 @@
 {"ns":"paketo-buildpacks","name":"appdynamics","version":"8.1.0","yanked":false,"addr":"docker.io/paketobuildpacks/appdynamics@sha256:835f7c773b54b065b178cf0facbbb1948c0c1b83e6167eaed776bce57c1e8e77"}
 {"ns":"paketo-buildpacks","name":"appdynamics","version":"8.1.1","yanked":false,"addr":"docker.io/paketobuildpacks/appdynamics@sha256:3cfbf0c3f56a6d8090e5b11d39544c6b3a1ffd1f747092137a5505a535959698"}
 {"ns":"paketo-buildpacks","name":"appdynamics","version":"8.2.0","yanked":false,"addr":"docker.io/paketobuildpacks/appdynamics@sha256:0e0dd94b7058dfe53aef413679678d65fd0fe27b239a916043d39433b327c222"}
+{"ns":"paketo-buildpacks","name":"appdynamics","version":"8.2.1","yanked":false,"addr":"docker.io/paketobuildpacks/appdynamics@sha256:b3679c20df9ba93d89c481b5b55014536c2fa23862da8ef618f0f516a2a3191d"}
