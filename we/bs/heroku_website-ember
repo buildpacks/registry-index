@@ -12,3 +12,4 @@
 {"ns":"heroku","name":"website-ember","version":"3.2.1","yanked":false,"addr":"docker.io/heroku/buildpack-website-ember@sha256:76cbe009aa3821b55b8a523464d95a059e58fca48bf2205ea874e489aa9261e9"}
 {"ns":"heroku","name":"website-ember","version":"3.2.2","yanked":false,"addr":"docker.io/heroku/buildpack-website-ember@sha256:3cb3ce632806b36e2ccf380bb7f8890e87070fab68476dceff5078c23390bd2f"}
 {"ns":"heroku","name":"website-ember","version":"3.3.0","yanked":false,"addr":"docker.io/heroku/buildpack-website-ember@sha256:9df9048cab1ac01fd3fd0c5da82b81a895db08a42553349bcaa22adf502f20c2"}
+{"ns":"heroku","name":"website-ember","version":"3.3.1","yanked":false,"addr":"docker.io/heroku/buildpack-website-ember@sha256:50b48a30091607bd017dee8e609b65dc7de7c5d5ffdf3e082b28a1dcc58b9465"}
