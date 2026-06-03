@@ -56,3 +56,4 @@
 {"ns":"paketo-buildpacks","name":"python-start","version":"0.17.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/python-start@sha256:66c7ce9f220a9985431d0481f23d6e80d8a4d0491f0542ec813702e121f84b24"}
 {"ns":"paketo-buildpacks","name":"python-start","version":"0.17.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/python-start@sha256:2cc283e6cbb74f44237238a4cc1a35d8c3b72442fe79e8c3715975904e57aa0b"}
 {"ns":"paketo-buildpacks","name":"python-start","version":"0.17.2","yanked":false,"addr":"index.docker.io/paketobuildpacks/python-start@sha256:bd7f8cb143825ed0259b3ad3d5569a2178deecc0bad5a9b59617c860c16c8245"}
+{"ns":"paketo-buildpacks","name":"python-start","version":"0.17.3","yanked":false,"addr":"index.docker.io/paketobuildpacks/python-start@sha256:409e6564efcc752f2751ff97bfe8a0fa8b884c4f8a9665481ac6deaf9326bb6c"}
