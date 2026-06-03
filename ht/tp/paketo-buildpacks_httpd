@@ -92,3 +92,4 @@
 {"ns":"paketo-buildpacks","name":"httpd","version":"1.0.4","yanked":false,"addr":"index.docker.io/paketobuildpacks/httpd@sha256:0fade94a730a807a1b805b3ee7712ab859e79b31170ba981675823115d5a49b8"}
 {"ns":"paketo-buildpacks","name":"httpd","version":"1.0.5","yanked":false,"addr":"index.docker.io/paketobuildpacks/httpd@sha256:172dbb0b74a9a5085b6b42493065e8630bf9c9d7672443c3ab4c00d582d20c9e"}
 {"ns":"paketo-buildpacks","name":"httpd","version":"1.0.6","yanked":false,"addr":"index.docker.io/paketobuildpacks/httpd@sha256:c6d1882d8dfb0e2fb79cdba0076d0dc2ed9e8b77578e0d1c948c152cedc6a92c"}
+{"ns":"paketo-buildpacks","name":"httpd","version":"1.0.7","yanked":false,"addr":"index.docker.io/paketobuildpacks/httpd@sha256:93cf2ade3a5e65b80d317473038ffbab3dfd9e3db1fbdfc89f0e6ceb167d9028"}
