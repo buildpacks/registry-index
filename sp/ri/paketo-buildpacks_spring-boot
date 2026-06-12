@@ -118,3 +118,4 @@
 {"ns":"paketo-buildpacks","name":"spring-boot","version":"5.36.1","yanked":false,"addr":"docker.io/paketobuildpacks/spring-boot@sha256:caf9c77b7e0da2463b2782fbc065d9ca6e81384c744eb129d46d7e72fb231e67"}
 {"ns":"paketo-buildpacks","name":"spring-boot","version":"5.36.2","yanked":false,"addr":"docker.io/paketobuildpacks/spring-boot@sha256:383e492ebb3e4afdb44ea88358e257758d5558d9f079f6d2808ae12702dbc948"}
 {"ns":"paketo-buildpacks","name":"spring-boot","version":"5.36.3","yanked":false,"addr":"docker.io/paketobuildpacks/spring-boot@sha256:ed8512562b7c2ea1aff6ea8f28a77009f42f34ad9daf17b03c81c1567194459a"}
+{"ns":"paketo-buildpacks","name":"spring-boot","version":"5.36.4","yanked":false,"addr":"docker.io/paketobuildpacks/spring-boot@sha256:b9b987a858f36f37b8eba84d169131ad811eb490982e507a500154e5bd68585b"}
