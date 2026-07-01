@@ -76,3 +76,4 @@
 {"ns":"paketo-buildpacks","name":"pipenv","version":"1.28.4","yanked":false,"addr":"index.docker.io/paketobuildpacks/pipenv@sha256:44c61ac9309fb8bead60918bc4681a4cf34fc587386b40bcfe4f970930b1d402"}
 {"ns":"paketo-buildpacks","name":"pipenv","version":"1.28.5","yanked":false,"addr":"index.docker.io/paketobuildpacks/pipenv@sha256:e51e5d2da7d9ce7465cd8698bbc8d5b707064155ca8ca4d68ccabe6bf06f1fd6"}
 {"ns":"paketo-buildpacks","name":"pipenv","version":"1.28.6","yanked":false,"addr":"index.docker.io/paketobuildpacks/pipenv@sha256:2ff6a7c91ca175e1b48c907d8066732184f72b0cfc7f4b9de27ad6f6c9bad2ee"}
+{"ns":"paketo-buildpacks","name":"pipenv","version":"1.28.7","yanked":false,"addr":"index.docker.io/paketobuildpacks/pipenv@sha256:2d9ad2850c3ed8becdf14ac06099fb4cdc9398cd35146f75479e0402e2bce598"}
