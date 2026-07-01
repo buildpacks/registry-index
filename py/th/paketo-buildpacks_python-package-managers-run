@@ -11,3 +11,4 @@
 {"ns":"paketo-buildpacks","name":"python-package-managers-run","version":"0.5.3","yanked":false,"addr":"index.docker.io/paketobuildpacks/python-package-managers-run@sha256:1f392cb9cfe540d2f457f9a01af1c61294d220e0a80bc0f5400319f2b2c496ce"}
 {"ns":"paketo-buildpacks","name":"python-package-managers-run","version":"0.5.4","yanked":false,"addr":"index.docker.io/paketobuildpacks/python-package-managers-run@sha256:17fae67e2e3af7de0454d36a3fea7d7cc64102decb6f767bf37030d2fe026c0c"}
 {"ns":"paketo-buildpacks","name":"python-package-managers-run","version":"0.5.5","yanked":false,"addr":"index.docker.io/paketobuildpacks/python-package-managers-run@sha256:5caa4295eedfabf3884b322ea3e7de691f17b9896623c501364da4557d0175a1"}
+{"ns":"paketo-buildpacks","name":"python-package-managers-run","version":"0.5.6","yanked":false,"addr":"index.docker.io/paketobuildpacks/python-package-managers-run@sha256:5953c627d40d1a1686d00b753179da7dd02116f421e4b0bb43451b9e46d043b5"}
