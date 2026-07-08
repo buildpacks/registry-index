@@ -8,3 +8,4 @@
 {"ns":"heroku","name":"deb-packages","version":"0.2.0","yanked":false,"addr":"docker.io/heroku/buildpack-deb-packages@sha256:7543930b6d062fbc326e913f03a06b2257c9605eda6bf469389a01fa1db881d1"}
 {"ns":"heroku","name":"deb-packages","version":"0.3.0","yanked":false,"addr":"docker.io/heroku/buildpack-deb-packages@sha256:39167ecaee643641421d632b35998add6dc8ac08f49a39fc0f1063ad317fad82"}
 {"ns":"heroku","name":"deb-packages","version":"1.0.0","yanked":false,"addr":"docker.io/heroku/buildpack-deb-packages@sha256:282783174259d1559e1f2e068d2db46281557c3cc71eba4f76b6b1bf1ae7dd4e"}
+{"ns":"heroku","name":"deb-packages","version":"1.0.1","yanked":false,"addr":"docker.io/heroku/buildpack-deb-packages@sha256:bb50e5973fbd84171d25423f178fff86f6e088743759c15011c0ad391e48e8d7"}
