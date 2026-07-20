@@ -56,3 +56,4 @@
 {"ns":"paketo-buildpacks","name":"elastic-apm","version":"7.2.4","yanked":false,"addr":"docker.io/paketobuildpacks/elastic-apm@sha256:ebbd89a441a3439dde19dea7f1a14234706878caa6138833fd231605e4beebb8"}
 {"ns":"paketo-buildpacks","name":"elastic-apm","version":"7.2.5","yanked":false,"addr":"docker.io/paketobuildpacks/elastic-apm@sha256:7cce98c30be40091b893007e33bd1aeb380b5d816e6676047ac8d7f595bf9e12"}
 {"ns":"paketo-buildpacks","name":"elastic-apm","version":"7.2.6","yanked":false,"addr":"docker.io/paketobuildpacks/elastic-apm@sha256:309d9bc1619a36026212aae0ed7ac2aa448a28d82f5783269dd03e5e37bd95ae"}
+{"ns":"paketo-buildpacks","name":"elastic-apm","version":"7.3.0","yanked":false,"addr":"docker.io/paketobuildpacks/elastic-apm@sha256:8a49473d74a01f06b953187e0820af677d55d81cfed1c0a6cf0a47b50255f74f"}
