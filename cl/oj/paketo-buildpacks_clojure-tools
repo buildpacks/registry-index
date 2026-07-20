@@ -85,3 +85,4 @@
 {"ns":"paketo-buildpacks","name":"clojure-tools","version":"2.17.7","yanked":false,"addr":"docker.io/paketobuildpacks/clojure-tools@sha256:76b3b93857e967d34c24ab60ff1476905e4e9ea31417c0d19c9043bd59ab9318"}
 {"ns":"paketo-buildpacks","name":"clojure-tools","version":"2.17.8","yanked":false,"addr":"docker.io/paketobuildpacks/clojure-tools@sha256:c9ca403fdf739b766f7412e5ce3d6f04626aae1eb0e2e19cfc0a25b6cda59616"}
 {"ns":"paketo-buildpacks","name":"clojure-tools","version":"2.17.9","yanked":false,"addr":"docker.io/paketobuildpacks/clojure-tools@sha256:c86394e427690466fd9d65f9844d3c820ac459d3a1731a808813bc7b1f509980"}
+{"ns":"paketo-buildpacks","name":"clojure-tools","version":"2.17.10","yanked":false,"addr":"docker.io/paketobuildpacks/clojure-tools@sha256:359314dd605157a4965f064cf8878dc8dbe1437b6b5f8b1d14196886484f3b0b"}
