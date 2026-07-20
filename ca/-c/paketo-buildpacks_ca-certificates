@@ -55,3 +55,4 @@
 {"ns":"paketo-buildpacks","name":"ca-certificates","version":"3.12.2","yanked":false,"addr":"docker.io/paketobuildpacks/ca-certificates@sha256:b182ec49fdab3c0061e2367e264927e8ea874a58c86b6a9e10fe8c4c00e28e8e"}
 {"ns":"paketo-buildpacks","name":"ca-certificates","version":"3.12.3","yanked":false,"addr":"docker.io/paketobuildpacks/ca-certificates@sha256:2b07fa4f03e50bff05411fe93d5bdfff82d4d71aa55727b1b4d85f2d2d22b897"}
 {"ns":"paketo-buildpacks","name":"ca-certificates","version":"3.12.4","yanked":false,"addr":"docker.io/paketobuildpacks/ca-certificates@sha256:41e19a41d43d03472166a4b743bea6bebd1b4bba3482963ffee51ebbc02a91b6"}
+{"ns":"paketo-buildpacks","name":"ca-certificates","version":"3.12.5","yanked":false,"addr":"docker.io/paketobuildpacks/ca-certificates@sha256:7c63a21d6cbd50a527b9895307f1791ed3b3d96cffa3039089dd9079d81cdd0d"}
