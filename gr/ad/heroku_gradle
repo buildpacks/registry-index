@@ -35,3 +35,4 @@
 {"ns":"heroku","name":"gradle","version":"7.0.10","yanked":false,"addr":"docker.io/heroku/buildpack-gradle@sha256:f228922efc796a0a84dd8f539596ac95f22099125b731c2b6d0b4157e86df149"}
 {"ns":"heroku","name":"gradle","version":"7.0.11","yanked":false,"addr":"docker.io/heroku/buildpack-gradle@sha256:2e53015ef483d21089cc379643a9dfc675657ca4cea5e43b3a28cb558fdff1d9"}
 {"ns":"heroku","name":"gradle","version":"7.0.12","yanked":false,"addr":"docker.io/heroku/buildpack-gradle@sha256:394f77b9aa84d1cb950e5eadfd2b657d48ccbb80243b8be8fc443bed00485b1d"}
+{"ns":"heroku","name":"gradle","version":"7.0.13","yanked":false,"addr":"docker.io/heroku/buildpack-gradle@sha256:56498d214aba50027e9bb3f4c748c813010b8e268e37fd99f3b3fb0cda8f7251"}
