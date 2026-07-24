@@ -14,3 +14,4 @@
 {"ns":"heroku","name":"static-web-server","version":"3.3.0","yanked":false,"addr":"docker.io/heroku/buildpack-static-web-server@sha256:47de9704fa1a138f31daed4fd8d2f42f25c05894042f930c96446f01b2cd3f76"}
 {"ns":"heroku","name":"static-web-server","version":"3.3.1","yanked":false,"addr":"docker.io/heroku/buildpack-static-web-server@sha256:8a4e1677d07abd183259571c2b54c770a0d97ae601b581fe608b570ec42bfff8"}
 {"ns":"heroku","name":"static-web-server","version":"3.3.2","yanked":false,"addr":"docker.io/heroku/buildpack-static-web-server@sha256:4c16d71b0eb6f173171be9c800db51eacef43e54a43c5bb2e6f3aea1048b7659"}
+{"ns":"heroku","name":"static-web-server","version":"3.4.0","yanked":false,"addr":"docker.io/heroku/buildpack-static-web-server@sha256:b590a04c0e92bf191411584183d56bf3aa65c1397deca5984cc1c946b921f5d8"}
