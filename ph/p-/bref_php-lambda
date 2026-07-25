@@ -1,1 +1,2 @@
 {"ns":"bref","name":"php-lambda","version":"0.1.0","yanked":false,"addr":"index.docker.io/psantus/bref-buildpack@sha256:d4867731280c7114789638b2be4d480e0737a1716fef3fd63c9f020b041c2fdd"}
+{"ns":"bref","name":"php-lambda","version":"0.2.0","yanked":false,"addr":"index.docker.io/psantus/bref-buildpack@sha256:72a6cf50f012ff9022c2ec29fbe237e317a34aa3360ae3c1bec29685612b75d5"}
