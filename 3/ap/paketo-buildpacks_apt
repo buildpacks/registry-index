@@ -1,2 +1,3 @@
 {"ns":"paketo-buildpacks","name":"apt","version":"0.1.0","yanked":false,"addr":"docker.io/paketobuildpacks/apt@sha256:aa3994ca983408bbb1b02d5afb8bd340550b4663a07e3387f331283007e26c7b"}
 {"ns":"paketo-buildpacks","name":"apt","version":"0.2.0","yanked":false,"addr":"docker.io/paketobuildpacks/apt@sha256:50d236996174c7669df0a3914f8750d17c6674059bc90bba5a1f1230dce22841"}
+{"ns":"paketo-buildpacks","name":"apt","version":"0.3.0","yanked":false,"addr":"docker.io/paketobuildpacks/apt@sha256:529f0a5f80e5b61274e84c53fe75b84aaf5296d418619d2dfe2c57a4d0a22d8b"}
