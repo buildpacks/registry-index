@@ -85,3 +85,4 @@
 {"ns":"paketo-buildpacks","name":"thin","version":"0.5.74","yanked":false,"addr":"index.docker.io/paketobuildpacks/thin@sha256:3eee2eafee54328779a2ae1b2bcfe01c4be8ff1710e29ce341fd6bac4e062b54"}
 {"ns":"paketo-buildpacks","name":"thin","version":"0.5.75","yanked":false,"addr":"index.docker.io/paketobuildpacks/thin@sha256:eef6b78c5d88449778a9698071eca433df05879646b8a3d01e9419a22c5cbab7"}
 {"ns":"paketo-buildpacks","name":"thin","version":"0.5.76","yanked":false,"addr":"index.docker.io/paketobuildpacks/thin@sha256:e023b7a1baebea128364650a751ed2c594d8a137d253de893f4a907ce85d60cf"}
+{"ns":"paketo-buildpacks","name":"thin","version":"0.5.77","yanked":false,"addr":"index.docker.io/paketobuildpacks/thin@sha256:9b2b5207bec53518496f5b982f5993da777a2092d933801256934e3d30f250d3"}
