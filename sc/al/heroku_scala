@@ -43,3 +43,4 @@
 {"ns":"heroku","name":"scala","version":"7.0.11","yanked":false,"addr":"docker.io/heroku/buildpack-scala@sha256:fb39a0f96cd3b7c7c470f02240843eaf4931405c7651062088923136065a4beb"}
 {"ns":"heroku","name":"scala","version":"7.0.12","yanked":false,"addr":"docker.io/heroku/buildpack-scala@sha256:9085e31bb5d96b26475c4466e32a3dd4592483b61836d8c311eeaa3e90ec1f81"}
 {"ns":"heroku","name":"scala","version":"7.0.13","yanked":false,"addr":"docker.io/heroku/buildpack-scala@sha256:2b6420592c77f6e8f5e968a8ebbe212fc302779937c70fa04a68bf3a6d7a71f9"}
+{"ns":"heroku","name":"scala","version":"7.0.14","yanked":false,"addr":"docker.io/heroku/buildpack-scala@sha256:34f58db8de17f8745bffb66ef8f35d89fc379a2a6fdb116ee06dc0443e28ef3a"}
