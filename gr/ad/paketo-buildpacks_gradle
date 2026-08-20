@@ -129,3 +129,4 @@
 {"ns":"paketo-buildpacks","name":"gradle","version":"8.7.2","yanked":false,"addr":"docker.io/paketobuildpacks/gradle@sha256:5a6f2bc5ae4fba16ad78f671d3d5b3fe60f8a739522a00f9c360506e5961af23"}
 {"ns":"paketo-buildpacks","name":"gradle","version":"8.7.3","yanked":false,"addr":"docker.io/paketobuildpacks/gradle@sha256:3aa41a3b99f519561e9868f2a6fb264aba759140cc9ad46c8fc5b65dabaacf74"}
 {"ns":"paketo-buildpacks","name":"gradle","version":"8.8.0","yanked":false,"addr":"docker.io/paketobuildpacks/gradle@sha256:505abc6747d0b50ed3a0cc5d8da996bf0f7f7fd56dc45d2fb14fab64867c5cd3"}
+{"ns":"paketo-buildpacks","name":"gradle","version":"8.8.1","yanked":false,"addr":"docker.io/paketobuildpacks/gradle@sha256:c0a9a206dd865574069c41bb72abf856bcbec0aae916d68c009c4940829df0eb"}
