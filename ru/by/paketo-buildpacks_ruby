@@ -115,3 +115,4 @@
 {"ns":"paketo-buildpacks","name":"ruby","version":"2.4.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/ruby@sha256:ad387f6e14f44130768bdb574d6f8578f2c83bce10fe5691478e92ef1d54d819"}
 {"ns":"paketo-buildpacks","name":"ruby","version":"3.0.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/ruby@sha256:6d73d9805ee6f926b4cba5e5e951c49520b0cb6449cbab026954b023e13e26ec"}
 {"ns":"paketo-buildpacks","name":"ruby","version":"3.0.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/ruby@sha256:33efd4104a7b8359c19cc94648559fd676888266302ea36ecc39649cee7fd50e"}
+{"ns":"paketo-buildpacks","name":"ruby","version":"3.0.2","yanked":false,"addr":"index.docker.io/paketobuildpacks/ruby@sha256:7727052e66e1f9138c3731a602df28eca4614b84ffcb596a259ac1aaa8225384"}
