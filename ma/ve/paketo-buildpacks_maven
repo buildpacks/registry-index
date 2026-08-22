@@ -121,3 +121,4 @@
 {"ns":"paketo-buildpacks","name":"maven","version":"6.24.0","yanked":false,"addr":"docker.io/paketobuildpacks/maven@sha256:b3e98f1490642d32f9ccaffe2a3a757aa9bb67c83691625d53e33f735af9ff5f"}
 {"ns":"paketo-buildpacks","name":"maven","version":"6.24.1","yanked":false,"addr":"docker.io/paketobuildpacks/maven@sha256:14767c96928e8b8a1c341cb9e85cfa7a68599ed002f06006b1a4583d77027010"}
 {"ns":"paketo-buildpacks","name":"maven","version":"6.24.2","yanked":false,"addr":"docker.io/paketobuildpacks/maven@sha256:24d772546b1baa8ad5ef0cd73d0ccdfbebd1876c133a61784c699d5f98b274cd"}
+{"ns":"paketo-buildpacks","name":"maven","version":"6.24.3","yanked":false,"addr":"docker.io/paketobuildpacks/maven@sha256:505b79575210b1bcd325e6effadac26d21180866ed8733ee74e6ff37636668a6"}
