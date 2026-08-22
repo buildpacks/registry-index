@@ -83,3 +83,4 @@
 {"ns":"paketo-buildpacks","name":"liberty","version":"7.0.4","yanked":false,"addr":"docker.io/paketobuildpacks/liberty@sha256:9148960941fe9fb7cef82ed64f718fb73bf2cb066b72113af9f8e909008df9d8"}
 {"ns":"paketo-buildpacks","name":"liberty","version":"7.0.5","yanked":false,"addr":"docker.io/paketobuildpacks/liberty@sha256:625c068c5671dfff0b1f54412727135aa2ec2d66a997cf704404cb1c28a6652c"}
 {"ns":"paketo-buildpacks","name":"liberty","version":"7.0.6","yanked":false,"addr":"docker.io/paketobuildpacks/liberty@sha256:e04c72af8528bd8b344f53ee12cbdea6ea53cda1ca6e00456735281aa774f2d1"}
+{"ns":"paketo-buildpacks","name":"liberty","version":"7.0.7","yanked":false,"addr":"docker.io/paketobuildpacks/liberty@sha256:9c7f8359c022526cdb5962e2bd60320c4f0d432c87177b758bf68675814b3013"}
