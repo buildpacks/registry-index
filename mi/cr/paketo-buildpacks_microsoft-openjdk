@@ -90,3 +90,4 @@
 {"ns":"paketo-buildpacks","name":"microsoft-openjdk","version":"4.4.9","yanked":false,"addr":"docker.io/paketobuildpacks/microsoft-openjdk@sha256:5a5f4c8018a0b721d4bfa2e484c84d74e8a71e129d794056155f18707f2c8fff"}
 {"ns":"paketo-buildpacks","name":"microsoft-openjdk","version":"4.4.10","yanked":false,"addr":"docker.io/paketobuildpacks/microsoft-openjdk@sha256:5b7d58a4c455a44f3714294abf058037a97795e7a663e88e2519072796baebb9"}
 {"ns":"paketo-buildpacks","name":"microsoft-openjdk","version":"4.4.11","yanked":false,"addr":"docker.io/paketobuildpacks/microsoft-openjdk@sha256:ee5b8cdb104fe590406138b55880b94032d43badf480520572c994ad75afddc7"}
+{"ns":"paketo-buildpacks","name":"microsoft-openjdk","version":"4.4.12","yanked":false,"addr":"docker.io/paketobuildpacks/microsoft-openjdk@sha256:4d6b223fedfbd662bfac4a62b8d4121865c5a7ab27782e29c2cdf31961243625"}
