@@ -67,3 +67,4 @@
 {"ns":"paketo-buildpacks","name":"watchexec","version":"3.9.6","yanked":false,"addr":"docker.io/paketobuildpacks/watchexec@sha256:544daa98cbbaffd208c7dca5c5513e2e986a879458021dbee96a76878b44cc20"}
 {"ns":"paketo-buildpacks","name":"watchexec","version":"3.9.7","yanked":false,"addr":"docker.io/paketobuildpacks/watchexec@sha256:0c1f442d14207ea703e645bddf31299d92fbba043cc36fd2e3aaa89c709ff988"}
 {"ns":"paketo-buildpacks","name":"watchexec","version":"3.9.8","yanked":false,"addr":"docker.io/paketobuildpacks/watchexec@sha256:e507e5bd92e1e58ff66c72fef29fe75a2b7cb12c85057fb7f978d270eca6c266"}
+{"ns":"paketo-buildpacks","name":"watchexec","version":"3.10.0","yanked":false,"addr":"docker.io/paketobuildpacks/watchexec@sha256:76956e02520406ac59981343d7dbe7c74f328f893f74bcb635775929627f4b92"}
