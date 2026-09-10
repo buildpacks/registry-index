@@ -55,3 +55,4 @@
 {"ns":"paketo-buildpacks","name":"environment-variables","version":"4.11.5","yanked":false,"addr":"docker.io/paketobuildpacks/environment-variables@sha256:2d51cb9511de8428b29b314820ee142056fee6f5d6732bfcd72c5e4c9698274c"}
 {"ns":"paketo-buildpacks","name":"environment-variables","version":"4.11.6","yanked":false,"addr":"docker.io/paketobuildpacks/environment-variables@sha256:761cdee653490021c4e8ef83c4214b6162aaa62dd54c60a5cc8630d68fec493c"}
 {"ns":"paketo-buildpacks","name":"environment-variables","version":"4.11.7","yanked":false,"addr":"docker.io/paketobuildpacks/environment-variables@sha256:a7b85c917cb41cdad892b55294e0841e16e189b2a682808a13cd5929bb88258b"}
+{"ns":"paketo-buildpacks","name":"environment-variables","version":"4.12.0","yanked":false,"addr":"docker.io/paketobuildpacks/environment-variables@sha256:88d95d2b2ed87475847308bd04dbaed90ddb991460afa1b6843fef2c0b5b8c3a"}
