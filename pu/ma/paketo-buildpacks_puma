@@ -97,3 +97,4 @@
 {"ns":"paketo-buildpacks","name":"puma","version":"0.5.24","yanked":false,"addr":"index.docker.io/paketobuildpacks/puma@sha256:9986dae2aa766a96208e6d6dd24279b6a41254d20ae92527b9c174f7c5dec887"}
 {"ns":"paketo-buildpacks","name":"puma","version":"0.5.25","yanked":false,"addr":"index.docker.io/paketobuildpacks/puma@sha256:5ae867f2cb529697a5038e35d95da482ae26169ae871fa3f85975965ab732965"}
 {"ns":"paketo-buildpacks","name":"puma","version":"0.5.26","yanked":false,"addr":"index.docker.io/paketobuildpacks/puma@sha256:f2edc8fe62553badce4bfb79978ec9431c5414371f872b9a29e01b7a336819bc"}
+{"ns":"paketo-buildpacks","name":"puma","version":"0.5.27","yanked":false,"addr":"index.docker.io/paketobuildpacks/puma@sha256:737f63ac0bcdef7a3f42c282fd7b30acf9e7a185b2ec7f370aac439239bbc03e"}
