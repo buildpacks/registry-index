@@ -92,3 +92,4 @@
 {"ns":"paketo-buildpacks","name":"executable-jar","version":"6.17.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/executable-jar@sha256:0bca2a2309e86bf22cfc667bf303379088695a7b15916343405e81040443e6f1"}
 {"ns":"paketo-buildpacks","name":"executable-jar","version":"6.17.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/executable-jar@sha256:a5c40dea1295fc445c8b081c0e2997949487233af204a08f95ac15df674840e8"}
 {"ns":"paketo-buildpacks","name":"executable-jar","version":"6.17.2","yanked":false,"addr":"index.docker.io/paketobuildpacks/executable-jar@sha256:3eb2e11285f1d43b75320e9a3f00a2ed20b5e60514578f50967d36e90d154032"}
+{"ns":"paketo-buildpacks","name":"executable-jar","version":"6.17.3","yanked":false,"addr":"index.docker.io/paketobuildpacks/executable-jar@sha256:bebb19826a8c32622882ba06c4de1924bed84983adacc03c45522e7beb300729"}
