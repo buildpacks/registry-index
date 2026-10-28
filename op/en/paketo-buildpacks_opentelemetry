@@ -63,3 +63,4 @@
 {"ns":"paketo-buildpacks","name":"opentelemetry","version":"2.29.0","yanked":false,"addr":"docker.io/paketobuildpacks/opentelemetry@sha256:f2febb50b104c99c6611d9af3f8bedd0fd4555c44e8d58f72d26100ad60c1cce"}
 {"ns":"paketo-buildpacks","name":"opentelemetry","version":"2.30.0","yanked":false,"addr":"docker.io/paketobuildpacks/opentelemetry@sha256:70268930688022ea7f27397d095e6ad3a7cbca1c05ce1bdb80c1bba3222a53dc"}
 {"ns":"paketo-buildpacks","name":"opentelemetry","version":"2.31.0","yanked":false,"addr":"docker.io/paketobuildpacks/opentelemetry@sha256:3dab040317b731336a9ad089dc9804fee0554e71bb19704f6a38470a03febaa1"}
+{"ns":"paketo-buildpacks","name":"opentelemetry","version":"2.32.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/opentelemetry@sha256:f83be775743f022d6407d0f7dd25ddae2773ca454ecad47023d79c0c6be39e36"}
