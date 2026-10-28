@@ -64,3 +64,4 @@
 {"ns":"paketo-buildpacks","name":"apache-tomee","version":"1.20.2","yanked":false,"addr":"index.docker.io/paketobuildpacks/apache-tomee@sha256:e1daa4f88ecd27cd4ba1117c51aba9cf3d9cdc1030eef624a3de8b3b46db4ba2"}
 {"ns":"paketo-buildpacks","name":"apache-tomee","version":"1.20.3","yanked":false,"addr":"index.docker.io/paketobuildpacks/apache-tomee@sha256:c05ec726030236fa0fad12a8857408c1d903deb7393c608d627b5f7a29a89390"}
 {"ns":"paketo-buildpacks","name":"apache-tomee","version":"1.20.4","yanked":false,"addr":"index.docker.io/paketobuildpacks/apache-tomee@sha256:d7aa0f11c8d52dfa76d613786ae8db5faabbe8518e97c809580643ffb202c965"}
+{"ns":"paketo-buildpacks","name":"apache-tomee","version":"1.20.5","yanked":false,"addr":"index.docker.io/paketobuildpacks/apache-tomee@sha256:a19cc2793c96cb6776f95da74441c17b1ed928830ab869d8bb0aaab2950635f7"}
