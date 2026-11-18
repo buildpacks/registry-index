@@ -141,3 +141,4 @@
 {"ns":"paketo-buildpacks","name":"amazon-corretto","version":"9.8.1","yanked":false,"addr":"docker.io/paketobuildpacks/amazon-corretto@sha256:c644698954d8bb178c1aaeada95caa030e87141785e0ede1b326875783594329"}
 {"ns":"paketo-buildpacks","name":"amazon-corretto","version":"9.8.2","yanked":false,"addr":"docker.io/paketobuildpacks/amazon-corretto@sha256:773456079e91384b5bca49330ba4be505f12ba9e36b24176d6ce0330be545d82"}
 {"ns":"paketo-buildpacks","name":"amazon-corretto","version":"9.8.3","yanked":false,"addr":"docker.io/paketobuildpacks/amazon-corretto@sha256:f61259cf8f3ac355d328616b6a1e2eef0bc6d1c0d67ad6e4629725c6c45a0b8a"}
+{"ns":"paketo-buildpacks","name":"amazon-corretto","version":"9.8.4","yanked":false,"addr":"docker.io/paketobuildpacks/amazon-corretto@sha256:e302958c9f6199bd880d50d2854184b942c04a872a6b926d4ad83dc9edcb1a27"}
