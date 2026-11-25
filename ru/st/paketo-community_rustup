@@ -37,3 +37,4 @@
 {"ns":"paketo-community","name":"rustup","version":"1.17.4","yanked":false,"addr":"index.docker.io/paketocommunity/rustup@sha256:24d5be864f514a4e853542542e8885051aea5804a43094dfe71f189fc49ccae0"}
 {"ns":"paketo-community","name":"rustup","version":"1.17.5","yanked":false,"addr":"index.docker.io/paketocommunity/rustup@sha256:bba3fe71f4e51d8909ae9bc64d642fefdf9525d692207cb244e1beae532c1e5b"}
 {"ns":"paketo-community","name":"rustup","version":"1.17.6","yanked":false,"addr":"index.docker.io/paketocommunity/rustup@sha256:4eb73a3a25ec2226d3a9470481f8dd12b317e04d6f186c6751a1a42e9bd9443f"}
+{"ns":"paketo-community","name":"rustup","version":"1.17.7","yanked":false,"addr":"index.docker.io/paketocommunity/rustup@sha256:982ccc6603e4fb461496bcea6a72b6dd6aa64f3d66095a2254964d3ad69cdbea"}
