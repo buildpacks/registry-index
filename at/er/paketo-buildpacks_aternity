@@ -32,3 +32,4 @@
 {"ns":"paketo-buildpacks","name":"aternity","version":"5.10.2","yanked":false,"addr":"index.docker.io/paketobuildpacks/aternity@sha256:d255feaa741c8f16066197f5d044201fd03bab2879042453a0d89d0edaab9122"}
 {"ns":"paketo-buildpacks","name":"aternity","version":"5.10.3","yanked":false,"addr":"index.docker.io/paketobuildpacks/aternity@sha256:5364429cd36175d36b919b3d24368386faddd83f500bbad5c237483c9680cd0c"}
 {"ns":"paketo-buildpacks","name":"aternity","version":"5.10.4","yanked":false,"addr":"index.docker.io/paketobuildpacks/aternity@sha256:e4dbc5452202acee3b802490550c6633a031b09773cd450a04c44e74b2a5a6d6"}
+{"ns":"paketo-buildpacks","name":"aternity","version":"5.10.5","yanked":false,"addr":"index.docker.io/paketobuildpacks/aternity@sha256:b38ddab111a780a66f3ce01ec81cdcffc8713ec1dff1888ba685b259817d419a"}
