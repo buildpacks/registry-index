@@ -100,3 +100,4 @@
 {"ns":"paketo-buildpacks","name":"pip","version":"0.30.0","yanked":false,"addr":"index.docker.io/paketobuildpacks/pip@sha256:852f81007f949f6770c17f25aa43ca080f8e9bcb6280cd5ee130fb63533a844c"}
 {"ns":"paketo-buildpacks","name":"pip","version":"0.30.1","yanked":false,"addr":"index.docker.io/paketobuildpacks/pip@sha256:5c35d643a31c4820811b8e397a4f286c5fb389f014e78654836f8ae63befee9d"}
 {"ns":"paketo-buildpacks","name":"pip","version":"0.30.2","yanked":false,"addr":"index.docker.io/paketobuildpacks/pip@sha256:744b679c9b731883aba52e437c3310472e289c7fe4a7f900ec962ecaa42e8650"}
+{"ns":"paketo-buildpacks","name":"pip","version":"0.30.3","yanked":false,"addr":"index.docker.io/paketobuildpacks/pip@sha256:f66b811ceb3dc4142082bec3cccbf07a337b11ebbab2d49d35c73cc31cf614b2"}
