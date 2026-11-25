@@ -36,3 +36,4 @@
 {"ns":"paketo-buildpacks","name":"dynatrace","version":"5.13.2","yanked":false,"addr":"index.docker.io/paketobuildpacks/dynatrace@sha256:1a36a964fa9b7e23ad52e993945a64473098c828ead8a592a836e3d911100cb6"}
 {"ns":"paketo-buildpacks","name":"dynatrace","version":"5.13.3","yanked":false,"addr":"index.docker.io/paketobuildpacks/dynatrace@sha256:1f24025b196721465d9935665033f387ed3467635654ef20982e5be2f230ee8d"}
 {"ns":"paketo-buildpacks","name":"dynatrace","version":"5.13.4","yanked":false,"addr":"index.docker.io/paketobuildpacks/dynatrace@sha256:fa23d2b02ae331cdd6737261a2865b399caa3144e4e48586613bd8f92797cb3c"}
+{"ns":"paketo-buildpacks","name":"dynatrace","version":"5.13.5","yanked":false,"addr":"index.docker.io/paketobuildpacks/dynatrace@sha256:abe45acc97ea6b2b8e7659dceafbd3a22b6c047ab8d37c2ba156577bdd6185ab"}
